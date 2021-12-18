@@ -1,0 +1,792 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Policy Studies in Urban Education &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="grad"
+>
+    <div class="wrap">
+
+
+		<div class="banner-text">
+			<h2 id="banner-header">2020-2022 Graduate Catalog</h2>
+		</div>
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="active isparent"><a href="/gcat/">Graduate Catalog</a>
+	<ul class="nav levelone" id="/gcat/">
+		<li><a href="/gcat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/gcat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/gcat/graduate-study/">Graduate Study at UIC</a></li>
+		<li class="isparent"><a href="/gcat/degree-programs/">Degree Programs</a></li>
+		<li class="active isparent"><a href="/gcat/colleges-schools/">Colleges &amp;&#8203; Schools</a>
+		<ul class="nav leveltwo" id="/gcat/colleges-schools/">
+			<li class="isparent"><a href="/gcat/colleges-schools/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/dentistry/">College of Dentistry</a></li>
+			<li class="active isparent"><a href="/gcat/colleges-schools/education/">College of Education</a>
+			<ul class="nav levelthree" id="/gcat/colleges-schools/education/">
+				<li class="isparent"><a href="/gcat/colleges-schools/education/ci/">Curriculum and Instruction</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/education/early-child-ed/">Early Childhood Education</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/education/epsy/">Educational Psychology</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/education/inst-lead/">Instructional Leadership</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/education/language-literacies-learning/">Language, Literacies, and Learning</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/education/mesa/">Measurement, Evaluation, Statistics, and Assessment</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Policy Studies in Urban Education</a>
+				<ul class="nav levelfour" id="/gcat/colleges-schools/education/ps-urban-ed/">
+					<li><a href="/gcat/colleges-schools/education/ps-urban-ed/phd/">PhD in Policy Studies in Urban Education</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/gcat/colleges-schools/education/sci-ed/">Science Education</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/education/sped/">Special Education</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/education/urban-ed-lead/">Urban Education Leadership</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/education/urban-higher-education/">Urban Higher Education</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/education/youth-dev/">Youth Development</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/gcat/colleges-schools/engineering/">College of Engineering</a></li>
+			<li class="isparent"><a href="/gcat/graduate-college/">Graduate College</a></li>
+			<li><a href="/gcat/colleges-schools/law/">School of Law</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/medicine/">College of Medicine</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/social-work/">Jane Addams College of Social Work</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/gcat/colleges-schools/council-teacher-education/">Council on Teacher Education</a></li>
+			<li><a href="/gcat/colleges-schools/addl-opps/">Additional Opportunities for Graduate and Professional Study</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/gcat/course-descriptions/">Graduate Course Descriptions</a></li>
+		<li class="isparent"><a href="/gcat/graduate-college/">Graduate College</a></li>
+		<li><a href="/gcat/faculty/">Graduate Faculty</a></li>
+		<li><a href="/gcat/archive-links/">Archive &amp;&#8203; Links</a></li>
+		<li><a href="http://grad.uic.edu" target="_blank">Graduate College Website</a></li>
+		<li><a href="/gcat/facultytest/">Faculty Test</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/gcat/">Graduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/gcat/colleges-schools/">Colleges&nbsp;&amp;&nbsp;Schools</a><span class="crumbsep">/</span></li><li><a href="/gcat/colleges-schools/education/">College&nbsp;of&nbsp;Education</a><span class="crumbsep">/</span></li><li><span class="active">Policy Studies in Urban Education</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Policy Studies in Urban Education</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,degreerequirementstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="degreerequirementstexttab" role="presentation">
+<a href="#degreerequirementstextcontainer" role="tab" aria-controls="degreerequirementstextcontainer" onclick="return showSection('degreerequirementstext');" >Admission and Degree Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="texttab" aria-hidden="true">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="mailing_address"><span class="label"><strong>Mailing Address: </strong></span><br/>
+College of Education (MC 147)<br/>
+1040 West Harrison Street<br/>
+Chicago, IL 60607-7133</p>
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 3343 ETMSW <br/>
+<span class="phone">(312) 996-5650</span> <br/>
+<span class="email"><a href="mailto:psphd@uic.edu">psphd@uic.edu</a> </span><br/>
+<span class="website"><a href="http://education.uic.edu/">education.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Dean of the College of Education: Kathryn B. Chva​l<br/>
+Department Chairperson: Ben Superfine<br/>
+Director of Graduate Studies: Shelby Cosner<br/>
+Program Coordinators: David Mayrowetz (Educational Leadership and Policy strand) and Nicole Nguyen (Social Foundations strand)</p>
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br/>
+20FS1592PHD</p>
+<p>The College of Education offers course work which leads to the Doctor of Philosophy in Policy Studies in Urban Education with concentrations in (1) Educational Leadership and Policy and (2) Social Foundations of Education.</p>
+<p>Interdepartmental concentrations in Gender and Women's Studies and Violence Studies are available to students in this program.</p></div><!--end #textcontainer -->
+
+			<div id="degreerequirementstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="degreerequirementstexttab" aria-hidden="true">
+				<a name="degreerequirementstext"></a><h2>Admission and Degree Requirements</h2>
+<ul>
+	<li><a href="/gcat/colleges-schools/education/ps-urban-ed/phd/">PhD in Policy Studies in Urban Education</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><p><a href="#EDPS">Educational Policy Studies</a><br/>
+<a href="#EDU">Education</a></p>
+<h2><a id="EDPS" name="EDPS"></a>Educational Policy Studies Courses</h2>
+<div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 412.  Politics of Urban Education.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Relations between school governance and politics. The role of educational interest groups, school boards, professional educators, and citizens in formulation and execution of educational policy. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 415.  Current Controversies in Urban Higher Education.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines critical issues in urban higher education such as academic freedom, free speech, college affordability, alcohol/drugs, and student mental health, as well as the legal consequences of these and other issues. Course Information: 3 undergraduate hours. 4 graduate hours.  Prerequisite(s): Junior standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 449.  Early Childhood /Early Childhood Special Ed: Perspectives, Policies and History.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Perspectives, policies, history, and foundations of Early Childhood Education and Early Childhood Special Education. Emphasis on the effects of changing economic, political, legal, social, and views of human development. Course Information: Same as <a href="/search/?P=EPSY%20449" title="EPSY 449" class="bubblelink code" onclick="return showCourse(this, 'EPSY 449');">EPSY 449</a> and <a href="/search/?P=SPED%20449" title="SPED 449" class="bubblelink code" onclick="return showCourse(this, 'SPED 449');">SPED 449</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 453.  Topics in Educational Policy Studies.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics are announced at the time the class is scheduled. Course Information: 3 undergraduate hours. 4 graduate hours. May be repeated to a maximum of 12 hours.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 480.  Youth Culture Community Organizing and Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the tenets of community organizing in partnership with contemporary interpretations of youth culture as a means to interpret urban public education. Course Information: Prerequisite(s): Graduate standing; or consent of the instructor. Recommended background: Experience with working with youth in K-12 classrooms, community organizations, community centers, and faith-based groups.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 500.  City Schools: Education in the Urban Environment.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Cross-disciplinary, critical analysis of relationships between public schools and school districts and their urban environments, with attention to implications for school improvement. Course Information:  Prerequisite(s):  Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 501.  Education Finance and Budgeting.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Role of government, school boards, and community in funding education.  Principles of school and district financial planning, management, and analysis.  Equity issues in school finance.  Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 502.  Advanced Foundational Studies in Philosophy of Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced investigation of historical and emergent themes in philosophy of education, with specific attention to competing perspectives on human nature and knowing, methods of philosophic inquiry, and the nexus of democratic and educational theory. Course Information: Prerequisite(s): Enrollment in a doctoral program or consent of the instructor. Recommended background: <a href="/search/?P=ED%20402" title="ED 402" class="bubblelink code" onclick="return showCourse(this, 'ED 402');">ED 402</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 503.  History and Historiography in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An advanced critical analysis of the history of education in the United States, with specific attention to competing historical perspectives, historical methods of investigation, and the educational histories of different population groups.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 505.  Social Theory in Educational Foundations.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Investigates competing theoretical perspectives in the social foundations of education, addressing the evolution of social and educational theory. Course Information: Prerequisite(s): Enrollment in a doctoral program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 506.  Leadership, Instruction, and Policy in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines the relationships between instruction, educational leadership, and educational policy.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 510.  Introduction to Doctoral Education in Policy Studies.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Required doctoral seminar taken in the first year of doctoral study. It introduces students to doctoral education, theoretical perspectives and research problems in both concentrations of the Ph.D. program, Policy Studies in Urban Education. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Admission to the Ph.D. in Policy Studies in Urban Education program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 511.  Introduction to Academic Writing in Educational Policy Studies.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Assesses the academic writing skills of PhD students and introduces them to the various genres of writing they will be doing while completing coursework on the way to their dissertation. Course Information: Satisfactory/Unsatisfactory grading only. Admission to the Ph.D. in Policy Studies in Urban Education program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 512.  Data and Interpretation in Educational Policy Studies.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Methodology course providing students with basic understanding and skills in assessing, interpreting and representing quantitative and qualitative evidence in educational policy studies research. Students study research design and critique. Course Information: Prerequisite(s): <a href="/search/?P=ED%20500" title="ED 500" class="bubblelink code" onclick="return showCourse(this, 'ED 500');">ED 500</a> and enrollment in the Ph.D. in Policy Studies in Urban Education program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 515.  Urban Higher Education Organization and Context.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Study of historical and philosophical foundations as context for contemporary urban higher education. Examination of external influences (social, political, economic, technological, legal, and international) on urban higher education organizations. Prerequisites(s): Admission to MEd in Urban Higher Education or consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 517.  Administration and Governance of Urban Higher Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation of structures of governance and administration in urban higher education.  Examination of urban colleges and universities as complex organizations, and analysis of theories of leadership, advocacy, and change in urban higher education. Prerequisite(s): Admission to MEd in Urban Higher Education OR consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 518.  Students, Diversity, Equity, and Access in Urban Higher Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of issues related to diversity in urban higher education, equity, and student access and opportunity. Attention to race and ethnicity, gender, socioeconomic class, disability &amp; exceptionality, sexuality, sexual orientation &amp; religion. Prerequisite(s): Admission to MEd in Urban Higher Education OR consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 519.  Student Transitions to College.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of student expectations and preparation for college and an examination of how students make the transition to college, structures and initiatives that can support that transition, an impediments to entering and succeeding in college. Prerequisite(s): Admission to MEd in Urban Higher Education OR consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 520.  The City as Campus: Community Engagement and Interaction.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Critical analysis of relationships between urban universities and colleges and their environments and communities, with attention to implications for students, faculty, staff, and administrators. Prerequisite(s): Admission to the MEd in Urban Higher Education or consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 529.  Internship in Urban Higher Ed.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides on-site coaching, mentoring and classwork to support students' understanding of urban higher education and its challenges and opportunities. Facilities integration of coursework and understanding of leadership and change in higher education. Course Information: May be repeated for a maximum of 8 hours. Prerequisite(s): Admission to MEd in Urban Higher Education OR consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 530.  Seminar, Urban Higher Education in the 21st Century: Ideas and Opportunities.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Capstone course that brings together prior coursework supporting the academic and professional objectives of each student. Students will demonstrate mastery of content and program learning objectives through a culminating project. Prerequisite(s): <a href="/search/?P=EDPS%20515" title="EDPS 515" class="bubblelink code" onclick="return showCourse(this, 'EDPS 515');">EDPS 515</a> and <a href="/search/?P=EDPS%20517" title="EDPS 517" class="bubblelink code" onclick="return showCourse(this, 'EDPS 517');">EDPS 517</a> and <a href="/search/?P=EPSY%20516" title="EPSY 516" class="bubblelink code" onclick="return showCourse(this, 'EPSY 516');">EPSY 516</a> and <a href="/search/?P=EDPS%20518" title="EDPS 518" class="bubblelink code" onclick="return showCourse(this, 'EDPS 518');">EDPS 518</a>; admission to the MEd in Urban Higher Education OR consent of Instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 535.  Human Development for School Leaders.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Deepens school leaders' understanding of human development across the lifespan, from birth to adult learning in schools; includes attention to differentiated instruction, SpEd inclusion, and ELL learners in all age groups. Course Information: Same as <a href="/search/?P=EPSY%20535" title="EPSY 535" class="bubblelink code" onclick="return showCourse(this, 'EPSY 535');">EPSY 535</a>. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 543.  The Criminalization of Youth in Urban Schools.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Using contemporary social theory, this course investigates the disciplining, punishing, and criminalization of youth in urban schools, paying particular attention to the racialized, classed, gendered, and ableist contours of these social processes. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 544.  Research Design in Educational Policy Studies.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Alternative research design models and evaluation methodologies; quantitative and qualitative approaches;  ethnography; historiography; experimentation and quasi-experimentation; institutional and practitioner research designs and methods. Course Information: Prerequisite(s): Consent of the instructor or admission to the Ph.D. in Policy Studies in Urban Education, or the Ed.D. in Urban School Leadership.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 548.  Leading Improvement of Literacy Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Leadership development to promote effective reading and writing instruction across the curriculum with particular attention paid to effective organizational and instructional strategies for PreK-12 students. Course Information: Same as <a href="/search/?P=CI%20548" title="CI 548" class="bubblelink code" onclick="return showCourse(this, 'CI 548');">CI 548</a>. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 549.  Critical Pedagogy: Practice and Theory.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examine theory and practice of social justice teaching in schools, including: history liberatory pedagogies, culturally relevant and critical pedagogies, funds of knowledge, critical multiculturalism and anti-racist pedagogy, critical race theory.  Course Information:  Same as <a href="/search/?P=CI%20549" title="CI 549" class="bubblelink code" onclick="return showCourse(this, 'CI 549');">CI 549</a>.  Prerequisite(s):  Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 550.  Improving Education Organizations.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to theories, processes and leadership of organizational change in education. Particular emphasis is placed on alternative approaches to organizational change in schools, such as &quot;turnaround&quot; change and continuous improvement. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 551.  Cycles of Inquiry for Improving Schools.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces an integrated model of school assessment practices that bridges the gap between internal and external assessment; introduces descriptive statistics, data representation and cycles of inquiry as core drivers of continuous improvement. Course Information: Extensive computer use required. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 552.  Leading Urban Schools.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Describes the deep structure of conventional and transformational approaches to the principal's role in improving school leadership. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 553.  Leading Urban School Systems.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Leadership and management responsibilities of system-level administrators in urban school districts. Theory and research on system level leadership using case study analysis and field work with system administrators. Course Information: Prerequisite(s):  Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 555.  Political Economy of Urban Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Politics of urban school policy and practice.  Interest groups, school boards, educators, citizens, and governments as political actors.  Educational leadership in political context.  Course Information:  Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 556.  Leading Classroom Diagnostics and Interventions.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Instructional improvement role of educational leaders of urban schools. Human resource development, parent/community support, supportive organizational contexts. Strategic planning, implementation, and evaluation. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 557.  Developing Organizational and Leadership Capacity.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Assessment and development of organizational and leadership capacity in urban schools. Human resource development, parent/community support, supportive organizational contexts. Strategic planning, implementation, and evaluation. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 558.  Leading Improvement of Mathematics Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Leadership understandings that promote high quality mathematics instruction with particular attention to student and adult learning for early childhood, intermediate, middle school and high school levels. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 559.  Internship in Education Leadership.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Provides on-site coaching, mentoring and classwork to support students' entry into Ed.D. residency, facilitates integration of coursework and leadership practices, and intensifies leadership learning throughout the year.Course Information: 4 hours. May be repeated to a maximum of 8 hours. Extensive computer use required. Prerequisite(s): Consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 563.  Politics of Gender, Sexuality, and Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Cross-disciplinary examination of issues related to gender, sexuality, and sexual orientation in education, with critical attention paid to educational policy and practice. Course Information: Same as <a href="/search/?P=GWS%20563" title="GWS 563" class="bubblelink code" onclick="return showCourse(this, 'GWS 563');">GWS 563</a>. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 565.  Globalization and Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines implications of global economic, political, and cultural processes for educational policies and practices at local and national levels. Course Information: Prerequisite(s): Graduate standing; and consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 566.  Cultural Studies in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines origins, evolution, and current frameworks of cultural studies, with a focus on educational policy and practice. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 567.  Economics of Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the economics of education. Relates education and income, studies and conditions for efficient production of education, teacher markets and school finance. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 568.  Education and the Law.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Legal rights, responsibilities, and authority of students, parents, teachers, administrators, boards, and government units in relation to schools. Legal issues in education policy and practice. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 570.  Historical and Philosophical Analysis of Education Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Historical and philosophical research methodology in the study of educational policy. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 571.  The Education Policy Process.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Influences on the processes of educational policy making, adoption and implementation, with a focus on the school leaderâ€™s role. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 572.  Sociology of Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Education as a social institution in interaction with other institutions, such as the economy. Topics include the emergence of national systems of education, purposes of education, inequality and educational reform. Course Information: Same as <a href="/search/?P=SOC%20572" title="SOC 572" class="bubblelink code" onclick="return showCourse(this, 'SOC 572');">SOC 572</a>. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 573.  Seminar in Education Leadership Practice.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Budget and finance, strategic planning and decision making, communication, use of data and technology, parent/community relations, student support services. Different sections will focus on school-level and system-level administration. Course Information: May be repeated. 4 hours is required for the Illinois Type 75 certificate.  Additional hours may be needed for students to satisfy local school system administrator certification requirements (such as Chicago Public School's 1019 requirement). Prerequisite(s): Admission to the Ed.D. in Urban Educational Leadership program and consent of the instructor. Requires concurrent registration in <a href="/search/?P=EDPS%20559" title="EDPS 559" class="bubblelink code" onclick="return showCourse(this, 'EDPS 559');">EDPS 559</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 578.  Political Theory and Education Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Theoretical perspectives on the role of politics in the development of educational policy at the federal, state and local levels. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 579.  Organization Theory in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Organizational effectiveness and organizational improvement in education. Multi-disciplinary and historical perspectives and their application to understanding the nature and function of educational organizations. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 581.  Collective Bargaining in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Role of collective bargaining in governance, function, and improvement of school systems.  Models and processes of negotiation, engagement, and conflict resolution. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 582.  Cultural Pluralism and Education Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Social philosophical analysis of the theory of cultural pluralism, its relation to the liberal-experimentalist tradition in educational thought; selected equal educational opportunity policies; recent federal and state legislation on multicultural education. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 583.  Women in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+An overview of girl's and women's educational experiences and placement within the academic structure (as students, professionals and intellectuals). The impact of gender on the realization of educational, economic and social opportunities. Course Information: Same as <a href="/search/?P=GWS%20583" title="GWS 583" class="bubblelink code" onclick="return showCourse(this, 'GWS 583');">GWS 583</a>. Prerequisite(s): Consent of the instructor or enrollment in the Ph.D. in Policy Studies in Urban Education program.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 585.  Research Practicum in Educational Leadership.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Offers Ph.D. Students an opportunity to conduct action research in partnership with school practitioners to address problems of practice in school setting. Course Information: Field work required. Meets eight weeks of the semester. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 586.  Practitioner Inquiry for School Leaders.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Development and application of systems and protocols that support progressive cycles of formative assessment and institutional problem-solving; leadership development strategies for taking these systems to scale. Course Information: May be repeated to a maximum of 8 hours. Extensive computer use required. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 587.  Methods of Case Study Research.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Study and practice in documentary and field research methods of collecting, organizing and integrating educational data for case study.  Includes attention to interviewing, observation, ethnography, and historiography. Course Information: May be repeated to a maximum of 8 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 588.  Critical Race Theory: Race and Racism in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Examines theories of race and racism in education within the interdisciplinary construct of Critical Race Theory. Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 589.  Administrative and Leadership Theory in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to administrative and leadership theory, focusing particularly on issues of leadership and administration in organization context. Applies theory to understanding the effectiveness of leaders and leadership and to contemporary problems.Course Information: Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 591.  Professional Capstone Inquiry.  1-8 hours.</strong></p>
+<p class="courseblockdesc">
+Students design, implement, and analyze results of a research problem in this area of specialization. Completed study is reviewed by faculty. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated to a maximum of 12 hours. Prerequisite(s): Consent of studentâ€™s doctoral advisor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 592.  Professional Career Training in Education Policy Studies.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Faculty supervised training through university teaching, research or field-based practice. Course Information: May be repeated to a maximum of 20 hours. Prerequisite(s): Consent of the instructor and approval of the Department Chairperson.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 593.  Doctoral Research Project.  1-8 hours.</strong></p>
+<p class="courseblockdesc">
+Students design, implement, and analyze results of a research problem in this area of specialization. Completed study is reviewed by faculty. Course Information: May be repeated to a maximum of 8 hours. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 594.  Special Topics in Educational Policy.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of an area not covered in existing course offerings. Topics vary. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 596.  Independent Study in Educational Policy Studies.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Students carry out independent study in Educational Policy Studies under the direction of a faculty member. Course Information: May be repeated to a maximum of 12 hours. Students may register in more than one section per term. Prerequisite(s): Consent of the advisor and the Department Chairperson.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>EDPS 599.  Dissertation and Thesis Research in Educational Policy Studies.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research on the topic of the student's dissertation. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the dissertation advisor.<br/>
+</p>
+</div></div>
+<h2><a id="EDU" name="EDU"></a>Education Courses</h2>
+<div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>ED 402.  Philosophy of Education and Urban School Policy.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Selected social and education philosophies and their impact on urban school curriculum design, school organization and control.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 403.  Policy Issues in the History of American Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Political, economic, and cultural influences shaping the development of American education policy; emphasis on issues of education theory and practice in their historical settings.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 410.  Capstone Inquiry on Critical Issues in Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students design and complete projects connected to an educational issue, challenge, or theme.  Includes discussion of critical educational issues from cross-disciplinary perspectives. Designed to be a culminating experience. Course Information: Extensive computer use required. Prerequisite(s): Prior College of Education coursework and consent of instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 416.  Practical Inquiry I: Teacher Competencies and Performance-Based Assessment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to examining teaching through practitioner inquiry, including teacher performance assessment, as a way of learning to teach and beginning a lifelong process of professional development.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 417.  Practical Inquiry II: Teacher Competencies and Performance-Based Assessment.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A developing examination of teaching through practitioner inquiry, including teacher performance teacher assessment, as a way of learning to teach and fostering a lifelong process of professional development.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 421.  Advanced Educational Psychology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines current theory and research on the teaching-learning process with particular attention to general learning and curriculum-relevant problem solving skills. Course Information: Prerequisite(s): <a href="/search/?P=EPSY%20210" title="EPSY 210" class="bubblelink code" onclick="return showCourse(this, 'EPSY 210');">EPSY 210</a>; or graduate standing.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 422.  Advanced Developmental Psychology and Educational Processes.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Focuses on cognitive and social development from birth to early adolescence. Examines relations between development, learning, and educational processes. Course Information: Same as <a href="/search/?P=PSCH%20422" title="PSCH 422" class="bubblelink code" onclick="return showCourse(this, 'PSCH 422');">PSCH 422</a>. Prerequisite(s): <a href="/search/?P=PSCH%20100" title="PSCH 100" class="bubblelink code" onclick="return showCourse(this, 'PSCH 100');">PSCH 100</a> and any one from <a href="/search/?P=EPSY%20210" title="EPSY 210" class="bubblelink code" onclick="return showCourse(this, 'EPSY 210');">EPSY 210</a>, PSCH 259, <a href="/search/?P=PSCH%20320" title="PSCH 320" class="bubblelink code" onclick="return showCourse(this, 'PSCH 320');">PSCH 320</a> and consent of the instructor; or graduate standing.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 424.  Social and Emotional Learning: Research, Practice, and Policy.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Research, theory, educational practices, and federal/state policies that promote the social, emotional, and academic competence of students who are in preschool, middle school, or high school. Course Information: Same as <a href="/search/?P=PSCH%20424" title="PSCH 424" class="bubblelink code" onclick="return showCourse(this, 'PSCH 424');">PSCH 424</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=PSCH%20343" title="PSCH 343" class="bubblelink code" onclick="return showCourse(this, 'PSCH 343');">PSCH 343</a> or equivalent; or consent of the instructor. Recommended background: Experience working with children or adolescents.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 425.  Curriculum, Instruction, and Assessment in the Urban Secondary Classroom.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Developing professional practice that meets the diverse learning needs of students from different backgrounds and experiences. Course Information: Previously listed as ED 330. Field experience in urban schools is required. Prerequisite(s): Admission to an approved teacher licensure program in secondary education, and <a href="/search/?P=ED%20200" title="ED 200" class="bubblelink code" onclick="return showCourse(this, 'ED 200');">ED 200</a>, <a href="/search/?P=ED%20210" title="ED 210" class="bubblelink code" onclick="return showCourse(this, 'ED 210');">ED 210</a> and <a href="/search/?P=SPED%20410" title="SPED 410" class="bubblelink code" onclick="return showCourse(this, 'SPED 410');">SPED 410</a> , and consent of the instructor and Council of Teacher Education. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 430.  Curriculum and Teaching.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to curriculum and teaching as areas of inquiry; implications of these areas of inquiry for educational practice; related contemporary problems and issues. Course Information: Credit is not given for <a href="/search/?P=ED%20430" title="ED 430" class="bubblelink code" onclick="return showCourse(this, 'ED 430');">ED 430</a> if the student has credit for <a href="/search/?P=CI%20428" title="CI 428" class="bubblelink code" onclick="return showCourse(this, 'CI 428');">CI 428</a>. Prerequisite(s): Admission to graduate study in Education, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 431.  Improving Learning Environments.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of structural, normative, and social dimensions of learning environments and their relationships to student learning. Exploration of change processes to improve those environments. Course Information: Prerequisite(s): Graduate standing or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 432.  Instruction and Assessment in the Urban Secondary Classroom.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Learning to teach, how to plan for diverse learners, design differentiated instruction, assess student learning and develop classroom discipline. Course Information: Field experience in urban schools is required. Prerequisite(s): Completion of education core courses in Graduate Teacher Certification Program: <a href="/search/?P=ED%20402" title="ED 402" class="bubblelink code" onclick="return showCourse(this, 'ED 402');">ED 402</a> or <a href="/search/?P=ED%20403" title="ED 403" class="bubblelink code" onclick="return showCourse(this, 'ED 403');">ED 403</a> and <a href="/search/?P=ED%20445" title="ED 445" class="bubblelink code" onclick="return showCourse(this, 'ED 445');">ED 445</a>. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 445.  Adolescence and the Schools.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Physiological, intellectual, and social development of adolescence. Relations between aspects of adolescent development and the academic and social demands of secondary schools. Course Information: Prerequisite(s): <a href="/search/?P=EPSY%20210" title="EPSY 210" class="bubblelink code" onclick="return showCourse(this, 'EPSY 210');">EPSY 210</a>, or the equivalent, or graduate standing.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 450.  Pre-Student Teaching in the Urban Elementary Classroom, Fieldwork III: Arts, Health, and Physical Ed.  1-12 hours.</strong></p>
+<p class="courseblockdesc">
+This pre-student teaching experience immerses teacher candidates in classrooms in a supervised experience of learning to teach; and develop effective practices with an emphasis in arts, health and physical education. Course Information: May be repeated. Field work required. Field work: total of 180 hours, coordinated by the program director and in collaboration with field instructors. Prerequisite(s): Senior standing or above and admission to the Bachelor of Arts in Urban Education, Concentration in Elementary Education.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 451.  Student Teaching in the Urban Elementary Classroom: Fieldwork IV.  0-12 hours.</strong></p>
+<p class="courseblockdesc">
+Student teaching is a full-time experience of learning to teach in a classroom with university mentoring and supervision. Course Information: May be repeated. Field work required. Prerequisite(s): <a href="/search/?P=ED%20450" title="ED 450" class="bubblelink code" onclick="return showCourse(this, 'ED 450');">ED 450</a> and admission to the Bachelor of Arts in Urban Education, Concentration in Elementary Education and senior standing. Class Schedule Information: To be properly registered, students must enroll in one Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 461.  Political and Socio-Cultural Perspectives on Special Education.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will examine issues of access and equity through legislation, litigation, and socio-cultural perspectives and be introduced to major theoretical frameworks that influence special education programs. Course Information: Same as <a href="/search/?P=SPED%20461" title="SPED 461" class="bubblelink code" onclick="return showCourse(this, 'SPED 461');">SPED 461</a>. Field work required. Class Schedule Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 470.  Educational Practice with Seminar I.  0-12 hours.</strong></p>
+<p class="courseblockdesc">
+The first half of a two-segment sequence of practice teaching, including seminar, to meet certification requirements for teaching in grades six through twelve. Course Information: Graduate credit only with approval of the college. 1 to 12 hours. Prerequisite(s): Good academic standing in a teacher education program, completion of 100 clock hours of pre-student-teaching field experiences, and approval of the college or department of specialization. Class Schedule Information:  To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 471.  Educational Practice with Seminar II.  0-12 hours.</strong></p>
+<p class="courseblockdesc">
+The second half of a two-segment sequence of practice teaching, including seminar, to meet certification requirements for teaching in grades six through twelve. Course Information: Graduate credit only with approval of the college. 1 to 12 hours. Prerequisite(s): Good academic standing in a teacher education program, completion of 100 clock hours of pre-student-teaching field experiences, credit or concurrent registration in <a href="/search/?P=ED%20470" title="ED 470" class="bubblelink code" onclick="return showCourse(this, 'ED 470');">ED 470</a>, and approval of the college or department of specialization. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 472.  Promoting Academic and Prosocial Behavior I.  3 hours.</strong></p>
+<p class="courseblockdesc">
+The importance of school-wide and classroom structure and climate in the educational process. Strategies to promote academic success and desired social behavior. Course Information: Same as <a href="/search/?P=SPED%20472" title="SPED 472" class="bubblelink code" onclick="return showCourse(this, 'SPED 472');">SPED 472</a>. Field work required. Prerequisite(s): <a href="/search/?P=SPED%20461" title="SPED 461" class="bubblelink code" onclick="return showCourse(this, 'SPED 461');">SPED 461</a> or <a href="/search/?P=ED%20461" title="ED 461" class="bubblelink code" onclick="return showCourse(this, 'ED 461');">ED 461</a> or the equivalent or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 473.  Teaching Math and Science with Adaptations.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Provides prospective teachers with assessment strategies and a range of adaptations, modifications, and interventions in math and science for students with disabilities. Course Information: Same as <a href="/search/?P=SPED%20473" title="SPED 473" class="bubblelink code" onclick="return showCourse(this, 'SPED 473');">SPED 473</a>. Field work required. Prerequisite(s): <a href="/search/?P=SPED%20461" title="SPED 461" class="bubblelink code" onclick="return showCourse(this, 'SPED 461');">SPED 461</a>. Course Information: To be properly registered, students must enroll in one Lecture-Discussion and one Practice.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 500.  Philosophical Foundations of Educational Inquiry.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Philosophical foundations of various forms of educational inquiry. Epistemological and ethical dimensions of different research approaches. Course Information: Prerequisite(s): Admission to the Ph.D. in Education program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 501.  Data and Interpretation in Educational Inquiry.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Data, interpretation, reliability, validity, accuracy, stability, and generalizability from different methodological perspectives; how research design, data collection, and interpretation vary with different philosophical approaches. Course Information: Prerequisite(s): Admission to the Ph.D. in Education program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 502.  Essentials of Qualitative Inquiry in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Surveys methods for conceptualizing, gathering, managing, and interpreting qualitative data. Various ethnographic, historical, and narrative forms of inquiry are reviewed, as are the corresponding methods associated with each. Course Information: Extensive computer use required. Field work required. Prerequisite(s): Admission to the Ph.D. in Education program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 503.  Essentials of Quantitative Inquiry in Education.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduces theory and assumptions behind parametric statistics. Also provides hands-on experience in conducting basic quantitative research (t-test, correlation, regression, analysis of variance). Course Information: Same as <a href="/search/?P=EPSY%20503" title="EPSY 503" class="bubblelink code" onclick="return showCourse(this, 'EPSY 503');">EPSY 503</a>. Prerequisite(s): Admission to the Ph.D. in Education program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 504.  Urban Contexts and Educational Research.  4 hours.</strong></p>
+<p class="courseblockdesc">
+A multidisciplinary approach for understanding research on learners and learning, schools and schooling, families, and communities in urban contexts. Course Information: Extensive computer use required. Prerequisite(s): Admission to one of the PhD programs in the College of Education or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 505.  Introduction to Educational Research: Paradigms and Processes.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Offers a survey introduction to the history, contexts, paradigms and orientations, ethics, and processes of educational research. Course Information: Extensive computer use required. Prerequisite(s): Admission to one of the PhD programs in the College of Education or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 506.  Introduction to Educational Research: Designs and Analyses.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Offers researchers an introduction to research in the field of education. It is the second of a two-course sequence and will introduce students to different types of research designs and analyses in the field of education. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=ED%20505" title="ED 505" class="bubblelink code" onclick="return showCourse(this, 'ED 505');">ED 505</a> and admission to one of the PhD programs in the College of Education or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 542.  Advanced Qualitative Data Analysis.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Explores methods of computer-assisted inductive coding for qualitative data analysis and the design of qualitative research. Course Information: Same as <a href="/search/?P=EPSY%20542" title="EPSY 542" class="bubblelink code" onclick="return showCourse(this, 'EPSY 542');">EPSY 542</a>. Extensive computer use required. Laptop required. Prerequisite(s): <a href="/search/?P=ED%20502" title="ED 502" class="bubblelink code" onclick="return showCourse(this, 'ED 502');">ED 502</a> or equivalent.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 543.  Research on Teaching.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Review and analysis of history, paradigms, methods, and findings of research on teaching. Focus on the development of research questions and strategy. Course Information: Prerequisite(s): ED 490 or <a href="/search/?P=ED%20503" title="ED 503" class="bubblelink code" onclick="return showCourse(this, 'ED 503');">ED 503</a> or CIE 578; and consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 580.  Colloquium on Diversity in Secondary Education.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Designed to provide candidates with opportunities to interact with experts who deal with various issues of diversity in education, to discuss those issues with their cohorts, and to explore ways of meeting students' diverse needs. Course Information: Satisfactory/Unsatisfactory grading only.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 594.  Special Topics in Education.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Exploration of a topic not covered in existing course offerings. Course Information: May be repeated if topics vary. Students may register in more than one section per term. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>ED 596.  Independent Study.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Students independently study related topics not covered by course, under faculty supervision. Course Information: May be repeated. Students may register in more than one section per term. Prerequisite(s): Consent of the advisor.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2020-2021 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/gcat/colleges-schools/education/ps-urban-ed/ps-urban-ed.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2020-22-graduate.pdf" target="_blank">Download PDF of the entire Graduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

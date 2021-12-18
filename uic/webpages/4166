@@ -1,0 +1,423 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Biochemistry and Molecular Genetics &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="grad"
+>
+    <div class="wrap">
+
+
+		<div class="banner-text">
+			<h2 id="banner-header">2020-2022 Graduate Catalog</h2>
+		</div>
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="active isparent"><a href="/gcat/">Graduate Catalog</a>
+	<ul class="nav levelone" id="/gcat/">
+		<li><a href="/gcat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/gcat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/gcat/graduate-study/">Graduate Study at UIC</a></li>
+		<li class="isparent"><a href="/gcat/degree-programs/">Degree Programs</a></li>
+		<li class="active isparent"><a href="/gcat/colleges-schools/">Colleges &amp;&#8203; Schools</a>
+		<ul class="nav leveltwo" id="/gcat/colleges-schools/">
+			<li class="isparent"><a href="/gcat/colleges-schools/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/dentistry/">College of Dentistry</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/education/">College of Education</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/engineering/">College of Engineering</a></li>
+			<li class="isparent"><a href="/gcat/graduate-college/">Graduate College</a></li>
+			<li><a href="/gcat/colleges-schools/law/">School of Law</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="active isparent"><a href="/gcat/colleges-schools/medicine/">College of Medicine</a>
+			<ul class="nav levelthree" id="/gcat/colleges-schools/medicine/">
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/anat/">Anatomy and Cell Biology</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Biochemistry and Molecular Genetics</a>
+				<ul class="nav levelfour" id="/gcat/colleges-schools/medicine/bcmg/">
+					<li><a href="/gcat/colleges-schools/medicine/bcmg/phd/">PhD in Biochemistry and Molecular Genetics</a></li>
+				</ul>
+				</li>
+				<li><a href="/gcat/colleges-schools/medicine/cvsc/">Cardiovascular Science (Interdepartmental Graduate Concentration)</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/pcol/">Cellular and Molecular Pharmacology</a></li>
+				<li><a href="/gcat/colleges-schools/medicine/gems/">Graduate Education in Medical Sciences</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/hpe/">Health Professions Education</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/mbt/">Medical Biotechnology</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/mphys/">Medical Physiology</a></li>
+				<li><a href="/gcat/colleges-schools/medicine/mstp/">Medical Scientist Training Program</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/mim/">Microbiology and Immunology</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/path/">Pathology</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/psl/">Patient Safety Leadership</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/phyb/">Physiology and Biophysics</a></li>
+				<li><a href="/gcat/colleges-schools/medicine/md/">Medicine (Professional Program: MD)</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/gcat/colleges-schools/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/social-work/">Jane Addams College of Social Work</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/gcat/colleges-schools/council-teacher-education/">Council on Teacher Education</a></li>
+			<li><a href="/gcat/colleges-schools/addl-opps/">Additional Opportunities for Graduate and Professional Study</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/gcat/course-descriptions/">Graduate Course Descriptions</a></li>
+		<li class="isparent"><a href="/gcat/graduate-college/">Graduate College</a></li>
+		<li><a href="/gcat/faculty/">Graduate Faculty</a></li>
+		<li><a href="/gcat/archive-links/">Archive &amp;&#8203; Links</a></li>
+		<li><a href="http://grad.uic.edu" target="_blank">Graduate College Website</a></li>
+		<li><a href="/gcat/facultytest/">Faculty Test</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/gcat/">Graduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/gcat/colleges-schools/">Colleges&nbsp;&amp;&nbsp;Schools</a><span class="crumbsep">/</span></li><li><a href="/gcat/colleges-schools/medicine/">College&nbsp;of&nbsp;Medicine</a><span class="crumbsep">/</span></li><li><span class="active">Biochemistry and Molecular Genetics</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Biochemistry and Molecular Genetics</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,degreerequirementstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="degreerequirementstexttab" role="presentation">
+<a href="#degreerequirementstextcontainer" role="tab" aria-controls="degreerequirementstextcontainer" onclick="return showSection('degreerequirementstext');" >Admission and Degree Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="texttab" aria-hidden="true">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="mailing_address"><span class="label"><strong>Mailing Address: </strong></span><br/>
+Department of Biochemistry and Molecular Genetics (MC 669)<br/>
+900 South Ashland Avenue <br/>
+Chicago, IL 60607-7170</p>
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 2074 MBRB <br/>
+<span class="phone">(312) 996-7670</span> <br/>
+<span class="email"><a href="mailto:biochem@uic.edu">biochem@uic.edu</a></span> <br/>
+<span class="website"><a href="http://bcmg.com.uic.edu/">bcmg.com.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Head of the Department: Jack Kaplan<br/>
+Co-Directors of Graduate Studies: Alisa Katzen, Michael Caffrey </p>
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br/>
+20FS1069MS (MS) <br/>
+20FS4050PHD (PhD)</p>
+<p>The department participates in an integrated interdepartmental program, <a href="http://chicago.medicine.uic.edu/education/masters_and_doctorate_programs/graduate_education_in_medical_sciences___g_e_m_s_" target="_blank">Graduate Education in Medical Sciences (GEMS)</a>, which offers students flexibility in course work and laboratory rotations. Students entering the PhD program in the Department of Biochemistry and Molecular Genetics will take courses in the GEMS curriculum during the first year. This curriculum will provide students with a broad background in biochemistry, molecular genetics, and other biomedical sciences. In the second year and beyond, students will pursue their own specific scientific interests by taking a variety of advanced courses and by undertaking a research program under the mentorship of a departmental faculty member whom they have selected during their first-year research rotations.</p>
+<p>The Department of Biochemistry and Molecular Genetics also participates in the <a href="/gcat/colleges-schools/medicine/mstp/">Medical Scientist Training Program</a>. The department has active, well-funded research programs in the molecular biology of growth and development, oncogenesis, metabolic regulation, macromolecular structure and function, signal transduction, and the biochemical basis of diseases. The Interdepartmental Concentration in Neuroscience and the Interdepartmental Concentration in Cardiovascular Science are available to doctoral students.</p></div><!--end #textcontainer -->
+
+			<div id="degreerequirementstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="degreerequirementstexttab" aria-hidden="true">
+				<a name="degreerequirementstext"></a><h2>Admission and Degree Requirements</h2>
+<ul>
+	<li>MS in Biochemistry and Molecular Genetics (See listing for PhD in Biochemistry and Molecular Genetics)</li>
+	<li><a href="/gcat/colleges-schools/medicine/bcmg/phd/">PhD in Biochemistry and Molecular Genetics</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 411.  Introduction to Biological Chemistry.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Includes chemistry of cellular constituents; enzymology; metabolism of sugars, proteins, lipids, and nucleic acids; and regulation of metabolism. Course Information: Prerequisite(s): Organic chemistry. Lecture course designed primarily for students in the College of Dentistry. Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 501.  Faculty Research Seminars.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Faculty presentation of research areas within molecular genetics. Course Information: Satisfactory/Unsatisfactory grading only. Should be taken in the first year in the Ph.D. in Biochemistry and Molecular Genetics program. Prerequisite(s): Graduate standing in the Ph.D. in Biochemistry and Molecular Genetics program or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 502.  Somatic Cell and Human Genetics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+The genetics of somatic cells and advanced human genetics. Gene transfer, mutagenesis, drosophila genetics, genetic linkage and human disease, cancer genetics, and gene therapy. Course Information: Prerequisite(s):  GCLS 501 or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 503.  Research Methods in Biochemistry and Molecular Genetics.  5 hours.</strong></p>
+<p class="courseblockdesc">
+Laboratory course in experimental methods in biochemistry and molecular genetics. Course Information: May be repeated to a maximum of 10 hours. Prerequisite(s): Consent of the instructor. Open only to students entering as Ph.D. students in Biochemistry and Molecular Genetics.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 512.  Experimental Design and Analysis in Molecular Genetics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Methods and logic in the analysis of gene function, gene cloning, analysis of genetic changes, studies of gene expression, design of experimental controls. Course Information: Prerequisite(s):  GCLS 501 or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 513.  Principles of Structure Determination and Analysis.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Explores the relationship between structural stability, kinetic properties and function of biopolymers, with particular emphasis on proteins and nucleic acids. Course Information: Same as <a href="/search/?P=PMPG%20513" title="PMPG 513" class="bubblelink code" onclick="return showCourse(this, 'PMPG 513');">PMPG 513</a>. Prerequisite(s):  GCLS 501 and one year of physical chemistry, or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 514.  Structure and Function of Nucleic Acids.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Describes the structure and function of nucleic acids. Unravels the basic molecular mechanisms underlying heredity, including replication, transcription and recombination. Course Information: Prerequisite(s):  GCLS 501 or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 515.  Journal Club.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Student presentation and critical analysis of recent journal articles and current topics in biochemistry and molecular genetics. Course Information: May be repeated. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 522.  Strategies for Effective Scientific Communication.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Development of critical skills for evaluation, development, and execution of forms of scientific communication, including research and grant proposals, manuscripts describing original research, and review summaries. Course Information: Satisfactory/Unsatisfactory grading only. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 526.  Molecular and Genetic Analysis of Development.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Examines developmental mechanisms used in animal model systems.  Course Information: Same as <a href="/search/?P=BIOS%20526" title="BIOS 526" class="bubblelink code" onclick="return showCourse(this, 'BIOS 526');">BIOS 526</a>. Prerequisite(s): Graduate standing or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 531.  Medical Biochemistry and Nutrition.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Chemistry of Biopolymers; enzymology; metabolism of carbohydrates, Lipids, amino acids and proteins; molecular biology. Course Information: Intended for first year medical students. Prerequisite(s): Membership in the College of Medicine (COM) M1 medical school class. Intended/available only for first year medical students registered in the COM.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 533.  Nutrition for Medical Students.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Biochemical and nutritional basis of disease including heart  disease, hypertension,  obesity, malnutrition, and cancer.  Course Information:  Prerequisite(s): <a href="/search/?P=BCMG%20531" title="BCMG 531" class="bubblelink code" onclick="return showCourse(this, 'BCMG 531');">BCMG 531</a> and BCMG 532 and membership in the medical school or consent of the instructor. Intended primarily for medical students.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 561.  Biochemistry of Cellular Regulation.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Membrane structure and function, transport, receptor and signal transduction mechanisms and growth factors. Cytoskeleton and motility, cell-cell communication, enzyme cascades and cellular control mechanisms.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 563.  Principles of Molecular Medicine.  3 hours.</strong></p>
+<p class="courseblockdesc">
+A lecture/discussion/writing course which integrates biochemical and molecular biological concepts into a clinical context. Diseases will be described in terms of molecular mechanisms. Course Information: Prerequisite(s):  Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 575.  Topics in Biochemistry and Molecular Genetics.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Students will be exposed to, present , and discuss recent scientific literature in biochemistry and molecular genetics.  Course Information: May be repeated. Prerequisite(s):  Completion of the first year of the program and consent of the instructor.  Class Schedule Information:  To be properly registered, students must enroll in one Discussion and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 594.  Special Topics in Biochemistry and Molecular Genetics.  1-3 hours.</strong></p>
+<p class="courseblockdesc">
+Topics of current interest in the field of biochemistry and molecular genetics, and may include protein structure, membrane proteins and trafficking, development and gene regulation, signal transduction, and cancer biology. Course Information: May be repeated to a maximum of 6 hours. Students may register in more than one section per term.  Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 595.  Student Research Seminars.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Research presentations by graduate students in the biochemistry and molecular genetics program. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 598.  Masters Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Investigation carried out by M.S. candidate under the direction of a faculty member leading to the M.S. in Biochemistry and Molecular Genetics. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BCMG 599.  Ph.D. Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Independent dissertation research by the student, under the guidance of the adviser. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Prerequisite(s): Advanced standing in the Ph.D. in Biochemistry and Molecular Genetics program.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2020-2021 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/gcat/colleges-schools/medicine/bcmg/bcmg.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2020-22-graduate.pdf" target="_blank">Download PDF of the entire Graduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

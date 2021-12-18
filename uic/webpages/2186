@@ -1,0 +1,615 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>College of Engineering &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="ugrad"
+>
+    <div class="wrap">
+
+		<div class="banner-text">
+			<h2 id="banner-header">2021-2023 Undergraduate Catalog</h2>
+		</div>
+
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="active isparent self"><a href="#" onclick="return false;">College of Engineering</a>
+			<ul class="nav levelthree" id="/ucat/colleges-depts/engineering/">
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/bioe/">Biomedical Engineering</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/che/">Chemical Engineering</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/cme/">Civil, Materials, and Environmental Engineering</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/cs/">Computer Science</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/ece/">Electrical and Computer Engineering</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/mie/">Mechanical and Industrial Engineering</a></li>
+				<li class="isparent"><a href="/ucat/colleges-depts/engineering/addl-interdisciplinary-opps/">Additional Interdisciplinary Opportunities</a></li>
+			</ul>
+			</li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/ucat/colleges-depts/council-teacher-education/">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><span class="active">College of Engineering</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">College of Engineering</h1>
+
+
+
+<div id="textcontainer" class="page_content">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: 123 Science and Engineering Offices (SEO) <br/>
+<span class="phone">(312) 996-3463</span> <br/>
+<span class="website"><a href="http://engineering.uic.edu/">engineering.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Dean, Peter Nelson<br/>
+Associate Dean, Undergraduate Affairs, Miiri Kotche<br/>
+Assistant Dean, Undergraduate Affairs, James Muench<br/>
+Student Services: 123 SEO<br/>
+Academic Advising: 123 SEO (for appointments)<br/>
+Departments: Biomedical Engineering (BME), Chemical Engineering (CHE), Civil, Materials, and Environmental Engineering (CME), Computer Science (CS), Electrical and Computer Engineering (ECE), and Mechanical and Industrial Engineering (MIE)</p>
+<div class="notinpdf onthispage" name="otp1"><div class="otp-title">On This Page</div><ul><ul><li><a href="#text" nav-id="0" otp-id="1" onClick="showSection('text', this);">Mission of the College</a></li><li><a href="#text" nav-id="1" otp-id="1" onClick="showSection('text', this);">Undergraduate Study in Engineering</a></li><li><a href="#text" nav-id="2" otp-id="1" onClick="showSection('text', this);">Educational Objectives</a></li></ul><li><a href="#text" nav-id="3" otp-id="1" onClick="showSection('text', this);">Accreditation</a></li><li><a href="#text" nav-id="4" otp-id="1" onClick="showSection('text', this);">Degree Requirements</a><ul><li><a href="#text" nav-id="5" otp-id="1" onClick="showSection('text', this);">Semester Hour Requirement</a></li><li><a href="#text" nav-id="6" otp-id="1" onClick="showSection('text', this);">Course Requirements</a></li><li><a href="#text" nav-id="7" otp-id="1" onClick="showSection('text', this);">Other Requirements</a></li></ul><li><a href="#text" nav-id="8" otp-id="1" onClick="showSection('text', this);">College Policies</a><ul><li><a href="#text" nav-id="9" otp-id="1" onClick="showSection('text', this);">Academic Load</a></li><li><a href="#text" nav-id="10" otp-id="1" onClick="showSection('text', this);">Academic Probation and Dismissal Rules</a></li><li><a href="#text" nav-id="11" otp-id="1" onClick="showSection('text', this);">Change of Course Schedule—Dropping Courses</a></li><li><a href="#text" nav-id="12" otp-id="1" onClick="showSection('text', this);">Changes within a Major</a></li><li><a href="#text" nav-id="13" otp-id="1" onClick="showSection('text', this);">Class Attendance</a></li><li><a href="#text" nav-id="14" otp-id="1" onClick="showSection('text', this);">Course Prerequisites</a></li><li><a href="#text" nav-id="15" otp-id="1" onClick="showSection('text', this);">Credit/No Credit Option</a></li><li><a href="#text" nav-id="16" otp-id="1" onClick="showSection('text', this);">Declaring a Major</a></li><li><a href="#text" nav-id="17" otp-id="1" onClick="showSection('text', this);">Double Major, Double Degrees, and Second Bachelor’s Degree</a></li><li><a href="#text" nav-id="18" otp-id="1" onClick="showSection('text', this);">Application of Military Science Credits Toward the Degree</a></li><li><a href="#text" nav-id="19" otp-id="1" onClick="showSection('text', this);">Graduate-Level Courses for Undergraduate Credit</a></li><li><a href="#text" nav-id="20" otp-id="1" onClick="showSection('text', this);">Proficiency Examinations</a></li><li><a href="#text" nav-id="21" otp-id="1" onClick="showSection('text', this);">Registration Approval</a></li><li><a href="#text" nav-id="22" otp-id="1" onClick="showSection('text', this);">Repeat Policy for Standard Graded Courses</a></li><li><a href="#text" nav-id="23" otp-id="1" onClick="showSection('text', this);">Transferring</a></li><li><a href="#text" nav-id="24" otp-id="1" onClick="showSection('text', this);">Undergraduate Research in Engineering</a></li></ul><li><a href="#text" nav-id="25" otp-id="1" onClick="showSection('text', this);">Minors</a><ul><li><a href="#text" nav-id="26" otp-id="1" onClick="showSection('text', this);">Requirements for the Minor</a></li><li><a href="#text" nav-id="27" otp-id="1" onClick="showSection('text', this);">Admission to an Engineering Minor</a></li><li><a href="#text" nav-id="28" otp-id="1" onClick="showSection('text', this);">Engineering Minors for Nonengineering Students</a></li><li><a href="#text" nav-id="29" otp-id="1" onClick="showSection('text', this);">Minor Areas Outside of Engineering for Engineering Students</a></li><li><a href="#text" nav-id="30" otp-id="1" onClick="showSection('text', this);">Area of Concentration</a></li></ul><li><a href="#text" nav-id="31" otp-id="1" onClick="showSection('text', this);">Academic Advising</a><ul><li><a href="#text" nav-id="32" otp-id="1" onClick="showSection('text', this);">Advising Policy</a></li></ul><li><a href="#text" nav-id="33" otp-id="1" onClick="showSection('text', this);">Academic Honors</a><ul><li><a href="#text" nav-id="34" otp-id="1" onClick="showSection('text', this);">University Honors</a></li><li><a href="#text" nav-id="35" otp-id="1" onClick="showSection('text', this);">Dean’s List</a></li></ul><li><a href="#text" nav-id="36" otp-id="1" onClick="showSection('text', this);">Special Programs and Opportunities</a><ul><li><a href="#text" nav-id="37" otp-id="1" onClick="showSection('text', this);">Engineering Career Center (ECC)</a></li><li><a href="#text" nav-id="38" otp-id="1" onClick="showSection('text', this);">Equity and Inclusion in Engineering Program (EIEP)</a></li><li><a href="#text" nav-id="39" otp-id="1" onClick="showSection('text', this);">Women in Engineering Programs (WIEP)</a></li></ul><li><a href="#text" nav-id="40" otp-id="1" onClick="showSection('text', this);">Student Organizations</a></li></li></li></li></li></li></li></ul></div>
+<hr/>
+<p>​<a id="a" name="a"></a><strong>Introduction</strong></p>
+<p>The College of Engineering offers degree programs in engineering, computer science, and data science. These degree programs prepare men and women for one or more of the many career opportunities in the engineering or computer science professions, such as those in design, production, research, development, management, or sales. An engineering, computer science or data science education also prepares a student for further study in medicine, law, business administration, and other areas.</p>
+<p>Instruction in the college is complemented by intensive research activity by most of the faculty. Research is directed toward supporting the educational programs of the college, solving contemporary technological problems, and extending the frontiers of scientific knowledge. This continuing research activity helps to ensure the integrity and progressive evolution of instructional programs at all levels. In conjunction with their teaching and research, many of the faculty also engage in public service activities in the community and in government on the local, state, and federal levels.</p>
+<h3 headerid="0" name="text"><a id="a1" name="a1"></a>Mission of the College</h3>
+<p>UIC Engineering’s mission is <strong>access to excellence and success</strong>. We educate students to innovate and to lead. We expand global knowledge of the engineering field through excellence in original research. In addition, as a public institution we prioritize our relationship with the city of Chicago and the state of Illinois. We foster strong local partnerships, provide crucial engineering expertise and facilities, and serve as a major economic driver for the region.</p>
+<p><strong>Our current priorities include:</strong></p>
+<ul>
+	<li>Recruiting bright students with unique stories and talents</li>
+	<li>Attracting and retaining world-class teachers and researchers</li>
+	<li>Building top-tier facilities</li>
+	<li>Creating a strong alumni community</li>
+	<li>Establishing strong partnerships with government, industry, and academia</li>
+</ul>
+<h3 headerid="1" name="text"><a id="a2" name="a2"></a>Undergraduate Study in Engineering</h3>
+<p>A primary goal of the UIC College of Engineering is to ensure that its students are well prepared for:</p>
+<ol>
+	<li>Practice in the engineering profession;</li>
+	<li>Continued formal education at the graduate level; and</li>
+	<li>Continued education to adapt to evolving technologies and changing markets.</li>
+</ol>
+<p>College faculty and administration are continually reevaluating and revising curricula so that engineering and computer science degree programs consistently incorporate the changes that are occurring in technology and society.</p>
+<p>The college attracts students and faculty who represent a broad spectrum of nationalities, cultures, races, ages, and genders. Diversity is also reflected in the number and types of employment opportunities available to students. Area corporate partnerships support co-op and internship experiences that are tailored to individual student needs.</p>
+<h3 headerid="2" name="text"><a id="a3" name="a3"></a>Educational Objectives</h3>
+<p>The UIC College of Engineering offers undergraduate and graduate students opportunities to join faculty in cutting-edge research. In the classroom, students become familiar with the fundamental mathematical and scientific principles that are common to engineering and computer science disciplines, and they learn to apply these principles to current engineering and computer science problems of analysis, design, and experimentation. Through individual and group projects, students make use of current techniques, instruments, equipment, and computers, and gain proficiency in communicating the results of their work. Study in other disciplines provides students with an understanding of the professional ethical responsibilities of practicing engineers. Students also have the opportunity to participate in a number of the many on-campus student chapters of national engineering professional organizations as a way to supplement their classroom experiences.</p>
+<p>In the first two years, each student will be required to complete courses in mathematics, chemistry and physics (or other science requirements, for computer science majors), and University Writing. Beginning in the second year, the student will start course work in a particular major that represents the technical phase of the student’s academic career and constitutes a cohesive program of advanced work in a chosen field. Although the course work in the major becomes progressively specialized in the junior and senior years, each student is also required to take engineering or computer science courses outside of his or her chosen field.</p>
+<p>A student must also complete course work in the general fields of humanities and social sciences. Because engineers and computer scientists are no longer narrow specialists, they must recognize the effects of their work on the general welfare of society. The humanities/social sciences phase of their education helps them to become serious contributors to the quality of life. Requirements for the degrees often include free electives that introduce flexibility into the curricula.</p>
+<h2 headerid="3" name="text"><a id="b" name="b"></a>Accreditation</h2>
+<p>Nine undergraduate degree programs of the College of Engineering are accredited by the</p>
+<p>Accreditation Board for Engineering and Technology (ABET)</p>
+<p>415 North Charles Street<br/>
+Baltimore, Maryland 21201<br/>
+(410) 347-7700<br/>
+<a href="http://www.abet.org/" target="_blank">http://www.abet.org</a></p>
+<p>Those programs receiving approval by the Engineering Accreditation Commission (EAC) of ABET include bioengineering, chemical engineering, civil engineering, computer engineering, electrical engineering, engineering physics, industrial engineering, and mechanical engineering. The Computing Accreditation Commission (CAC) of ABET has accredited the program in computer science. Accreditation has not been sought for the interdisciplinary program engineering management.</p>
+<h2 headerid="4" name="text"><a id="c" name="c"></a>Degree Requirements</h2>
+<p>To earn a BS degree from the College of Engineering at UIC, students need to complete university, college, and department degree requirements. University and college degree requirements for all College of Engineering students are outlined below. Students should consult their department section for additional degree requirements.</p>
+<h3 headerid="5" name="text"><a id="c1" name="c1"></a>Semester Hour Requirement</h3>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugsemesterhourrqrmt" summary="UG Semester Hour Requirement">
+<caption class="hidden noscript">UG Semester Hour Requirement</caption>
+<colgroup><col class="column0"/><col class="column1"/><col class="column2"/><col class="column3"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Degree Program</th>
+<th scope="col" class="column1">School/Department</th>
+<th scope="col" class="column2">Degree Conferred</th>
+<th scope="col" class="column3">Total Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Biomedical Engineering</td>
+<td class="column1">Biomedical Engineering</td>
+<td class="column2">BS in Biomedical Engineering</td>
+<td class="column3">128</td>
+</tr>
+<tr class="odd"><td class="column0">Chemical Engineering </td>
+<td class="column1">Chemical Engineering </td>
+<td class="column2">BS in Chemical Engineering </td>
+<td class="column3">128</td>
+</tr>
+<tr class="even"><td class="column0">Civil Engineering </td>
+<td class="column1">Civil, Materials, and Environmental Engineering</td>
+<td class="column2">BS in Civil Engineering </td>
+<td class="column3">128</td>
+</tr>
+<tr class="odd"><td class="column0">Computer Engineering</td>
+<td class="column1">Electrical and Computer Engineering</td>
+<td class="column2">BS in Computer Engineering</td>
+<td class="column3">128</td>
+</tr>
+<tr class="even"><td class="column0">Computer Science </td>
+<td class="column1">Computer Science </td>
+<td class="column2">BS in Computer Science 	</td>
+<td class="column3">128</td>
+</tr>
+<tr class="odd"><td class="column0">Computer Science and Design</td>
+<td class="column1">Computer Science</td>
+<td class="column2">BS in Computer Science and Design</td>
+<td class="column3">122</td>
+</tr>
+<tr class="even"><td class="column0">Data Science</td>
+<td class="column1">Computer Science</td>
+<td class="column2">BS in Data Science</td>
+<td class="column3">120</td>
+</tr>
+<tr class="odd"><td class="column0">Electrical Engineering</td>
+<td class="column1">Electrical and Computer Engineering</td>
+<td class="column2">BS in Electrical Engineering 	</td>
+<td class="column3">128</td>
+</tr>
+<tr class="even"><td class="column0">Engineering Management<sup>a</sup></td>
+<td class="column1">Mechanical and Industrial Engineering </td>
+<td class="column2">BS in Engineering Management </td>
+<td class="column3">128</td>
+</tr>
+<tr class="odd"><td class="column0">Engineering Physics<sup>b</sup></td>
+<td class="column1">Electrical and Computer Engineering </td>
+<td class="column2">BS in Engineering Physics</td>
+<td class="column3">128</td>
+</tr>
+<tr class="even"><td class="column0">Industrial Engineering</td>
+<td class="column1">Mechanical and Industrial Engineering</td>
+<td class="column2">BS in Industrial Engineering</td>
+<td class="column3">128</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">Mechanical Engineering</td>
+<td class="column1">Mechanical and Industrial Engineering </td>
+<td class="column2">BS in Mechanical Engineering </td>
+<td class="column3">128</td>
+</tr>
+</tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Offered jointly with the College of Business Administration.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>Offered jointly with the Department of Physics in the College of Liberal Arts and Sciences.</em></p></td></tr></table>
+<h3 headerid="6" name="text"><a id="c2" name="c2"></a>Course Requirements</h3>
+<h4>General Education Core</h4>
+<p>General Education at UIC is designed to serve as a foundation for lifelong learning. Students are required to complete a minimum of 24 semester hours in the General Education Core with at least one course from each of the following categories:</p>
+<ol>
+	<li>Analyzing the Natural World</li>
+	<li>Understanding the Individual and Society</li>
+	<li>Understanding the Past</li>
+	<li>Understanding the Creative Arts</li>
+	<li>Exploring World Cultures</li>
+	<li>Understanding U.S. Society</li>
+</ol>
+<p>For a description and a list of courses for each General Education Core category, students should consult the <a href="/ucat/degree-programs/general-education/"><em>General Education</em></a><em> </em>section of the catalog. Information on meeting the General Education requirements for each degree program is provided in the College of Engineering department sections.</p>
+<h4>General Education Proficiencies—University Writing Requirement</h4>
+<p>College of Engineering students meet the requirement by achieving a passing grade in <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> and <span class="sc_courseinline"><a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></span>. Credit for <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> may be earned on the basis of a score of 3, 4, or 5 on the AP English Language and Composition exam, an ACT English subscore of 27 or higher, an SAT Evidence-Based Critical Reading score of 630 or higher (2017 or after). Students should consult the <a href="/ucat/admissions-registration-finances/registering-enrolling/"><em>Registering and Enrolling in Courses at UIC</em></a> and <a href="/ucat/degree-programs/academic-standing/"><em>Academic Standing</em></a> sections for more information on required scores.</p>
+
+<h4>Orientation Course Requirement</h4>
+<p>All incoming freshmen and transfer students must take an engineering orientation course <span class="sc_courseinline"><a href="/search/?P=ENGR%20100" title="ENGR 100" class="bubblelink code" onclick="return showCourse(this, 'ENGR 100');">ENGR 100</a></span> during the first or second term at UIC. Satisfactory completion of the engineering orientation course is a graduation requirement.</p>
+
+<h4>Recommended First-Year Program</h4>
+<table class="sc_courselist" width="100%">
+<caption class="hidden noscript">Course List</caption>
+<colgroup>
+<col class="codecol"/>
+<col class="titlecol"/>
+<col align="char" char="." class="hourscol"/>
+</colgroup>
+<thead>
+<tr class="hidden noscript">
+<th scope="col">Code</th>
+<th scope="col">Title</th>
+<th scope="col" class="hourscol">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td colspan="2"><span class="courselistcomment">Engineering Orientation</span> <sup>a</sup></td><td class="hourscol">1</td></tr>
+<tr class="odd"><td class="codecol"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a><br/><span style="margin-left:20px;" class="blockindent">&amp; <a href="/search/?P=ENGL%20161" title="ENGL 161" class="bubblelink code" onclick="return showCourse(this, 'ENGL 161');">ENGL 161</a></span></td><td>Academic Writing I: Writing in Academic and Public Contexts<br/><span style="margin-left:20px;" class="blockindent">and Academic Writing II: Writing for Inquiry and Research</span></td><td class="hourscol">6</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Chemistry (Computer Science majors may take Biological Sciences or Earth and Environmental Sciences)</span> <sup>b</sup></td><td class="hourscol">5</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Mathematics</span> <sup>c</sup></td><td class="hourscol">8</td></tr>
+<tr class="even"><td colspan="2"><span class="courselistcomment">Physics (Computer Science majors may take Biological Sciences or Earth and Environmental Sciences)</span></td><td class="hourscol">4</td></tr>
+<tr class="odd"><td colspan="2"><span class="courselistcomment">Engineering/computer course</span></td><td class="hourscol">3</td></tr>
+<tr class="even lastrow"><td colspan="2"><span class="courselistcomment">General Education Core courses</span></td><td class="hourscol">0-6</td></tr>
+<tr class="listsum"><td colspan="2">Total Hours</td><td class="hourscol">26-32</td></tr></tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em><span class="sc_courseinline"><a href="/search/?P=ENGR%20100" title="ENGR 100" class="bubblelink code" onclick="return showCourse(this, 'ENGR 100');">ENGR 100</a></span> is a one-semester-hour course, but the hour does not count toward the total hours required for graduation. However, the hour does count in the calculation of tuition and toward full- or part-time enrollment status and financial aid eligibility. The course must be taken in the first or second term at UIC.</em></p></td></tr><tr><td valign="top" class="symcol">b</td><td class="notecol"><p><em>The normal chemistry requirement is <span class="sc_courseinline"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></span> for students who pass the placement examination in chemistry. Students who do not pass the examination may be required to take <span class="sc_courseinline"><a href="/search/?P=CHEM%20101" title="CHEM 101" class="bubblelink code" onclick="return showCourse(this, 'CHEM 101');">CHEM 101</a></span>.</em></p></td></tr><tr><td valign="top" class="symcol">c</td><td class="notecol"><p><em>The beginning mathematics course in the College of Engineering is <span class="sc_courseinline"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></span></em><em> for students who pass the mathematics placement examination. Students who do not pass the examination will be placed in specific preparatory mathematics courses by the mathematics department.</em></p></td></tr></table>
+<h3 headerid="7" name="text"><a id="c3" name="c3"></a>Other Requirements</h3>
+<h4>Course Work Limitations</h4>
+<p>For the degree of Bachelor of Science, between 120-128 semester hours acceptable to the College of Engineering is required for graduation. (See individual majors for the specific hours required for graduation.)</p>
+<p>Course work that duplicates previous credit does not count toward graduation; no credit is given for a course in which a failing grade is received.</p>
+<p>Credit earned in <span class="sc_courseinline"><a href="/search/?P=ENGL%20060" title="ENGL 060" class="bubblelink code" onclick="return showCourse(this, 'ENGL 060');">ENGL 060</a></span>, <span class="sc_courseinline"><a href="/search/?P=ENGL%20070" title="ENGL 070" class="bubblelink code" onclick="return showCourse(this, 'ENGL 070');">ENGL 070</a></span> or <span class="sc_courseinline"><a href="/search/?P=ENGL%20071" title="ENGL 071" class="bubblelink code" onclick="return showCourse(this, 'ENGL 071');">ENGL 071</a></span> does not count toward graduation in the college, except in the following way: students may earn 3 semester hours of credit in <span class="sc_courseinline"><a href="/search/?P=ENGL%20070" title="ENGL 070" class="bubblelink code" onclick="return showCourse(this, 'ENGL 070');">ENGL 070</a></span> or <span class="sc_courseinline"><a href="/search/?P=ENGL%20071" title="ENGL 071" class="bubblelink code" onclick="return showCourse(this, 'ENGL 071');">ENGL 071</a></span> and a waiver of <span class="sc_courseinline"><a href="/search/?P=ENGL%20160" title="ENGL 160" class="bubblelink code" onclick="return showCourse(this, 'ENGL 160');">ENGL 160</a></span> for the term in which they receive written authorization from the Department of English.</p>
+
+<p>Credit for graduation is not given by the College of Engineering for courses numbered below <span class="sc_courseinline"><a href="/search/?P=CHEM%20116" title="CHEM 116" class="bubblelink code" onclick="return showCourse(this, 'CHEM 116');">CHEM 116</a></span>, <span class="sc_courseinline"><a href="/search/?P=PHYS%20141" title="PHYS 141" class="bubblelink code" onclick="return showCourse(this, 'PHYS 141');">PHYS 141</a></span>, and <span class="sc_courseinline"><a href="/search/?P=MATH%20180" title="MATH 180" class="bubblelink code" onclick="return showCourse(this, 'MATH 180');">MATH 180</a></span>; such preparatory courses cannot be used as nonmajor electives or free electives.</p>
+
+<p>All courses will be used when determining a student’s full-time or part-time status; for computing grade point averages (except for 000-level courses); and in determining probation, dismissal, and Dean’s List statuses.</p>
+<h4>Free Elective Credit</h4>
+<p>Students in some majors must complete 1–14 semester hours in free elective courses to reach the120 -128 required for degrees in the College of Engineering. These hours are in addition to specific types of elective groups (humanities, social science, nonmajor-rubric, additional math, technical, or area electives). These free elective courses may be technical or nontechnical, but remedial or duplicative courses are not allowed. A maximum of 2 semester hours of free elective credit in kinesiology is allowed. </p>
+<h4>Grade Point Average (GPA) Requirement</h4>
+<p>In order to receive a degree from the College of Engineering, a student must present a minimum grade point average of 2.00/4.00 in all work in the major. In addition, the student must satisfy the UIC requirement of a 2.00/4.00 grade point average in two categories:</p>
+<ol>
+	<li>all work taken at UIC;</li>
+	<li>all work taken at UIC and all other two- and four-year institutions combined.</li>
+</ol>
+<h4>Graduation Declaration/Filing to Graduate</h4>
+<p>Students declare their intent to graduate online using <em>my.UIC</em>. The deadline for submission to the Pending Degree List is the end of the third week (fall and spring) or second week (Summer Session 2) of the term in which graduation is sought. Failure to submit the request at this time may delay the awarding of the degree. A final review will be made following the close of the term. If a student has satisfactorily completed all the degree requirements, the student’s name will be placed on the official degree list.</p>
+<h4>Enrollment Residence Requirement</h4>
+<p>Either the first 90 or the last 30 semester hours of degree work must be completed in continuous, uninterrupted enrollment residence at UIC. In addition, at least one-half of the semester hours required in the student’s major area of study must be completed at UIC. Concurrent attendance at the University of Illinois Chicago and another collegiate institution or enrollment during the summer at another institution, when approved by the student’s college, does not interrupt the UIC enrollment residence requirement for graduation. Work taken at the Urbana-Champaign or Springfield campuses of the University of Illinois cannot be used to satisfy this requirement. Credit earned through proficiency examinations, including credit earned through the College Level Examination Program (CLEP), UIC extension courses, and Urbana-Champaign correspondence courses does not apply toward nor interrupt the enrollment residence requirement.</p>
+<h4>Transfer Credit Limitations</h4>
+<p>The College of Engineering requires that of the 120 -128 semester hours needed for the degree, at least 60 semester hours must be taken at UIC or another accredited four-year institution; the university enrollment residence requirement (see above) must also be satisfied. For most transfer students, these requirements mean that additional transfer credits from junior (or community) colleges are severely restricted or not permitted.</p>
+<p>Upper-division (300- and 400-level) courses in ABET-accredited engineering, computer science, and data science majors can be transferred only from other ABET-accredited engineering or computer science programs. This limits transfer of credits from junior colleges, U.S. vocational or technology programs, and overseas programs to lower-division (100- and 200-level) courses.</p>
+<p>All transferable courses must have a grade of C or better in order to be considered for credit toward a degree in the College of Engineering.</p>
+<h4>Transfer Credit for Continuing Students</h4>
+<p>Continuing students planning to take non-UIC courses must get prior approval from the College of Engineering.</p>
+<h4>Military Science Credits Toward the Degree</h4>
+<p>The College of Engineering <a href="https://catalog.uic.edu/ucat/degree-programs/univ-degree-requirements-graduation/#application-military-science-credits">applies earned credits in Military Science courses</a> as elective credit in accordance with UIC policy.</p>
+<h2 headerid="8" name="text"><a id="d" name="d"></a>College Policies</h2>
+<h3 headerid="9" name="text"><a id="d1" name="d1"></a>Academic Load</h3>
+<p>During the fall and spring semesters, a full-time program is 12 to 18 semester hours. More than 18 semester hours is considered an overload and students must seek approval by filing a petition form from the  <a href="https://engineering.uic.edu/undergraduate/resources/" target="_blank">College of Engineering Student Resource page</a>. For Summer Session 1 (Four-Week) and Summer Session 2 (Eight-Week), UIC considers a total aggregate of 6 semester hours as the minimum number necessary to constitute full-time enrollment. Students seeking to take more than 9 semester hours during the summer should file a petition in 123 SEO.</p>
+<h3 headerid="10" name="text"><a id="d2" name="d2"></a>Academic Probation and Dismissal Rules</h3>
+<h4>Probation Rules</h4>
+<ol>
+	<li>Any student whose UIC cumulative grade point average falls below 2.00/4.00 is placed on 2.25 academic probation. A student on 2.25 probation is required to earn at least one B and no grade less than a C in each ensuing term until both the UIC cumulative grade point average and the total cumulative grade point average are above 2.00/4.00.</li>
+	<li>Any student whose grade point average for any term falls below 2.00/4.00 but whose UIC cumulative grade point average is above 2.00 will be placed on 2.00 academic probation for the following term. The student will return to clear status if a grade point average of at least 2.00 is earned without any grade less than C in the following term.</li>
+</ol>
+<h4>Dismissal Rules</h4>
+<ol>
+	<li>A student on academic probation who does not meet the probationary requirements will be dismissed from the university.</li>
+	<li>A student who fails to make progress toward a degree may be dismissed. Examples of failure to make progress include excessive term deficit points,<sup>a</sup> failure to complete required courses, accumulation of excessive number of Incomplete (I) grades, failure to earn credit in any semester, and failure to maintain a 2.00 average in the major discipline.</li>
+	<li>A student may be readmitted after the first dismissal with petition and presentation of above-satisfactory performance in college-level courses taken outside of UIC. The non-UIC work evaluated for readmission may or may not apply towards a UIC degree. However, only in rare cases, a student will be readmitted after the second dismissal.</li>
+</ol>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Credit-hour weighted sum of following values: A=+2, B=+1, C=0, D=-1, F=-2.</em></p></td></tr></table>
+<h3 headerid="11" name="text"><a id="d3" name="d3"></a>Change of Course Schedule—Dropping Courses</h3>
+<p>Undergraduate students may drop courses using <em>my.UIC</em> through the end of the second week of classes for fall and spring semesters, the first Wednesday of Summer Session 1, or the first Friday of Summer Session 2. During weeks 3 through 10 of the fall and spring semesters (first Thursday through the third Wednesday of Summer Session 1 or weeks 2 through 5 of Summer Session 2), students may drop courses with the permission of their major college. If the drop occurs between 0 and 2 weeks in fall and spring, there will be no notation on the transcript. If the drop occurs during weeks 3 through 10 in fall and spring (first Thursday through the second Wednesday of Summer Session 1 or weeks 2 through 5 of Summer Session 2), a W is noted on the transcript. Undergraduate students may drop a maximum of four UIC individual courses that result in a W notation on their transcript during their entire undergraduate degree program. College of Engineering students must submit a Late Drop Petition Form on the <a href="https://engineering.uic.edu/undergraduate/resources/" target="_blank">College of Engineering Student Resource page</a>.</p>
+<p>A student who wishes to drop all courses must withdraw from the university by completing a special form and submitting it to the College Office, 123 SEO, by the end of the last business day before final examinations. The grades of W for all courses in the term withdrawn do not count towards the maximum of four allowed late course drops. Student can register normally in the next term.</p>
+<h3 headerid="12" name="text"><a id="d4" name="d4"></a>Changes within a Major</h3>
+<p>Changes within degree programs are handled through petitions. A General Engineering Petition or Petition for Modification of Major is required when a student wishes to change contents of a major. College of Engineering students can submit petitions though the <a href="https://engineering.uic.edu/undergraduate/resources/" target="_blank">College of Engineering Student Resource page</a>.</p>
+<h3 headerid="13" name="text"><a id="d5" name="d5"></a>Class Attendance</h3>
+<p>In case of excessive absences, the course instructor may recommend to the college that a student be dropped from the course. Adverse consequences of such involuntary course drop must be weighed against high probability of failure in the course. Moreover, such involuntary course drops must be within the framework of four allowable late course drops by sixth week in fall or spring (between the third Wednesday of Summer Session 1 and fifth Friday of Summer Session 2).</p>
+<h3 headerid="14" name="text"><a id="d6" name="d6"></a>Course Prerequisites</h3>
+<p>All students must follow the listed prerequisites when registering for courses.  Students found to be registered in a course without meeting the prerequisites will be dropped from the course. It is the student's responsibility to ensure that they have the listed prerequisites. It is difficult to perform satisfactorily in most engineering courses without having the listed prerequisites.</p>
+<h3 headerid="15" name="text"><a id="d7" name="d7"></a>Credit/No Credit Option</h3>
+<p>Certain types of courses may be taken on the credit/no credit option in the College of Engineering. In this option, a student will be allowed to complete a limited number of courses with a grade of credit (CR) or no credit (NC) instead of a letter grade. Courses below the 200-level, required courses, and essential prerequisite courses cannot be taken as credit/no credit. Students can submit a petition at the <a href="https://engineering.uic.edu/undergraduate/resources/" target="_blank">College of Engineering Student Resource page</a>.</p>
+<p>Students must apply at their college office no later than the tenth day of the term (first Wednesday of Summer Session 1 or first Friday of Summer Session 2) to have a course designated for credit/no credit grading option.</p>
+<h3 headerid="16" name="text"><a id="d8" name="d8"></a>Declaring a Major</h3>
+<p>All students entering the College of Engineering must declare a major in order to be assigned a departmental faculty advisor after the first term. Students must declare their majors at the time of entry to the college or by the end of their first term. Students can petition to change their major by submitting a petition at the <a href="https://engineering.uic.edu/undergraduate/resources/" target="_blank">College of Engineering Student Resource page</a>.</p>
+<h3 headerid="17" name="text"><a id="d9" name="d9"></a>Double Major, Double Degrees, and Second Bachelor’s Degree</h3>
+<h4>Double Major</h4>
+<p>This option is not available in the College of Engineering.</p>
+<h4>Double Degrees</h4>
+<p>Double degrees are possible for some College of Engineering students who want to pursue two bachelor’s degrees concurrently. Students must complete a minimum of 30 additional hours of 300- and 400-level course work for the second degree. Combination of degrees that have substantial overlap is not allowed. Interested students should speak with an advisor and submit a petition to College of Engineering Office, 123 SEO. </p>
+<h4>Second Bachelor’s Degree</h4>
+<p>Students who have already earned a bachelor’s degree must apply and be admitted as an undergraduate to the College of Engineering in order to pursue a second bachelor’s degree. Students must complete all requirements for the second degree as specified by the college and the major department, including a minimum of 30 additional hours of 300- and 400-level course work beyond those required for the first degree. The UIC enrollment residence requirement must also be met, i.e., the last 30 semester hours for second degree must be taken at UIC. Combination of degrees that have substantial overlap is not allowed.</p>
+<h3 headerid="18" name="text"><a id="mils" name="mils"></a>Application of Military Science Credits Toward the Degree</h3>
+<p>Earned credits in Military Science courses are applied toward partial fulfillment of degree requirements subject to the following:</p>
+<ul>
+	<li>Military Science courses approved for general education are excluded from these limitations.</li>
+	<li>Credits earned in 200-.300-,and 400-level MILS courses are applied as general elective credits and fulfill credit hour requirements for undergraduate degrees.</li>
+	<li>Colleges may determine the applicability of MILS courses to satisfy college-specific requirements of majors, minors, concentrations, selectives, or electives.</li>
+	<li>Colleges may allow a maximum of three semester hours of credit for Military Science courses at the 100 level. Colleges may allow an additional one hour of credit in basic military science for a minimum of six months of extended active duty in the in any branch of the armed forces of the United States.</li>
+	<li>These rules apply to courses in naval science (NS) courses offered to UIC undergraduates and appearing on a UIC transcript but taught at the Illinois Institute of Technology (Illinois Tech).</li>
+</ul>
+<h3 headerid="19" name="text"><a id="d10" name="d10"></a>Graduate-Level Courses for Undergraduate Credit</h3>
+<p>Many 400-level courses are part of required or elective courses. Students need special permission from the college to take 500-level courses.</p>
+<h3 headerid="20" name="text"><a id="d11" name="d11"></a>Proficiency Examinations</h3>
+<p>Students with nontransferable college-level credits in Academic Writing, mathematics, sciences, and computer programming may earn credits through proficiency examinations, if such examinations are allowed by the departments offering these courses.</p>
+<h3 headerid="21" name="text"><a id="d12" name="d12"></a>Registration Approval</h3>
+<p>All incoming freshmen and transfer students need approval of a college advisor before registration for courses. Such approval is typically obtained during the orientation visit to the campus. All continuing students need approval from their faculty advisor before registering for courses.</p>
+<h3 headerid="22" name="text"><a id="d13" name="d13"></a>Repeat Policy for Standard Graded Courses</h3>
+<p>Students may repeat a course to increase their knowledge of the subject matter. There are circumstances under which repeating a course is advisable and to a student’s advantage. There are also circumstances where repeating a course may disadvantage a student and narrow a student’s options. Some colleges require students to discuss any plan to repeat a course with their academic advisor before they register to repeat the course.</p>
+<p>Courses with A or B grades may not be repeated. Normally, courses with a C grade may not be repeated. Courses with D or F grades may be repeated once without written permission. In all cases, the original grade for the course and the grade for each repeat will appear on the transcript. The original grade and grade for each repeat will be calculated into the grade point average. Only one registration for the course counts toward the total number of credits required for graduation. A course cannot be repeated after receiving credit in a course for which the repeat course is a prerequisite.</p>
+<p>To repeat a course more than once requires written permission from the student’s college dean. Students who have been dismissed may not appeal on the grounds of intention to repeat courses. Certain courses may not be repeated; students should consult their college before repeating a course.</p>
+<h4><strong>Undergraduate Grade Point Average Recalculation Policy</strong></h4>
+<ul>
+	<li>Colleges may elect to implement this policy as early as the end of the junior year, or as late as the final semester during degree certification.</li>
+	<li>The college will evaluate each student unable to graduate because of an academic grade point average deficit. The deficit may occur in the UIC GPA, the program GPA, or both.</li>
+	<li>The academic record is examined so as to determine if courses, deemed appropriate by each college, with grades of F or grades of D, may be excluded from the student’s grade point average.</li>
+	<li>A total of four courses may be excluded, with one course excluded at a time until the necessary quality points are obtained to meet the UIC GPA requirement and/or degree program minimum GPA. The semester hours associated with excluded course grades will not count towards graduation requirements.</li>
+	<li>Only the college can initiate course exclusions, and only in consultation with the evaluated student.</li>
+	<li>Students may not request exclusions.</li>
+	<li>Only courses taken at UIC may be converted as part of this policy.</li>
+	<li>This policy only applies to undergraduate degree seeking students.</li>
+	<li>All courses taken and all grades will remain on the official transcript.</li>
+	<li>The grade exclusion policy does not apply to courses failed as the result of a student conduct hearing.</li>
+	<li>In cases where these procedures would impact program accreditation, licensure or similar, colleges may use their discretion to allow the policy. Colleges, departments, and programs may have discretion in choosing courses that impact the student’s major.</li>
+</ul>
+<h3 headerid="23" name="text"><a id="d14" name="d14"></a>Transferring</h3>
+<h4>Intercollege Transfer Students</h4>
+<p>Students enrolled in other UIC colleges who wish to transfer to the College of Engineering may apply at any time during the regular semester; see the <em>Transfer Students from Other Colleges and Universities</em> section below for specific requirements.</p>
+<h4>Transfer Students from Other Colleges and Universities</h4>
+<p>The College of Engineering admits qualified transfer students from accredited institutions. Depending upon space availability, admission preference will be given to individuals who qualify as Illinois residents as determined by the University (see <em>Regulations Governing the Determination of State Residence Status for Admission and Assessment of Student Tuition</em>). Generally 60 semester hours (90 quarter hours) of transfer work must include English, math, and science courses listed below for admission. Exceptional students who have completed most of these listed English, math, and science courses may be admitted even if they have not completed 60 semester hours by the time of entry to the college. The college will consider residents of the state of Illinois who have a transfer grade point average of at least 2.50/4.00 in math/science/technical courses as well as on a cumulative basis. Out-of-state residents must have a minimum transfer GPA (math/science/technical and cumulative) of 2.50/4.00 and international students that of 2.75/4.00 to be considered for admission. Admission criteria may vary for different programs. Meeting the minimum criteria does not guarantee admission due to limited space availability.</p>
+<p>All transfer applicants should complete the following course work by the time of entry to the College of Engineering: </p>
+<ol>
+	<li>Academic Writing (two courses).</li>
+	<li>Chemistry, equivalent to <span class="sc_courseinline"><a href="/search/?P=CHEM%20122" title="CHEM 122" class="bubblelink code" onclick="return showCourse(this, 'CHEM 122');">CHEM 122</a></span>/<span class="sc_courseinline"><a href="/search/?P=CHEM%20123" title="CHEM 123" class="bubblelink code" onclick="return showCourse(this, 'CHEM 123');">CHEM 123</a></span> at UIC. (Computer Science students may substitute Biological Sciences or Earth and Environmental Sciences.)</li>
+
+	<li>Physics for engineers, emphasizing mechanics, electricity, and magnetism (with calculus as a prerequisite). (Computer Science students may substitute Biological Sciences or Earth and Environmental Sciences.)</li>
+	<li>Mathematics through differential equations.</li>
+</ol>
+
+<p>All transferable courses must have a grade of C or better in order to be considered for credit toward a degree in the College of Engineering.</p>
+<p>See the <a href="/ucat/admissions-registration-finances/admissions/"><em>Admissions</em></a> section for application deadline dates and other procedures for transfer students. See the Office of Admission <a href="https://admissions.uic.edu/undergraduate/undergraduate-requirements-deadlines/transfer-requirements/transfer">Transfer Guide</a> for more information about transfer admission requirements.</p>
+<h4>Transferring Out of the College</h4>
+<p>Since procedures for changing colleges differ among the undergraduate colleges, a student should inquire in 123 SEO for proper instructions.</p>
+<h3 headerid="24" name="text"><a id="d15" name="d15"></a>Undergraduate Research in Engineering</h3>
+<p>Several engineering majors allow undergraduate research within respective engineering departments as technical electives if certain eligibility criteria are met. Prior approval of research topic and scope by a faculty advisor and the director of undergraduate studies is required; special forms are available online and at the college office. Submission of copies of a final report to the department and college offices is also required before undergraduate research credits can be applied for the degree.</p>
+<h2 headerid="25" name="text"><a id="e" name="e"></a>Minors</h2>
+<p>Although a minor is not required, a student may elect to complete one or more minors.<sup>a</sup> The College of Engineering will acknowledge, on a student’s transcript, the successful completion of a minor offered by any engineering program in the college for which the student is eligible to enroll and for which the student meets the requirements for the minor listed below. The number of semester hours required for the minor varies by the field of specialization. Minors offered by the College of Engineering include:</p>
+<table cellpadding="0" cellspacing="0" width="100%" class="sc_sctable tbl_ugminors" summary="UG Minors">
+<caption class="hidden noscript">UG Minors</caption>
+<colgroup><col class="column0" pdfwidth="50%" width="50%"/><col class="column1" pdfwidth="35%" width="35%"/><col class="column2" pdfwidth="15%" width="15%"/></colgroup>
+<thead>
+<tr class="sctablehead">
+<th scope="col" class="column0">Minor</th>
+<th scope="col" class="column1">School/Department</th>
+<th scope="col" class="column2">Hours</th>
+</tr>
+</thead>
+<tbody>
+<tr class="even firstrow"><td class="column0">Biomedical Engineering</td>
+<td class="column1">Biomedical Engineering</td>
+<td class="column2">12</td>
+</tr>
+<tr class="odd"><td class="column0">Chemical Engineering</td>
+<td class="column1">Chemical Engineering</td>
+<td class="column2">16–18</td>
+</tr>
+<tr class="even"><td class="column0">Civil Engineering</td>
+<td class="column1">Civil, Materials, and Environemental Engineering</td>
+<td class="column2">18–19</td>
+</tr>
+<tr class="odd"><td class="column0">Computer Engineering</td>
+<td class="column1">Electrical and Computer Engineering</td>
+<td class="column2">17</td>
+</tr>
+<tr class="even"><td class="column0">Computer Science</td>
+<td class="column1">Computer Science</td>
+<td class="column2">15–17</td>
+</tr>
+<tr class="odd"><td class="column0">Electrical Engineering</td>
+<td class="column1">Electrical and Computer Engineering</td>
+<td class="column2">19</td>
+</tr>
+<tr class="even"><td class="column0">Environmental  Engineering</td>
+<td class="column1">Civil, Materials, and Environemental Engineering</td>
+<td class="column2">18–20</td>
+</tr>
+<tr class="odd"><td class="column0">Industrial Engineering</td>
+<td class="column1">Mechanical and Industrial Engineering</td>
+<td class="column2">12</td>
+</tr>
+<tr class="even"><td class="column0">Information Technology</td>
+<td class="column1">Computer Science</td>
+<td class="column2">12</td>
+</tr>
+<tr class="odd"><td class="column0">International Studies</td>
+<td class="column1">N/A; contact College of Engineering</td>
+<td class="column2">18-21</td>
+</tr>
+<tr class="even"><td class="column0">Materials Engineering</td>
+<td class="column1">Civil, Materials, and Environemental Engineering</td>
+<td class="column2">14–19</td>
+</tr>
+<tr class="odd last lastrow"><td class="column0">Mechanical Engineering</td>
+<td class="column1">Mechanical and Industrial Engineering</td>
+<td class="column2">16–18</td>
+</tr>
+</tbody>
+</table>
+
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>All engineering minors require prerequisite courses. Please see department sections for information on prerequisite courses associated with each minor.</em></p></td></tr></table>
+<h3 headerid="26" name="text"><a id="e1" name="e1"></a>Requirements for the Minor</h3>
+<p>See the appropriate engineering program for a detailed description of each minor. At least 9 semester hours in the minor field of specialization must be at the advanced level (200-, 300-, or 400-level courses), and a minimum grade point average of 2.00/4.00 is required. Engineering minors require that at least 9 semester hours be taken from the UIC College of Engineering.</p>
+<h3 headerid="27" name="text"><a id="e2" name="e2"></a>Admission to an Engineering Minor</h3>
+<p>Admission to a minor in the College of Engineering will not be approved for any student if there is substantial course overlap between the proposed minor and the student’s major. Engineering students who are interested in completing an engineering minor must submit a petition at the <a href="https://engineering.uic.edu/undergraduate/resources/" target="_blank">College of Engineering Student Resource page</a>.</p>
+<h3 headerid="28" name="text"><a id="e3" name="e3"></a>Engineering Minors for Nonengineering Students</h3>
+<p>Nonengineering students will be allowed to complete minor areas of study within engineering if they meet the transfer eligibility criteria at the time of application and so long as space permits. Students must submit a petition at the <a href="https://engineering.uic.edu/undergraduate/resources/" target="_blank">College of Engineering Student Resource page</a> and obtain approval. Nonengineering students must also consult their home colleges about the acceptability and applicability of engineering course credits toward their degrees. Most engineering classes are closed to nonengineering students; those students with approved minors must submit petitions to the college office at the beginning of the term to register for engineering courses needed.</p>
+<h3 headerid="29" name="text"><a id="e4" name="e4"></a>Minor Areas Outside of Engineering for Engineering Students</h3>
+<p>Engineering majors may complete one or more minors offered by other UIC colleges. Successful completion of a minor outside the College of Engineering will be acknowledged on an engineering student’s transcript if certification of completion of the minor is received from the other college by applicable deadlines for the term of graduation. Engineering students must submit a petition at the <a href="https://engineering.uic.edu/undergraduate/resources/" target="_blank">College of Engineering Student Resource page</a> and obtain approval before petitioning to another college. Minors will be approved by the College of Engineering if the requirements for the minor, as defined by the nonengineering department offering the minor, are satisfied. The request for the minor must be approved by both colleges.</p>
+<h3 headerid="30" name="text"><a id="e5" name="e5"></a>Area of Concentration</h3>
+<p>Some College of Engineering majors offer areas of concentration within the majors by prescribing some or all of technical, nonmajor, and free electives. Completion of an area of concentration is noted on the transcript. On the other hand, engineering minors offer students the opportunity to study an engineering discipline outside of the major; minors generally require additional course work to meet prerequisite and course requirements. Minors are also noted on the transcripts.</p>
+<h2 headerid="31" name="text"><a id="f" name="f"></a>Academic Advising</h2>
+<p>Contact the College Office, 123 SEO, for the names of college advisors and departmental offices for faculty advisors.</p>
+<h3 headerid="32" name="text"><a id="f1" name="f1"></a>Advising Policy</h3>
+<p>Faculty advisors are available to assist students with the selection of courses after the first term. Students declare a major when they enter the university and are assigned a faculty advisor by the appropriate department. In addition, the College Office for Undergraduate Administration on the first floor of SEO advises newly admitted freshman and transfer students, seniors contemplating graduation, and students facing academic or other difficulties. All continuing students should take advantage of advance advising and advance registration periods to ensure that they can get into the classes of their choice.</p>
+<h2 headerid="33" name="text"><a id="g" name="g"></a>Academic Honors</h2>
+<h3 headerid="34" name="text"><a id="g1" name="g1"></a>University Honors</h3>
+<p>At graduation, students are awarded University Honors for academic distinction. Such honors are designated on the diplomas as Cum laude, Magna cum laude, or Summa cum laude. The minimum cumulative grade point average needed to qualify for University Honors is 3.50/4.00 in all UIC course work.</p>
+<p>Cum Laude is awarded to a student who earns at least a 3.50 cumulative grade point average; Magna cum laude is awarded to a student who earns at least a 3.75 cumulative grade point average; Summa cum laude is awarded to a student who earns at least a 3.90 cumulative grade point average. The grades for military science courses are excluded unless a student completes the four-year military science program, in which case 5 semester hours of advanced credit are included in the determination of averages for University Honors.</p>
+<p>The Bell Honors Award is given in recognition of attaining the highest grade point average in each graduating class. At the Engineering Convocation, award recipients are recognized and given a certificate acknowledging their scholastic attainments.</p>
+<h3 headerid="35" name="text"><a id="g2" name="g2"></a>Dean’s List</h3>
+<p>Exceptional academic achievement in the College Engineering is recognized each term by inclusion on the Dean’s List. Eligibility is based on a 3.50/4.00 term GPA with a minimum program of 12 semester hours applicable towards the overall degree, exclusive of basic military science and basic activity courses in physical education. At least 9 semester hours must be earned for letter grades, in addition to a grade of Credit earned in any course taken on a credit/no credit basis.</p>
+<h2 headerid="36" name="text"><a id="h" name="h"></a>Special Programs and Opportunities</h2>
+<h3 headerid="37" name="text"><a id="h1" name="h1"></a>Engineering Career Center (ECC)</h3>
+<p>UIC Engineering students benefit from a team of full-time staff whose primary goal—and area of expertise—is connecting students with rewarding positions in engineering. The Engineering Career Center organizes opportunities for students to meet with employers, and it provides one-on-one guidance across the spectrum of the career-search process, from applying to interviewing to negotiating a salary. Follow the link below to learn about specialized career development offerings.</p>
+<h3 headerid="38" name="text"><a id="h2" name="h2"></a>Equity and Inclusion in Engineering Program (EIEP)</h3>
+<p>UIC's Equity and Inclusion in Engineering Program has played a key role in providing academic and professional development services to students for more than 30 years. The EIEP serves students across all backgrounds, but a central part of the mission is to support underrepresented Black, Latinx, and Native American students in their pursuit of engineering and computer science degrees.</p>
+<h3 headerid="39" name="text"><a id="wiep" name="wiep"></a>Women in Engineering Programs (WIEP)</h3>
+<p>Through a variety of programming, academic advising, scholarship opportunities, and student organizations, WIEP promotes and encourages the success of all students in the College of Engineering.</p>
+<p>WIEP also leads efforts in the recruitment and retention of female students in the College of Engineering which includes the implementation of K-12 outreach programs. In partnership with all engineering departments and support/success units on campus, programs strive to increase the percentage of female engineering graduates and ensure that they are prepared to pursue advanced degrees and/or full time employment in their respective fields.</p>
+<h2 headerid="40" name="text"><a id="i" name="i"></a>Student Organizations</h2>
+<p>During their early years in the college, students receive information about the many professional engineering societies. Each society has an official representative among the college faculty. Students are strongly advised to join at least one professional society closely affiliated with their career interests. Professional society chapters include those of AIAA, AIChE, ASCE, ASME, ACM, BMES, IEEE, IEEE-CS, IIE, SAE, and SME. Honor society chapters include those of Alpha Eta Mu Beta, Eta Kappa Nu, Pi Tau Sigma, and Tau Beta Pi. Other society chapters include those of NSBE, SHPE, and SWE. Engineering Council (EC) is an umbrella organization in the college that coordinates some of the activities of these society chapters.</p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2021-2023 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/ucat/colleges-depts/engineering/engineering.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2021-23-undergraduate.pdf" target="_blank">Download PDF of the entire Undergraduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

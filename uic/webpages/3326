@@ -1,0 +1,724 @@
+<!DOCTYPE html
+  PUBLIC "XSLT-compat">
+<html xmlns:xs="http://www.w3.org/2001/XMLSchema" lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Advance UIC</title>
+      <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+      <style>
+					@import url('https://fonts.googleapis.com/css?family=Lato:wght@400;700');
+					@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700');
+					@import url('https://fonts.googleapis.com/css?family=Roboto:wght@400;700');
+					@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700');					
+					@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700');					
+				</style>
+      <style>
+					@font-face {
+					font-family: 'Montserrat';
+					font-style: normal;
+					font-weight: 400;
+					}
+					@font-face {
+					font-family: 'Lato';
+					font-style: normal;
+					font-weight: 400;
+					}
+					@font-face {
+					font-family: 'Roboto';
+					font-style: normal;
+					font-weight: 400;
+					}
+					@font-face {
+					font-family: 'Source+Sans+Pro';
+					font-style: normal;
+					font-weight: 400;
+					}
+					@font-face {
+					font-family: 'Open+Sans';
+					font-style: normal;
+					font-weight: 400;
+					}				
+				</style>
+   </head>
+   <body style="margin:0;"><!-- SKIN ID:48456 --><!--[if (gte mso 9) | (gte IE 7)]>
+      <style>
+                    table#wrapper 
+                    { 
+                        width:700px !important; 
+                    } 
+                </style><![endif]--><!--[if mso]>
+      <style>
+					.fallback-font {
+						font-family: Arial, sans-serif !important;
+					}
+				</style><![endif]-->
+      <style>
+                    table#wrapper
+                    {
+                        max-width:700px !important;
+                        box-shadow:none;
+                    }
+                    table th, 
+                    table td
+                    {
+                        padding:0 !important;
+                    }
+                    .col-2 table td {
+                    padding: 10px !important;
+                    }
+                    #outlook a
+                    {
+                        padding:0;
+                    }
+                    .ExternalClass
+                    {
+                        width:100%;
+                    }
+                    .ExternalClass, 
+                    .ExternalClass p, 
+                    .ExternalClass span, 
+                    .ExternalClass font, 
+                    .ExternalClass td, 
+                    .ExternalClass div
+                    {
+                        line-height:100% !important;
+                    }
+                    #footer a
+                    {
+                        color: #FFFFFF;
+                        text-decoration: none;
+                    }
+                    #footer a:hover
+                    {
+                        color: #;
+                        text-decoration: underline;
+                    }
+                    #footer img
+                    {
+                        border:0;
+                    }
+					#main td{
+						padding:0;
+					}
+				</style>
+      <style>
+					span.previewText {
+						display: none !important;
+						max-height: 0;
+						overflow: hidden;
+						width: 75px;
+					}</style> <style type="text/css">
+#main td  {
+padding:0px;
+}
+#main td .edu-uiuc-webservices-calendar-title  {
+padding-top:2px;
+padding-bottom:1px;
+padding-right:10px;
+
+}
+</style>
+ <span class="previewText">A newsletter for supporters and champions of UIC </span><div style="display: none; max-height: 0px; overflow: hidden;"> &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌
+         					&nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌ &nbsp; ‌</div><!-- SKIN BODY -->
+      <table bgcolor="#EDEDED" style="background-color:#EDEDED; width:100%; border-collapse:collapse; border-spacing:0;">
+         <tbody>
+            <tr>
+               <td><!-- SKIN ARCHIVE LINK -->
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" id="archive-label" style="max-width:700px; border-spacing:0;"><!-- ARCHIVE_LINK_START -->
+                     <tr>
+                        <td align="left" bgcolor="#EDEDED" style="background:#EDEDED; line-height:12px; padding:0;">&nbsp;</td>
+                     </tr>
+                     <tr>
+                        <td align="center" bgcolor="#EDEDED" colspan="5" style="font-size:13px; height:18px; line-height:18px; font-family:arial;" class="fallback-font"><a href="https://emails.uofi.uic.edu/newsletter/1462353663.html" style="color:#000000;text-decoration: underline;"><span id="archive-label" style="color:#000000;">Click here to see this online</span></a></td>
+                     </tr><!-- ARCHIVE_LINK_STOP -->
+                     <tr>
+                        <td align="left" bgcolor="#EDEDED" style="background:#EDEDED;line-height:12px;padding:0;">&nbsp;</td>
+                     </tr>
+                  </table><!-- SKIN TABLE -->
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" id="wrapper" style="border:none;max-width:700px;border-collapse:collapse; border-spacing:0;"><!-- HEADER ROW-->
+                     <tr id="header">
+                        <td align="left" colspan="3" style="padding:0;width:100%;border-bottom:none;"><img alt="Advance: A newsletter for supporters and champions of UIC." id="hc" name="AdvanceHeader" src="https://skins.webservices.illinois.edu/files/48456/wizard_header.png?iIndex=0831T104029" style="vertical-align:top;width:100%;border:0;" usemap="#AdvanceHeader"><map name="AdvanceHeader">
+    <area target="_blank" alt="UIC Advance" title="UIC Advance" href="https://advance.uic.edu/" coords="59,75,402,127" shape="rect">
+    <area target="_blank" alt="Submit a class note." title="Submit a class note." href="https://advance.uic.edu/class-notes-home-page/" coords="521,34,655,48" shape="rect">
+    <area target="_blank" alt="Update your information." title="Update your information." href="https://advance.uic.edu/about/update-your-information/" coords="541,57,653,75" shape="rect">
+    <area target="_blank" alt="Connect to your college." title="Connect to your college." href="https://advance.uic.edu/about/connect-to-college/" coords="479,89,653,101" shape="rect">
+    <area target="_blank" alt="IGNITE: The campaign for UIC." title="IGNITE: The campaign for UIC." href="https://advance.uic.edu/giving/" coords="449,112,658,126" shape="rect">
+</map></td>
+                     </tr>
+                     <tbody>
+                        <tr>
+                           <td align="left" colspan="3" style="padding:0;width:100%;">
+                              <table background="#ffffff" bgcolor="#ffffff" cellpadding="0" cellspacing="0" id="content-tb" style="background:#ffffff; border:none; border-top:none; border-spacing:0; width:100%;">
+                                 <tbody>
+                                    <tr>
+                                       <td align="left" class="content-td" style="padding:0;width:100%;min-height:20vh;" width="100%;">
+                                          <table cellpadding="0" cellspacing="0" class="content-div" style="width:100%; border-spacing:0;">
+                                             <tr>
+                                                <td>
+                                                   <div id="system-form-header"></div><!-- MESSAGE START --> <!--CONTENT_STARTS--><!-- SKIN: 48456 --><style rel="stylesheet" type="text/css"><!--[if mso]>
+			.fallback-font-heading {
+				font-family: Arial, sans-serif !important;
+			}<![endif]--></style>
+<!-- BLOCK_image --><!-- ELEMENT_2412287_START --><a id="element_2412287" name="element_2412287"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_1" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: left;">
+                        <table align="left" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="left" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412287.png?p=1207T151804" style="display:block;width:100%;" width="700" alt="Students walk under canopy of trees"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412287_STOP --><!-- BLOCK_content --><!-- ELEMENT_2412288_START --><style rel="stylesheet" type="text/css">
+            #content_2 a {
+                color:#D50032;
+            }
+            #content_2 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2412288" name="element_2412288"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_2" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p style="text-align: center;"><span style="font-size: 8pt; line-height: 6pt;">Fall foliage abounds on UIC's campus.</span></p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412288_STOP --><!-- BLOCK_image --><!-- ELEMENT_2412289_START --><a id="element_2412289" name="element_2412289"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_3" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: center;">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="99.99999999999999%">
+                           <tr>
+                              <td colspan="3"><img align="center" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412289.png?p=1207T151804" style="display:block;width:100%;" width="700" alt=""></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412289_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2412290_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2412290_STOP --><!-- BLOCK_image --><!-- ELEMENT_2412291_START --><a id="element_2412291" name="element_2412291"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_5" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: left;">
+                        <table align="left" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="left" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412291.png?p=1207T151804" style="display:block;width:100%;" width="700" alt="Giving Tuesday Results"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412291_STOP --><!-- BLOCK_content --><!-- ELEMENT_2412292_START --><style rel="stylesheet" type="text/css">
+            #content_6 a {
+                color:#D50032;
+            }
+            #content_6 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2412292" name="element_2412292"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_6" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #d50032;"><strong>Thank You for Your Extraordinary Participation<br /></strong></span></p>
+<p style="text-align: center;">Thank you for supporting UIC last week and helping us break our #GivingTuesday records! More than 1,800 of you came #UICtogether to give $1,032,838 for UIC. Through the power of collective giving, the UIC community showed that together we can empower students and faculty, drive discovery, connect communities and demand justice. Together, we can change the world. <a style="color: #d50032;" href="https://givingtuesday.uic.edu/" target="_blank" rel="noopener"><span style="color: #d50032;">Read more</span></a>.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412292_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2412293_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2412293_STOP --><!-- BLOCK_image --><!-- ELEMENT_2412294_START --><a id="element_2412294" name="element_2412294"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_8" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: left;">
+                        <table align="left" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="left" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412294.png?p=1207T151804" style="display:block;width:100%;" width="700" alt="A woman looking through a microscope in a lab."></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412294_STOP --><!-- BLOCK_content --><!-- ELEMENT_2412295_START --><style rel="stylesheet" type="text/css">
+            #content_9 a {
+                color:#D50032;
+            }
+            #content_9 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2412295" name="element_2412295"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_9" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #d50032;"><strong>UIC's Record-Breaking Year in Research<br /></strong></span></p>
+<p style="text-align: center;">UIC topped its annual record for research awards, receiving $446 million in sponsored funding. Whether it&rsquo;s determining why Latinos carry a higher burden of certain ailments such as cardiovascular disease and diabetes, or using artificial intelligence to aid the state&rsquo;s highway infrastructure, UIC researchers are impacting how we live and learn. We&rsquo;re igniting change to chase discoveries that change lives. <a style="color: #d50032;" href="https://today.uic.edu/research-impact" target="_blank" rel="noopener"><span style="color: #d50032;">Read more</span></a>.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412295_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2412296_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2412296_STOP --><!-- BLOCK_image --><!-- ELEMENT_2412297_START --><a id="element_2412297" name="element_2412297"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_11" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: left;">
+                        <table align="left" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="left" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412297.png?p=1207T151804" style="display:block;width:100%;" width="700" alt="Assistant Professor of Law Yelena Duterte BA ‘07, JD ‘12"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412297_STOP --><!-- BLOCK_content --><!-- ELEMENT_2412298_START --><style rel="stylesheet" type="text/css">
+            #content_12 a {
+                color:#D50032;
+            }
+            #content_12 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2412298" name="element_2412298"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_12" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #d50032;"><strong>Serving the Servicemembers<br /></strong></span></p>
+<p style="text-align: center;">Through initiatives like UIC Law's Veterans Legal Clinic, UIC empowers students with opportunities to be engaged citizens and work in partnership with communities. The Veterans Legal Clinic helps veterans access the benefits they earned, appeal the characterization of their discharges and assists them with criminal court treatment or diversion programs. Not only does the clinic benefit the veteran community, it also helps law students develop skills beyond the classroom. <a style="color: #d50032;" href="https://advance.uic.edu/news-stories/serving-the-servicemembers/" target="_blank" rel="noopener"><span style="color: #d50032;">Read more</span></a>.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412298_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2412299_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2412299_STOP --><!-- BLOCK_image --><!-- ELEMENT_2412300_START --><a id="element_2412300" name="element_2412300"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_14" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: left;">
+                        <table align="left" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="left" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412300.png?p=1207T151804" style="display:block;width:100%;" width="700" alt="Bridge to the Faculty scholars and UIC leaders gather at a recent B2F reception celebrating the program. Photo by Alonzo Zamarron."></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412300_STOP --><!-- BLOCK_content --><!-- ELEMENT_2412301_START --><style rel="stylesheet" type="text/css">
+            #content_15 a {
+                color:#D50032;
+            }
+            #content_15 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2412301" name="element_2412301"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_15" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #d50032;"><strong>Increasing Faculty Diversity<br /></strong></span></p>
+<p style="text-align: center;">At UIC, we&rsquo;re cultivating an environment of empowerment for our faculty with programs like the Bridge to the Faculty Scholars program. Created in 2019, the initiative seeks to enhance diversity by encouraging the recruitment, retention and promotion of scholars from different backgrounds and groups who have been historically underrepresented in academia. <a style="color: #d50032;" href="https://today.uic.edu/bridge-to-the-faculty-aims-to-increase-opportunity-for-underrepresented-scholars" target="_blank" rel="noopener"><span style="color: #d50032;">Read more</span></a>.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412301_STOP --><!-- BLOCK_image --><!-- ELEMENT_2412302_START --><a id="element_2412302" name="element_2412302"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_16" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: left;">
+                        <table align="left" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="99.99999999999999%">
+                           <tr>
+                              <td colspan="3"><img align="left" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412302.png?p=1207T151804" style="display:block;width:100%;" width="700" alt=""></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412302_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2412303_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2412303_STOP --><!-- BLOCK_image --><!-- ELEMENT_2412304_START --><a id="element_2412304" name="element_2412304"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_18" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+                  <td style="width:90%" width="90%">
+                     <div style="text-align: left;">
+                        <table align="left" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="left" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412304.png?p=1207T151804" style="display:block;width:100%;" width="630" alt="Credit Union 1 Scholarship recipients"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+                  <td align="left" style="padding:0;width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412304_STOP --><!-- BLOCK_content --><!-- ELEMENT_2412305_START --><style rel="stylesheet" type="text/css">
+            #content_19 a {
+                color:#D50032;
+            }
+            #content_19 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2412305" name="element_2412305"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_19" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #d50032;"><strong>Recognizing Excellence: Credit Union 1 Scholarship<br /></strong></span></p>
+<p style="text-align: center;">Giving has tremendous impact at UIC. It fuels opportunities for today's students from every culture, race, socioeconomic background and circumstance. One example is the Credit Union 1 Scholarship, which gives high-achieving students access to a UIC education. Read our profiles of the scholarship recipients in College of Medicine, UIC Business, College of Engineering. <a style="color: #d50032;" href="https://advance.uic.edu/news-stories/recognizing-excellence-credit-union-1-scholarship-recipients" target="_blank" rel="noopener"><span style="color: #d50032;">Read more</span></a>.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412305_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2412306_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2412306_STOP --><!-- BLOCK_image --><!-- ELEMENT_2412307_START --><a id="element_2412307" name="element_2412307"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_21" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: left;">
+                        <table align="left" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="left" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412307.png?p=1207T151804" style="display:block;width:100%;" width="700" alt="Grace Holt Memorial Endowment"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412307_STOP --><!-- BLOCK_content --><!-- ELEMENT_2412308_START --><style rel="stylesheet" type="text/css">
+            #content_22 a {
+                color:#D50032;
+            }
+            #content_22 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2412308" name="element_2412308"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_22" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 14pt; color: #d50032;"><strong>A Memorial Bequest To Elevate Black Studies<br /></strong></span></p>
+<p style="text-align: center;">Professor Grace Holt, the first Black woman to earn tenure at UIC, established the Black Studies Department in the College of Liberal Arts and Sciences in 1971, and was its first director. Today the Grace Holt Memorial Endowment, created after her death in 1991 by her daughter Colette, honors her legacy by supporting Black Studies students who demonstrate a commitment to racial justice. Support like this helps us ensure that every hungry mind has a path to study at our great university. <a style="color: #d50032;" href="https://advance.uic.edu/news-stories/a-memorial-bequest-to-elevate-black-studies/" target="_blank" rel="noopener"><span style="color: #d50032;">Read more</span></a>.</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412308_STOP --><!-- BLOCK_spacer --><!-- ELEMENT_2412309_START --><table aria-hidden="true" border="0" cellpadding="0" cellspacing="0" style="border:none; width:100%; border-spacing:0;">
+   <tbody>
+      <tr>
+         <td style="padding:0; line-height: 24px; width:100%;">&nbsp;</td>
+      </tr>
+   </tbody>
+</table><!-- ELEMENT_2412309_STOP --><!-- BLOCK_image --><!-- ELEMENT_2412310_START --><a id="element_2412310" name="element_2412310"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_24" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: left;">
+                        <table align="left" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="100%">
+                           <tr>
+                              <td colspan="3"><img align="left" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412310.png?p=1207T151804" style="display:block;width:100%;" width="700" alt="IGNITE campaign progress graphic showing 98% progress toward goal"></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412310_STOP --><!-- BLOCK_image --><!-- ELEMENT_2412311_START --><a id="element_2412311" name="element_2412311"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100%">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="image_25" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td>
+                     <div style="text-align: center;">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; border-spacing:0;" width="99.99999999999999%">
+                           <tr>
+                              <td colspan="3"><img align="center" border="0" src="https://emails.illinois.edu/files/1462353663/processed_2412311.png?p=1207T151804" style="display:block;width:100%;" width="700" alt=""></td>
+                           </tr>
+                        </table>
+                     </div>
+                  </td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412311_STOP --><!-- BLOCK_content --><!-- ELEMENT_2412312_START --><style rel="stylesheet" type="text/css">
+            #content_26 a {
+                color:#D50032;
+            }
+            #content_26 p {
+                line-height: 22.4px;
+				margin: 0 0 21px 0;
+            }
+            .content-td a, .content-div a {
+                text-decoration: underline
+			;
+			}</style><a id="element_2412312" name="element_2412312"></a><table border="0" cellpadding="0" cellspacing="0" style="background:transparent; border:none; width:100%; border-spacing:0;" width="100">
+   <tr>
+      <td>
+         <table align="left" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" id="content_26" style="background:transparent; border:none; width:100%; border-spacing:0;">
+            <tbody>
+               <tr>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+                  <td class="fallback-font" style="padding: 0; font-weight:normal; font-family: Arial, arial;line-height:22.4px;font-size:14px;color:#363636"><table class="demo" style="border-collapse: collapse; width: 680px; height: 146px; font-family: arial; border-style: none;" cellspacing="1" cellpadding="1">
+<tbody>
+<tr style="height: 68px;">
+<td style="width: 110.203px; height: 10px; text-align: center;"><strong>December 14</strong></td>
+<td style="width: 198.203px; height: 10px; text-align: center;">UIC Flames Men's Basketball vs. DePaul Blue Demons</td>
+<td style="width: 208.203px; height: 10px; text-align: center;">UIC Athletics</td>
+<td style="width: 107.203px; height: 10px; text-align: center;"><span style="font-size: 12pt;"><strong><span style="color: #00b5e2;"><a style="color: #d50032;" href="https://www.ticketmaster.com/uic-flames-mens-basketball-v-depaul-chicago-illinois-12-14-2021/event/04005B4B4F5D3B61" target="_blank" rel="noopener"><span style="color: #d50032;">Purchase Tickets</span></a></span></strong></span></td>
+</tr>
+<tr style="height: 68px;">
+<td style="width: 110.203px; height: 10px; text-align: center;"><strong>January 11</strong></td>
+<td style="width: 198.203px; height: 10px; text-align: center;">The Saga of Climate Change</td>
+<td style="width: 208.203px; height: 10px; text-align: center;">UICAA &amp; College of Liberal Arts and Sciences</td>
+<td style="width: 107.203px; height: 10px; text-align: center;"><span style="font-size: 12pt;"><strong><span style="color: #00b5e2;"><a style="color: #d50032;" href="https://web.cvent.com/event/6948a919-bf81-4936-8b11-1f7222aada6e/summary" target="_blank" rel="noopener"><span style="color: #d50032;">RSVP</span></a></span></strong></span></td>
+</tr>
+<tr style="height: 90px;">
+<td style="width: 110.203px; height: 89px; text-align: center;"><strong>January 25</strong></td>
+<td style="width: 198.203px; height: 89px; text-align: center;">Keep Moving: How To Find and Keep an Exercise Routine</td>
+<td style="width: 208.203px; height: 89px; text-align: center;">UICAA &amp; College of Applied Health Sciences</td>
+<td style="width: 107.203px; height: 89px; text-align: center;"><span style="font-size: 12pt;"><strong><span style="color: #00b5e2;"><a style="color: #d50032;" href="https://web.cvent.com/event/50e66baa-2541-40ac-a46e-bf7adac6001c/summary" target="_blank" rel="noopener"><span style="color: #d50032;">RSVP</span></a>&nbsp;</span></strong></span></td>
+</tr>
+<tr style="height: 90px;">
+<td style="width: 110.203px; height: 89px; text-align: center;"><strong>January 27</strong></td>
+<td style="width: 198.203px; height: 89px; text-align: center;">On Duty with Geraldine Gorman: Restorative Justice and Resilience</td>
+<td style="width: 208.203px; height: 89px; text-align: center;">College of Nursing</td>
+<td style="width: 107.203px; height: 89px; text-align: center;"><span style="font-size: 12pt;"><strong><span style="color: #00b5e2;"><a style="color: #d50032;" href="https://nursing.uic.edu/events/on-duty-with-geraldine-gorman/" target="_blank" rel="noopener"><span style="color: #d50032;">RSVP</span></a>&nbsp;</span></strong></span></td>
+</tr>
+<tr style="height: 90px;">
+<td style="width: 110.203px; height: 89px; text-align: center;"><strong>February 9</strong></td>
+<td style="width: 198.203px; height: 89px; text-align: center;">SPH Learning Series: What the Eyes Don&rsquo;t See&mdash;Fighting for Environmental Justice</td>
+<td style="width: 208.203px; height: 89px; text-align: center;">School of Public Health</td>
+<td style="width: 107.203px; height: 89px; text-align: center;"><span style="font-size: 12pt;"><strong><span style="color: #00b5e2;"><a style="color: #d50032;" href="https://publichealth.uic.edu/events/sph-learning-series-what-the-eyes-dont-see-fighting-for-environmental-justice/" target="_blank" rel="noopener"><span style="color: #d50032;">RSVP</span></a>&nbsp;</span></strong></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></td>
+                  <td style="padding:0; width:5%;" width="5%">&nbsp;</td>
+               </tr>
+            </tbody>
+         </table>
+      </td>
+   </tr>
+</table><!-- ELEMENT_2412312_STOP --><!--CONTENT_ENDS--> <!-- MESSAGE END --></td>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </td>
+                        </tr><!-- SKIN FOOTER -->
+                        <tr>
+                           <td align="left" bgcolor="#D50032" colspan="3" style="background:#D50032;padding:0;line-height:8px;">&nbsp;</td>
+                        </tr>
+                        <tr id="footer-wrapper">
+                           <td align="left" bgcolor="#D50032" style="background:#D50032;padding:0;width:35px;">&nbsp;</td>
+                           <td align="center" bgcolor="#D50032" border="0" id="footer" style="width:630px;text-align:center;background-color:#D50032;color:#FFFFFF;font-family:Arial ,arial;font-size:85%;line-height:24px;padding:0;" class="fallback-font"><p style="text-align: center;"><img src="https://skins.webservices.illinois.edu/files/48456/igncmplgwht.png" alt="" width="100" height="33" /><br /><span style="font-size: 8pt;">University of Illinois at Chicago | Office of Advancement</span><br /><span style="font-size: 8pt;">750 S. Halsted St., Suite 500 (MC 100)</span><br /><span style="font-size: 8pt;">Chicago, Il 60607</span><br /><span style="font-size: 8pt;"><a href="mailto:advancement@uic.edu">advancement@uic.edu</a></span><br /><span style="font-size: 8pt;">(312) 413-8517</span></p>
+<p><span style="font-size: 8pt;">&copy; 2020 <a href="http://www.uic.edu/">University of Illinois at Chicago</a>&nbsp;All Rights Reserved.&nbsp;</span></p></td>
+                           <td align="left" bgcolor="#D50032" style="background:#D50032;padding:0;width:35px;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                           <td align="left" bgcolor="#D50032" colspan="3" style="background:#D50032;padding:0;line-height:8px;">&nbsp;</td>
+                        </tr><!-- SUBSCRIBE UNSUBSCRIBE -->
+                        <tr id="subscribe-wrapper">
+                           <td align="left" bgcolor="#D50032" style="background:#D50032;padding:0;width:35px;">&nbsp;</td>
+                           <td align="center" bgcolor="#D50032" border="0" id="subscribe" style="width:630px;text-align:center;background-color:#D50032;color:#FFFFFF;font-family:Arial ,arial;font-size:85%;line-height:24px;padding:0;" class="fallback-font"><span id="subscription"></span></td>
+                           <td align="left" bgcolor="#D50032" style="background:#D50032;padding:0;width:35px;">&nbsp;</td>
+                        </tr>
+                        <tr>
+                           <td align="left" bgcolor="#D50032" colspan="3" style="background:#D50032;padding:0;line-height:8px;">&nbsp;</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+            <tr>
+               <td align="left" height="16" style="line-height:16px;height:16px;padding:0;">&nbsp;</td>
+            </tr>
+         </tbody>
+      </table><script>
+            		if(window.top != window.self)
+            		{ 
+	            		document.body.style.backgroundColor = '#EDEDED';
+    				}
+            	</script></body>
+</html>

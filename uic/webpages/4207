@@ -1,0 +1,379 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Pathology &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="grad"
+>
+    <div class="wrap">
+
+
+		<div class="banner-text">
+			<h2 id="banner-header">2020-2022 Graduate Catalog</h2>
+		</div>
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="active isparent"><a href="/gcat/">Graduate Catalog</a>
+	<ul class="nav levelone" id="/gcat/">
+		<li><a href="/gcat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/gcat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/gcat/graduate-study/">Graduate Study at UIC</a></li>
+		<li class="isparent"><a href="/gcat/degree-programs/">Degree Programs</a></li>
+		<li class="active isparent"><a href="/gcat/colleges-schools/">Colleges &amp;&#8203; Schools</a>
+		<ul class="nav leveltwo" id="/gcat/colleges-schools/">
+			<li class="isparent"><a href="/gcat/colleges-schools/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/dentistry/">College of Dentistry</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/education/">College of Education</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/engineering/">College of Engineering</a></li>
+			<li class="isparent"><a href="/gcat/graduate-college/">Graduate College</a></li>
+			<li><a href="/gcat/colleges-schools/law/">School of Law</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="active isparent"><a href="/gcat/colleges-schools/medicine/">College of Medicine</a>
+			<ul class="nav levelthree" id="/gcat/colleges-schools/medicine/">
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/anat/">Anatomy and Cell Biology</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/bcmg/">Biochemistry and Molecular Genetics</a></li>
+				<li><a href="/gcat/colleges-schools/medicine/cvsc/">Cardiovascular Science (Interdepartmental Graduate Concentration)</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/pcol/">Cellular and Molecular Pharmacology</a></li>
+				<li><a href="/gcat/colleges-schools/medicine/gems/">Graduate Education in Medical Sciences</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/hpe/">Health Professions Education</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/mbt/">Medical Biotechnology</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/mphys/">Medical Physiology</a></li>
+				<li><a href="/gcat/colleges-schools/medicine/mstp/">Medical Scientist Training Program</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/mim/">Microbiology and Immunology</a></li>
+				<li class="active isparent self"><a href="#" onclick="return false;">Pathology</a>
+				<ul class="nav levelfour" id="/gcat/colleges-schools/medicine/path/">
+					<li><a href="/gcat/colleges-schools/medicine/path/ms/">MS in Pathology</a></li>
+					<li><a href="/gcat/colleges-schools/medicine/path/phd/">PhD in Pathology</a></li>
+				</ul>
+				</li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/psl/">Patient Safety Leadership</a></li>
+				<li class="isparent"><a href="/gcat/colleges-schools/medicine/phyb/">Physiology and Biophysics</a></li>
+				<li><a href="/gcat/colleges-schools/medicine/md/">Medicine (Professional Program: MD)</a></li>
+			</ul>
+			</li>
+			<li class="isparent"><a href="/gcat/colleges-schools/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/social-work/">Jane Addams College of Social Work</a></li>
+			<li class="isparent"><a href="/gcat/colleges-schools/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li><a href="/gcat/colleges-schools/council-teacher-education/">Council on Teacher Education</a></li>
+			<li><a href="/gcat/colleges-schools/addl-opps/">Additional Opportunities for Graduate and Professional Study</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/gcat/course-descriptions/">Graduate Course Descriptions</a></li>
+		<li class="isparent"><a href="/gcat/graduate-college/">Graduate College</a></li>
+		<li><a href="/gcat/faculty/">Graduate Faculty</a></li>
+		<li><a href="/gcat/archive-links/">Archive &amp;&#8203; Links</a></li>
+		<li><a href="http://grad.uic.edu" target="_blank">Graduate College Website</a></li>
+		<li><a href="/gcat/facultytest/">Faculty Test</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/gcat/">Graduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/gcat/colleges-schools/">Colleges&nbsp;&amp;&nbsp;Schools</a><span class="crumbsep">/</span></li><li><a href="/gcat/colleges-schools/medicine/">College&nbsp;of&nbsp;Medicine</a><span class="crumbsep">/</span></li><li><span class="active">Pathology</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Pathology</h1>
+
+
+<script type="text/javascript">
+//<![CDATA[
+	var defshow = "text";
+	var bodycontainer = "#body";
+	var validhashes = ",text,degreerequirementstext,coursestext,";
+
+if(window.location.hash.length) {
+	var hash = cleanHash(window.location.hash);
+	if(validhashes.indexOf("," + hash + ",") != -1)
+		defshow = hash;	
+}
+var ss = document.styleSheets;
+var workss = null;
+for(var i=0; i < ss.length; i++) {
+	var currmedia = "";
+	if (typeof ss[i].media == "string") 
+		currmedia = ss[i].media
+	else if (typeof ss[i].media == "object" && ss[i].media.mediaText) 
+		currmedia = ss[i].media.mediaText;
+	
+	if((currmedia == "screen" || currmedia == "all") && (ss[i].href.indexOf("/") == 0 || ss[i].href.indexOf(document.location.host) >= 0)) {
+		workss = ss[i];
+		break;	
+	}
+}
+if(workss && workss.insertRule) {
+	workss.insertRule(".tab_content { display: none; }", workss.cssRules.length)
+	workss.insertRule(".sectionheader { display: none; }", workss.cssRules.length)
+	workss.insertRule("#" + defshow + "container { display: block; }", workss.cssRules.length)
+} else if(workss && workss.addRule) {
+	workss.addRule(".tab_content", "display: none");
+	workss.addRule(".sectionheader", "display: none");
+	workss.addRule("#" + defshow + "container", "display: block");
+}
+else {
+	if (window.console)
+		window.console.log('screen.css <link> needs attribute media="screen"');
+}
+//]]>
+</script>
+	<div id="tabs">
+		<ul class="clearfix" role="tablist">
+			<li id="texttab" role="presentation">
+<a href="#textcontainer" role="tab" aria-controls="textcontainer" onclick="return showSection('text');">Overview</a></li>
+			<li id="degreerequirementstexttab" role="presentation">
+<a href="#degreerequirementstextcontainer" role="tab" aria-controls="degreerequirementstextcontainer" onclick="return showSection('degreerequirementstext');" >Admission and Degree Requirements</a></li>
+			<li id="coursestexttab" role="presentation">
+<a href="#coursestextcontainer" role="tab" aria-controls="coursestextcontainer" onclick="return showSection('coursestext');" >Courses</a></li>
+		</ul>
+	</div>
+
+<div id="textcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="texttab" aria-hidden="true">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<p class="mailing_address"><span class="label"><strong>Mailing Address: </strong></span><br/>
+College of Medicine (MC 847)<br/>
+840 South Wood Street, Room 130 CSN <br/>
+Chicago, IL 60612</p>
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span><br/>
+<span class="campus_location">Campus Location: Room 130 CSN <br/>
+<span class="phone">(312) 996-6604 </span><br/>
+<span class="email"><a href="mailto:sarah@uic.edu">sarah@uic.edu</a></span> <br/>
+<span class="website"><a href="http://pathology.uic.edu/">pathology.uic.edu</a></span></span></p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br/>
+Head of Department: Frederick G. Behm<br/>
+Co-Directors of Graduate Studies: Alan M. Diamond and Larissa Nonn<br/>
+Program Administrator: Sara Mata</p>
+<p class="program_codes"><span class="label"><strong>Program Codes:</strong> </span><br/>
+20FS1548MS (MS) <br/>
+20FS1548PHD (PhD)</p>
+<p>The faculty in the Department of Pathology participate in the <a href="https://chicago.medicine.uic.edu/education/masters-and-doctorate-programs/graduate-education-in-biomedical-sciences-gems/about/">Graduate Education in bioMedical Sciences PhD Program </a>and <a href="/gcat/colleges-schools/medicine/mstp/">Medical Scientist Training Program</a>. The department is oriented toward the study of disease at the molecular, cellular, organ, whole organism, and population levels, using a wide range of approaches including epidemiology. Students are initially immersed in an integrated curriculum and later they complete specialized training in an area of pathology of their choice, including, but not limited to, cancer prevention, biomarkers of cancer, molecular and genetic epidemiology, tumor biology, and mechanisms of cancer development and progression. All areas focus on translational and transdisciplinary aspects of pathology, cancer research, and epidemiology.</p></div><!--end #textcontainer -->
+
+			<div id="degreerequirementstextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="degreerequirementstexttab" aria-hidden="true">
+				<a name="degreerequirementstext"></a><h2>Admission and Degree Requirements</h2>
+<ul>
+	<li><a href="/gcat/colleges-schools/medicine/path/ms/">MS in Pathology</a></li>
+	<li><a href="/gcat/colleges-schools/medicine/path/phd/">PhD in Pathology</a></li>
+</ul>
+			</div>
+			<div id="coursestextcontainer" class="page_content tab_content" role="tabpanel" aria-labelledby="coursestexttab" aria-hidden="true">
+				<a name="coursestext"></a><div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>PATH 421.  General Pathology - Dental.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Basic principles of pathological processes. Course Information: Prerequisite(s): <a href="/search/?P=ANAT%20440" title="ANAT 440" class="bubblelink code" onclick="return showCourse(this, 'ANAT 440');">ANAT 440</a> and PATH 407 and PHYB 401; or consent of instructor. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PATH 422.  Systemic Pathology - Dentistry.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Disease process affecting specific organs. Course Information: Prerequisite(s): <a href="/search/?P=PATH%20421" title="PATH 421" class="bubblelink code" onclick="return showCourse(this, 'PATH 421');">PATH 421</a>. Class Schedule Information:  To be properly registered, students must enroll in one Laboratory and one Lecture.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PATH 507.  Physiological Basis of Pathology.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Subject matter allied to general pathology but going deeper into physical chemistry and physiological principles, as set forth in N.R. Joseph's &quot;Comparative Physical Biology.&quot; Course Information: Same as <a href="/search/?P=HSTL%20507" title="HSTL 507" class="bubblelink code" onclick="return showCourse(this, 'HSTL 507');">HSTL 507</a>. Prerequisite(s): HSTL 401; or <a href="/search/?P=PATH%20421" title="PATH 421" class="bubblelink code" onclick="return showCourse(this, 'PATH 421');">PATH 421</a> and <a href="/search/?P=PATH%20422" title="PATH 422" class="bubblelink code" onclick="return showCourse(this, 'PATH 422');">PATH 422</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PATH 510.  General Pathology.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to the science of disease for graduate students in areas of biomedical research with a focus on the mechanisms of basic pathological processes at the molecular, cellular, tissue, and whole organism levels. Course Information: Prerequisite(s): Consent of the instructor. Recommended background: Basic molecular and cell biology is highly recommended.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PATH 511.  Pathobiology of Cancer.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to principles of carcinogenesis, tumor biology, and oncology, including cancer epidemiology, molecular-cellular basis of cancer, tumor progression, invasion and metastasis, and prevention, detection, diagnosis, and therapy of cancer. Course Information: Same as <a href="/search/?P=GEMS%20512" title="GEMS 512" class="bubblelink code" onclick="return showCourse(this, 'GEMS 512');">GEMS 512</a>. Prerequisite(s): Consent of the instructor. Recommended background: Basic knowledge of molecular and cell biology is highly recommended.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PATH 512.  Molecular Epidemiology and Biomarkers of Disease.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Major theoretical concepts and practical issues involved in research involving molecular biomarkers in human populations, emphasizing examples from the cancer research literature. Course Information: Same as <a href="/search/?P=EPID%20512" title="EPID 512" class="bubblelink code" onclick="return showCourse(this, 'EPID 512');">EPID 512</a>. Prerequisite(s): Consent of the instructor. Recommended background: Some biology or medical background is recommended for epidemiology students taking this course.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PATH 513.  Special Topics in Pathology.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Topics of current interest in the fields of experimental pathology, cancer biology, molecular epidemiology, experimental design and analysis, biomarker research, and cancer prevention. Course Information: May be repeated. Prerequisite(s): Approval of the department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PATH 595.  Pathology Seminar and Journal Club.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Weekly seminar and journal club covering selected fields of interest and research in pathology. Course Information: Satisfactory/Unsatisfactory grading only.  Class Schedule Information:  To be properly registered, students must enroll in one Conference and one Lecture-Discussion.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PATH 598.  Master's Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research in experimental pathology towards M.S. degree. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>PATH 599.  Ph.D. Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research in experimental pathology towards a Ph.D. degree. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term.<br/>
+</p>
+</div></div>
+			</div>
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2020-2021 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/gcat/colleges-schools/medicine/path/path.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2020-22-graduate.pdf" target="_blank">Download PDF of the entire Graduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

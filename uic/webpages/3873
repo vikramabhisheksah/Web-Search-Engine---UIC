@@ -1,0 +1,516 @@
+<!doctype html>
+<html lang="EN" class="white1">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="csrf-token" content="D02to1BOF4oXHueoME3G7LKDgQZnQDu18jU5HTfT">
+                <title>    Uniquely UIC
+ | Nexus | University of Illinois at Chicago</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://nexus.admissions.uic.edu/css/uic-red.css" type="text/css">
+    <link rel="stylesheet" href="https://nexus.admissions.uic.edu/css/app.css" type="text/css">
+        <link rel="stylesheet" href="https://nexus.admissions.uic.edu/css/slate.css" type="text/css">
+    <link rel="stylesheet" href="https://nexus.admissions.uic.edu/plugins/owl/docs/assets/owlcarousel/assets/owl.carousel.css"/>
+    <link rel="stylesheet" href="https://nexus.admissions.uic.edu/plugins/owl/docs/assets/owlcarousel/assets/owl.theme.default.min.css"/>
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,400italic,300italic' rel='stylesheet'
+          type='text/css'>
+    <link rel="stylesheet" href="https://nexus.admissions.uic.edu/plugins/owl/dist/assets/owl.theme.default.min.css"/>
+    <style>
+        header.header.uniquely-uic {
+            background-image: url('/image/U197-XL.jpg');
+        }
+        .header .header-content .page-title-container {
+            display: flex;
+            text-align: center;
+            bottom: 0;
+        }
+        .header-content .page-title-container .page-title-container-inner{
+            align-self: flex-end;
+            padding-bottom: 5em; 
+        }
+        .header-content .page-title-container .page-title-container-inner h1{
+            font-weight: 600;
+        }
+        .header .header-edge-bleed {
+            background-color: rgba(255,0,0,.35); 
+        }
+        header.header.uniquely-uic .header-edge-bleed{
+            background-color: transparent;
+            background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.65));
+        }
+        header.header.uniquely-uic .header-edge-bleed{
+            background-color: transparent;
+            background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.65));
+        }
+        @media  screen and (max-width: 1200px) {
+            header.uniquely-uic {
+                background-image: url('/image/U197-LG.jpg') !important;  replace with LG variant
+            }
+        }
+        @media  screen and (max-width: 768px) {
+            header.uniquely-uic {
+                background-image: url('/image/U197-MD.jpg') !important;  replace with MD variant
+            }
+            #social-media-cta {
+                margin-left: auto;
+                margin-right: auto;
+                width: 45%;
+            }
+        }
+        @media  screen and (max-width: 320px) {
+            header.uniquely-uic {
+                background-image: url('/image/U197-SM.jpg') !important;  replace with SM variant
+            }
+            #social-media-cta {
+                margin-left: auto;
+                margin-right: auto;
+                width: 45%;
+            }
+        }
+        .form_label, .form_question {
+            font-size: 1.25em;
+            line-height: 1.25em;
+        }
+        #social-media-cta {
+            z-index: 10001;
+            position: fixed;
+            bottom: 0;
+            right: 100px;
+            box-shadow: 6px -2px 19px -1px rgba(0, 0, 0, .19);
+            border-radius: 4px 4px 0 0;
+            overflow: hidden;
+        }
+        #social-media-cta .soc-wrapper-cta-generic.solo {
+            border-radius: 0 4px 0 0;
+        }
+
+        element.style {
+        }
+        #social-media-cta .soc-wrapper-cta-generic.solo {
+            border-radius: 0 4px 0 0;
+        }
+        #social-media-cta .soc-service-wrapper {
+            float: left;
+            height: 50px;
+            padding: 15px;
+            text-align: center;
+        }
+        #social-media-cta .soc-wrapper-cta-generic {
+            background-color: #dc3545;
+            border-top: 0 #dc3545 solid;
+            border-bottom: 0 #dc3545 solid;
+            border-left: 0 #dc3545 solid;
+            border-right: 0 #dc3545 solid;
+            transition: border .2s;
+        }
+        #social-media-cta .soc-wrapper-cta-generic .soc-service-icon {
+            font-family: 'Source Sans Pro',sans-serif;
+            color: #fff;
+            font-weight: bold;
+        }
+        #social-media-cta .soc-service-icon {
+            font-size: 20px;
+            line-height: 10px;
+        }
+        #social-media-cta .soc-service-wrapper a {
+            color: #ffffff !important;
+            text-decoration: none;
+        }
+    </style>
+    <script src ="https://up.pixel.ad/assets/up.js?um=1"></script>
+    <script type="text/javascript">
+        cntrUpTag.track('cntrData', 'd980fb7762f5b7bf');
+    </script>
+
+<!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+    <script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://applynow.uic.edu/ping"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900|Roboto:300,400,700,900" rel="stylesheet">
+    <link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet">
+</head>
+<body class="home">
+
+<header class="header version--blue uniquely-uic " role="banner">
+        <div class="header-background-image-container">
+        <div class="header-background-image" aria-hidden="true"></div>
+    </div>
+    <div class="header-menu-bar homepage-header-navigation">
+        <nav id="navigation-eyebrow" class="navigation-eyebrow" role="navigation" aria-label="Eyebrow navigation">
+    <navigation-eyebrow></navigation-eyebrow>
+</nav>        <nav class="navigation-primary" role="navigation" aria-label="Primary navigation">
+    <div class="navigation-primary-inner">
+                    <div class="inner-page-logo-container">
+                <div class="mark-wrapper">
+                    <a href="https://uic.edu" title="The University of Illinois at Chicago"><svg class="circle-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><path d="M36.5 17.3L33.1 19c-.3-1.3-1-2-2.3-2-1.7 0-2.5 1.4-2.5 3.6s.8 3.6 2.5 3.6c1.2 0 1.8-.6 2.2-1.6l3.5 1.3c-.9 2.1-2.8 3.5-5.8 3.5-4.1 0-6.5-2.8-6.5-6.8s2.5-6.8 6.6-6.8c3.2.1 5 1.8 5.7 3.5m-14.1 9.8h-3.9v-13h3.9v13zm-6.3-5.3c0 1.8-.2 2.7-.7 3.6-.9 1.4-3.2 2-5.2 2s-4.3-.6-5.2-2c-.5-.9-.7-1.8-.7-3.6v-7.7h3.9v7.8c0 .9.1 1.5.4 1.8.3.4.8.5 1.5.5s1.2-.2 1.5-.5c.3-.4.4-1 .4-1.8v-7.8h3.9v7.7zM40 20C40 9 31 0 20 0S0 9 0 20s9 20 20 20 20-9 20-20"></path>
+                        </svg>
+                    </a>
+                </div>
+                <div class="word-wrapper">
+                    <a href="/" title="#UICBOUND">#UICBOUND</a>
+                </div>
+            </div>
+                <ul id="navigation-toggle" class="primary-nav-list">
+            <li><nav-menu-toggle></nav-menu-toggle></li>
+            <li class="menu-label-item"><span class="menu-label">Menu</span></li>
+            <li class="primary-list-item">
+                <a class="primary-list-anchor" href="https://admissions.uic.edu/undergraduate/application-process/newly-admitted-students?utm_source=nexus&utm_medium=site&utm_content=primary%20nav%20link&utm_campaign=nexus-2021" data-event_label="2021_a_admitted_checklist_navbar" data-event_category="link" target="_blank">Admitted Student Checklist</a>
+            </li>
+            <li class="primary-list-item">
+                <a class="primary-list-anchor" href="https://nexus.admissions.uic.edu/resource-library" data-event_label="2021_a_resource_library_navbar" data-event_category="link">On-demand presentations</a>
+            </li>
+            <li class="primary-list-item">
+                <a class="primary-list-anchor" href="https://admissions.uic.edu/2021-admissions-updates?utm_source=nexus&utm_medium=site&utm_content=primary%20nav%20link&utm_campaign=nexus-2021" data-event_label="2021_a_admissions_updates_navbar" data-event_category="link" target="_blank">Admission Updates</a>
+            </li>
+            <li class="primary-list-item">
+                <a class="primary-list-anchor" href="https://discover.uic.edu/?utm_source=nexus&utm_medium=site&utm_content=primary%20nav%20link&utm_campaign=nexus-2021" data-event_label="2021_a_admissions_updates_navbar" data-event_category="link" target="_blank">Not Yet Admitted?</a>
+            </li>
+        </ul>
+            </div>
+</nav>
+    </div>
+
+        <div class="header-edge-bleed container-fluid px-0">
+        <div class="header-content">
+            <div class="page-title-container hero-image-with-title">
+                <div class="page-title-container-inner">
+                    <div style="align-self: flex-end">
+                        <div class="row">
+                            <div class="col">
+                                <h1 style="color: white;" >You make us uniquely UIC.</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<main>
+    <div class="noscript-wrap">
+        <noscript>This site uses Javascript. For a complete experience please enable javascript in your browser. If you need further assistance please consult <a href="https://www.enable-javascript.com/" title="How to enable Javascript in your browser">https://www.enable-javascript.com/</a></noscript>
+    </div>
+                    <div id="app">
+        <div id="about" class="container stratum cttc content-wrapper">
+            <div class="support-text col-md-12">
+                <div class="row pt-5">
+                    <div class="col-lg-12 col-sm-12 col-md-12">
+                        <p>Everyone has a goal to pursue, a perspective to share, a story to tell. You’ve heard from our students; tell us more about you. Why are you choosing UIC? How will you make your mark? Where do you plan to be in four years? </p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col text-center">
+                        <a role="button" id="story-cta" class="btn btn-danger btn-lg" style="text-decoration: none;color:white;">Tell us your story</a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div id="form_fd5714c9-4fc2-45f1-b518-9629997c3098" style="display:none"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="students" class="container-fluid stratum">
+            <div class="container card-wrapper promoted d-flex flex-wrap">
+                <div class="col-md-12 mb-2">
+                    <h2 class="promoted-title">We're Uniquely UIC</h2>
+                </div>
+
+                                    <div class="col-lg-4 col-md-6 card">
+                        <div class="inner-card">
+                            <img class="card-img-top" src="/image/Uniquely_UIC_Billy_hero-SM.jpg"
+                                 alt="Profile picture of Billy">
+                            <div class="card-body">
+                                <h5 class="card-title">Billy</h5>
+                                <p class="card-text">
+                                    Class of 2022, Kinesiology                                 </p>
+                                <a href="/uniquely-uic/billy" class="btn btn-primary"
+                                   target="_blank" style="text-decoration: none;">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-4 col-md-6 card">
+                        <div class="inner-card">
+                            <img class="card-img-top" src="/image/Uniquely_UIC_Mummypraise_hero-SM.jpg"
+                                 alt="Profile picture of Mummypraise">
+                            <div class="card-body">
+                                <h5 class="card-title">Mummypraise</h5>
+                                <p class="card-text">
+                                    Class of 2022, Biological Sciences                                 </p>
+                                <a href="/uniquely-uic/mummypraise" class="btn btn-primary"
+                                   target="_blank" style="text-decoration: none;">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-4 col-md-6 card">
+                        <div class="inner-card">
+                            <img class="card-img-top" src="/image/Uniquely_UIC_Kristin_hero-SM.jpg"
+                                 alt="Profile picture of Kristin">
+                            <div class="card-body">
+                                <h5 class="card-title">Kristin</h5>
+                                <p class="card-text">
+                                    Class of 2022, Law                                </p>
+                                <a href="/uniquely-uic/kristin" class="btn btn-primary"
+                                   target="_blank" style="text-decoration: none;">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-4 col-md-6 card">
+                        <div class="inner-card">
+                            <img class="card-img-top" src="/image/Uniquely_UIC_Zuriel_hero-SM.jpg"
+                                 alt="Profile picture of Zuriel">
+                            <div class="card-body">
+                                <h5 class="card-title">Zuriel</h5>
+                                <p class="card-text">
+                                    Class of Spring 2021, Business Management                                 </p>
+                                <a href="/uniquely-uic/zuriel" class="btn btn-primary"
+                                   target="_blank" style="text-decoration: none;">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-4 col-md-6 card">
+                        <div class="inner-card">
+                            <img class="card-img-top" src="/image/Uniquely_UIC_Anahi_hero-SM.jpg"
+                                 alt="Profile picture of Anahi">
+                            <div class="card-body">
+                                <h5 class="card-title">Anahi</h5>
+                                <p class="card-text">
+                                    Class of 2023, Civil Engineering                                 </p>
+                                <a href="/uniquely-uic/anahi" class="btn btn-primary"
+                                   target="_blank" style="text-decoration: none;">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                                    <div class="col-lg-4 col-md-6 card">
+                        <div class="inner-card">
+                            <img class="card-img-top" src="/image/Uniquely_UIC_Alexandria_hero-SM.jpg"
+                                 alt="Profile picture of Alexandria">
+                            <div class="card-body">
+                                <h5 class="card-title">Alexandria</h5>
+                                <p class="card-text">
+                                    Class of 2021, Public Health                                 </p>
+                                <a href="/uniquely-uic/alexandria" class="btn btn-primary"
+                                   target="_blank" style="text-decoration: none;">Learn more</a>
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+        <div id="tour-the-campus" class="container-fluid stratum">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-sm-12 mb-3">
+                        <h2>Tour the campus.</h2>
+                        <div class="row">
+                            <div class="col pt-5">
+                                <p>From self-guided options to interactive maps, and a video tour, there are several options to learn more about the buildings and spaces that make up our 244 acre urban campus.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-sm-12 pt-5">
+                        <div class="row">
+                            <div class="col text-center">
+                                <div class="complete-sentence-cta-wrap mt-4">
+                                    <p>
+                                        <a  href="https://admissions.uic.edu/book-visit/self-guided-tours">Video tour
+                                            <svg width="24" height="24" class="arrow" viewBox="0 0 24 24">
+                                                <polygon fill="currentColor" fill-rule="nonzero"
+                                                         points="13 20 11 20 11 8 5.5 13.5 4.08 12.08 12 4.16 19.92 12.08 18.5 13.5 13 8"></polygon>
+                                            </svg>
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="social-media-cta" class="">
+            <div id="cta-generic" class="soc-service-wrapper soc-wrapper-cta-generic solo" role="dialog" aria-labelledby="chat">
+                <div id="generic-btn" class="soc-service-icon" aria-label="Covid-19 Update">
+                    <a href="https://admissions.uic.edu/undergraduate/intent-enroll" title="Accept Offer" target="_blank">Accept Offer</a>
+                </div>
+            </div>
+        </div>
+        <div id="photo-tour" class="container stratum content-wrapper">
+            <social-media-wall></social-media-wall>
+        </div>
+    </div>
+</main>
+<footer id="footer">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-8 map-location">
+
+
+
+
+
+
+
+            </div>
+            <div class="col-md-4 links-wrapper">
+                <div class="browse links">
+                    <h2 class="footer-list-title">Browse</h2>
+                    <ul class="footer-list">
+                        <li class="footer-list-item"><a href="https://admissions.uic.edu/apply-now?utm_source=nexus-site&utm_medium=site&utm_content=footer%20link&utm_campaign=nexus-2021" title="" target="_blank" class="footer-list-link">Apply to UIC</a></li>
+                        <li class="footer-list-item"><a href="https://admissions.uic.edu/program-finder?utm_source=nexus-site&utm_medium=site&utm_content=footer%20link&utm_campaign=nexus-2021" title="" target="_blank" class="footer-list-link">Program Finder</a></li>
+                        <li class="footer-list-item"><a href="https://admissions.uic.edu/book-visit?utm_source=nexus-site&utm_medium=site&utm_content=footer%20link&utm_campaign=nexus-2021" title="" target="_blank" class="footer-list-link">Book a Visit</a></li>
+                    </ul>
+                </div>
+                <div class="resources links">
+                    <h2 class="footer-list-title">Resources</h2>
+                    <ul class="footer-list">
+                        <li class="footer-list-item"><a href="/" title="" target="_blank" class="footer-list-link">Home</a></li>
+                        <li class="footer-list-item"><a href="http://disabilityresources.uic.edu/" title="" target="_blank" class="footer-list-link">Accessibility</a></li>
+                        <li class="footer-list-item"><a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm" title="" target="_blank" class="footer-list-link">Privacy Statement</a></li>
+                        <li class="footer-list-item"><a href="/sitemap.xml" title="" target="_blank" class="footer-list-link">Sitemap</a></li> 
+                        <li class="footer-list-item"><a href="https://uic.edu" title="" target="_blank" class="footer-list-link">UIC.edu</a></li>
+                        <li class="footer-list-item"><a href="http://disabilityresources.uic.edu/" title="" target="_blank" class="accessibility footer-list-link">Accessibility</a></li>
+                    </ul>
+                </div>
+                <div class="social-platforms">
+                    <ul class="social-icons-list">
+                        <li>
+                            <a href="https://www.facebook.com/gouic" target="_blank" class="facebook">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Facebook"><title>Facebook</title><path d="M17 26.7V15h3.2s.3-2 .4-4H17V8.3s.5-.9 1-.9h2.5c0-.6.2-2.4.3-4h-3.7c-5 0-4.9 3.9-4.9 4.5v3.2h-3v4h3.1v11.7H17z"></path></svg>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/apply2uic">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Tweeter"><title>Twitter</title><path d="M25.4 9.4c-.7.3-1.5.6-2.4.7.9-.5 1.5-1.3 1.8-2.3-.8.5-1.7.8-2.6 1-.8-.8-1.8-1.3-3-1.3-2.3 0-4.1 1.9-4.1 4.1 0 .3 0 .6.1.9-3.4-.2-6.5-1.8-8.5-4.3-.4.6-.6 1.3-.6 2.1 0 1.4.7 2.7 1.8 3.4-.7 0-1.3-.2-1.9-.5v.1c0 2 1.4 3.7 3.3 4.1-.3.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.6 2.1 2.8 3.9 2.9-1.4 1.1-3.2 1.8-5.1 1.8-.3 0-.7 0-1-.1 1.8 1.2 4 1.9 6.3 1.9 7.6 0 11.8-6.3 11.8-11.8v-.5c.9-.6 1.6-1.3 2.1-2.2z"></path></svg>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/channel/UCJcrEfHfl1MZp1kvh_vElIA">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Youtube"><title>YouTube</title><path d="M9.5 11.8h1.4V8.3l1.6-4.8h-1.4l-.9 3.3-.9-3.3H7.9l1.6 5M14.4 11.9c.6 0 1-.1 1.3-.4.3-.3.5-.7.5-1.2V7.1c0-.5-.2-.8-.5-1.1-.3-.3-.7-.4-1.3-.4-.6 0-1 .1-1.3.4-.3.3-.5.7-.5 1.1v3.2c0 .5.2.9.5 1.2.3.3.7.4 1.3.4zM13.9 7c0-.1 0-.2.1-.3.1-.1.2-.1.4-.1s.3 0 .4.1c.1.1.2.2.2.3v3.3c0 .2 0 .3-.1.4-.1.1-.2.1-.4.1s-.3 0-.4-.1c-.1-.1-.1-.2-.1-.4V7zM18 11.8c.2 0 .5-.1.7-.2.2-.1.5-.3.7-.6v.7h1.2V5.6h-1.2v4.6c-.1.1-.2.2-.4.3-.1.1-.3.1-.3.1-.1 0-.2 0-.2-.1-.1-.1-.1-.2-.1-.3V5.6h-1.2v5.1c0 .4.1.6.2.8.1.3.3.3.6.3zM20.7 19.3c-.2 0-.3 0-.4.2-.1.1-.1.3-.1.5v.6h1V20c0-.2 0-.4-.1-.5-.1-.1-.2-.2-.4-.2zM17 19.3c-.4-.1-.6.2-.6.2V23s.3.4.7.2c0 0 .2-.1.2-.5v-2.9c.1.1.2-.4-.3-.5z"></path><path d="M23.1 14.9c-.9-.9-8.4-.9-8.4-.9s-7.6 0-8.5.9c-.9.9-.9 5.3-.9 5.4 0 0 0 4.5.9 5.4.9.9 8.5.9 8.5.9s7.6 0 8.5-.9c.9-.9.9-5.4.9-5.4 0-.1-.1-4.5-1-5.4zm-12.2 2.7H9.7V24H8.4v-6.4H7.2v-1.1H11v1.1zm3.6 6.4h-1.1v-.6c-.2.2-.4.4-.6.5-.2.1-.4.2-.6.2-.3 0-.4-.1-.6-.2-.1-.2-.2-.4-.2-.7v-4.6h1.1v4.3c0 .1 0 .2.1.3 0 .1.1.1.2.1s.2 0 .3-.1l.3-.3v-4.2h1.1V24zm4-1.1c0 .4-.1.7-.3.9-.2.2-.4.3-.7.3-.2 0-.4 0-.6-.1-.2-.1-.3-.2-.5-.4v.4h-1.1v-7.5h1.1v2.4c.1-.2.3-.3.5-.4.2-.1.3-.1.5-.1.3 0 .6.1.8.4.2.2.3.6.3 1v3.1zm3.8-1.5h-2.1v1c0 .3 0 .5.1.6.1.1.2.2.4.2s.3 0 .4-.1c.1-.1.1-.3.1-.6v-.3h1.1v.3c0 .6-.1 1-.4 1.3-.3.3-.7.4-1.2.4s-.9-.2-1.2-.5c-.3-.3-.4-.7-.4-1.3V20c0-.5.2-.9.5-1.2.3-.3.7-.5 1.2-.5s.9.1 1.2.4c.3.3.4.7.4 1.2v1.5z"></path></svg>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-contact">
+        <div class="l-full">
+            <div class="footer-contact__simple _grid-container">
+                <div class="_wordmark">
+                    <div class="uic-type-treatment -large uic-wordmark--footer">
+                        <div class="_mark">
+                            <a href="http://uic.edu" class="uic-logo-icon ">
+                                <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+                                    <title>UIC Logo</title>
+                                    <circle class="_circle" cx="27" cy="27" r="25" fill="none"></circle>
+                                    <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF" fill-rule="evenodd"></path>
+                                </svg>
+                            </a>
+                        </div>
+                        <div class="_text">
+                            <a href="/">Nexus</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="_contact" class="container stratum  content-wrapper">
+                    <div class="row ">
+                        <div class="col col-sm-12 mb-3">
+                            <h2>Contact</h2>
+                        </div>
+                    </div>
+                    <div class="row ">
+                        <div class="col col-sm-12">
+                            <p>UIC Undergraduate Admissions</p>
+                            <div class="site-email"><a href="https://admissions.uic.edu/undergraduate/contact-undergraduate-admissions?utm_source=nexus&utm_medium=site&utm_content=footer%20contact%20link&utm_campaign=nexus-2021">Contact Form</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div aria-label="Social Media Accounts" class="_social">
+                    <h2 class="assistive-text">Social Media Accounts</h2>
+                    <ul class="site-social-links">
+                    </ul>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+    <div class="footer-uic-menu">
+        <div class="l-full">
+
+            <div aria-label="UIC.edu Links">
+                <h2 class="assistive-text">UIC.edu links</h2>
+                <ul class="uic-footer-menu">
+                    <li><strong><a href="http://uic.edu/">UIC.edu</a></strong></li>
+                    <li><a href="http://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+                    <li><a href="http://www.uicflames.com/">Athletics</a></li>
+                    <li><a href="http://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+                    <li><a href="http://disabilityresources.uic.edu/">Disability Resources</a></li>
+                    <li><a href="http://emergency.uic.edu/">Emergency Information</a></li>
+                    <li><a href="http://events.uic.edu/">Event Calendar</a></li>
+                    <li><a href="http://uic.edu/about/job-opportunities">Job Openings</a></li>
+                    <li><a href="http://library.uic.edu/">Library</a></li>
+                    <li><a href="http://maps.uic.edu/">Maps</a></li>
+                    <li><a href="http://news.uic.edu/uicnews">UIC News</a></li>
+                    <li><a href="http://hospital.uillinois.edu/">UI Health</a></li>
+                    <li><a href="http://www.uic.edu/depts/dos/studentveteranaffairs.shtml">Veterans Affairs</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+    <div class="footer-legal">
+        <div class="l-full">
+
+            <div class="site-copyright">
+                © 2021 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+                <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a>
+            </div>
+
+            <div class="campuses" aria-label="Campuses">
+                <h2 class="assistive-text">Campuses</h2>
+                <ul class="campuses-list">
+                    <li><a href="http://www.uillinois.edu/">University of Illinois System</a></li>
+                    <li><a href="http://www.illinois.edu/">Urbana-Champaign</a></li>
+                    <li><a href="http://www.uis.edu/">Springfield</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</footer>
+<script>
+    window.Laravel = {"csrfToken":"D02to1BOF4oXHueoME3G7LKDgQZnQDu18jU5HTfT"};
+
+    
+</script>
+<script src="https://nexus.admissions.uic.edu/js/app.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function () {
+            $('#story-cta').click(function () {
+
+                script = document.createElement('script');
+                script.async = 1;
+                script.src = 'https://applynow.uic.edu/register/?id=fd5714c9-4fc2-45f1-b518-9629997c3098&amp;output=embed&amp;div=form_fd5714c9-4fc2-45f1-b518-9629997c3098';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(script, s);
+
+                $('#form_fd5714c9-4fc2-45f1-b518-9629997c3098').show();
+                $('#story-cta').hide();
+            });
+        });
+    </script>
+
+
+
+
+
+
+
+
+</body>
+</html>

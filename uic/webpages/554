@@ -1,0 +1,184 @@
+<!-- public.php -->
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=Edge"/><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><!-- favicon.twig -->
+<link rel="apple-touch-icon" sizes="180x180" href="//libapps.s3.amazonaws.com/apps/common/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon-16x16.png">
+<link rel="manifest" href="//libapps.s3.amazonaws.com/apps/common/favicon/site.webmanifest">
+<link rel="mask-icon" href="//libapps.s3.amazonaws.com/apps/common/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="//libapps.s3.amazonaws.com/apps/common/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#ffc40d">
+<meta name="msapplication-config" content="//libapps.s3.amazonaws.com/apps/common/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<!-- !favicon.twig --><title>LibApps Login @ University of Illinois at Chicago</title><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="robots" content="noindex,nofollow,noarchive" /><link rel="stylesheet" href="/libapps/web/jquery/css/jquery-ui.min.css?2695" /><link rel="stylesheet" href="/libapps/web/font-awesome/4.7.0/css/font-awesome.min.css" /><link rel="stylesheet" href="/libapps/web/css2.13.2/lg-public.min.css" /><script type="text/javascript" src="/libapps/web/jquery/js/jquery-3.6.0.min.js"></script><!-- js_include_fallback.twig -->
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script>
+        jQuery.ui ||
+        document.write('<script src="/libapps/web/jquery/js/jquery-ui.min.js?2695">\x3C/script>');
+    </script>
+<!-- !js_include_fallback.twig --><script type="text/javascript" src="/libapps/web/js2.13.2/lg-public.min.js"></script><link rel="stylesheet" href="/libapps/web/css2.13.2/libapps.public.css" /><script>
+                var system = {"name":""};
+                springSpace.publicObj = new springSpace.public.Public({
+                    constant: {
+                        PROCESSING: {},
+                        CONTENT: {}
+                    },
+                    system_name: system.name,
+                    customer: {"name":"University of Illinois at Chicago"}
+                })
+            </script></head>
+<body class="s-lib-public-body">
+<div id="s-lib-banner" class="container s-lib-banner-public" role="banner">
+    LibApps Login @ University of Illinois at Chicago</div>
+
+<div id="s-lib-public-main" class="s-lib-main container">
+    <section>
+        <div id="s-libapps-page-content" class="row">
+            <div id="s-libapps-page-content-center" class="col-md-12" style="max-width:800px;">
+                <section>
+                                        <div id="s-libapps-public-wrapper" class="row">
+                        <div id="s-libapps-content-div" class="col-md-12">
+                            <div id="s-libapps-public-message" class="alert alert-info" style="display:none;">
+
+                            </div>
+                            <div id="s-libapps-public-content" style="padding-top:5px;">
+                                <!-- login.twig -->
+<div class="row">
+    <div class="col-md-6" style="">
+        <form method="post" name="s-libapps-login-form" id="s-libapps-login-form"
+              onsubmit="submitLoginForm(); return false;">
+            <input type="hidden" name="action" value="1"/>
+            <input type="hidden" name="site_id" value="3766"/>
+            <input type="hidden" name="target" value=""/>
+            <input type="hidden" name="target64" value=""/>
+            <input type="hidden" name="public" value="0"/>
+            <input type="hidden" name="mode" value="0"/>
+
+            <div style="margin-bottom:10px; font-weight:bold;">
+                Login with your LibApps account credentials:
+            </div>
+
+            <div class="form-group">
+                <input type="text" class="form-control" name="s-libapps-email" id="s-libapps-email"
+                       placeholder="Email" value=""/>
+            </div>
+
+            <div class="form-group">
+                <input type="password" class="form-control" name="s-libapps-password" id="s-libapps-password"
+                       placeholder="Password"/>
+            </div>
+
+            <div>
+                <button type="submit" class="btn btn-primary" id="s-libapps-login-button"
+                        data-loading-text="Processing..." onclick="jQuery(this).button('loading');">
+                    Log Into LibApps
+                </button>
+            </div>
+        </form>
+    </div>
+
+    </div>
+
+<div id="s-libapps-login-links">
+    <a href="/libapps/reset">Reset Password?</a><span class="s-libapps-link-spacer"></span><a href="https://ask.springshare.com/faq/443" target="_blank">Login FAQ</a>
+</div>
+
+<div id="s-libapps-login-notes">
+    <p>
+        What is LibApps? LibApps at University of Illinois at Chicago is a platform powering LibGuides, LibAnswers, LibCal,
+        LibInsight, and other Springshare tools licensed by your institution.
+    </p>
+
+    <p>
+        <b>Browser Support:</b> Chrome, Firefox, Safari, Edge. Cookies must be enabled.
+
+        <span class="pull-right" style="color: #eee;">
+            <b>Customer ID</b>: 32
+
+                            <b>Site ID</b>: 3766
+                    </span>
+    </p>
+
+</div>
+
+
+<script type="text/javascript">
+    submitLoginForm = function () {
+        jQuery.ajax({
+            url: "login_process.php",
+            type: "POST",
+            dataType: "json",
+            data: jQuery("#s-libapps-login-form").serialize(),
+            success: function (response, textStatus, jqXHR) {
+                /**
+                 * If successful, we'll redirect to the target URL, remembering to
+                 * grab the hash in the event we are navigating to a specific box or
+                 * other section.
+                 */
+                if (response.data.result === 1) {
+                    window.location.replace(response.data.target + window.location.hash);
+                } else {
+                    resetLoginForm();
+                    if (response.data.is_reset === 1) {
+                        jQuery("#s-libapps-public-message").html("").toggle(false);
+                        jQuery("#s-libapps-public-content").html(response.data.html);
+                    } else {
+                        setMessage(
+                            (response.data.html
+                                    ? response.data.html
+                                    : "Your email or password were incorrect."
+                            ),
+                            "alert alert-danger"
+                        );
+                    }
+                }
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                springSpace.UI.error(errorThrown);
+            }
+        });
+    };
+
+    resetLoginForm = function () {
+        jQuery("#s-libapps-login-button").button("reset");
+        jQuery("#s-libapps-password").val("").focus();
+    };
+
+    initLibAuth = function (url) {
+        document.location.href = url;
+    }
+</script>
+
+<style>
+    form {
+        margin-bottom: 0 !important;
+    }
+</style>
+<!-- !login.twig -->
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <div id="s-libapps-footer-public">
+                    <div id="s-lib-footer-rights">
+                        Copyright 2007-2021                        <a href="https://springshare.com">Springshare, LLC.</a> All rights reserved.
+                    </div>
+                    |
+                    <div id="s-lib-footer-privacy">
+                        <a href="https://springshare.com/privacy.html">Springshare privacy policy.</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<div id="s-lib-alert" title=""><div id="s-lib-alert-content"></div></div><div id="s-lib-popover-title" class="hide"><span class="text-info"><strong>title</strong></span><button type="button" id="popclose" class="close" onclick="jQuery('.s-lib-popover').popover('hide')">&times;</button></div><div id="s-lib-popover-content" class="hide"><i class="fa fa-refresh fa-spin"></i> Loading...<button class="btn btn-default btn-sm popclose" type="button">Close</button></div><script type="text/javascript">
+                setMessage=function(text, class_name) {
+                    jQuery("#s-libapps-public-message")
+                        .html(text)
+                        .attr("class", (class_name === "" ? "alert alert-info" : class_name))
+                        .toggle(text !== "");
+                }
+            </script></body>
+
+</html><!-- !public.php -->

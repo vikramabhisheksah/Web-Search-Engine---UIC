@@ -1,0 +1,324 @@
+
+
+<!DOCTYPE html>
+<html  class=""  lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>
+        
+    Entrepreneurial Support Program - February / New Form (page 1/2)
+
+    </title>
+    <!-- IE Shims -->
+    <!--[if (gte IE 6)&(lte IE 8)]>
+            <script type="text/javascript" src="https://cdn.atlas.illinois.edu/code/scripts/html5shiv/1.0r15/html5.js"></script>
+        <![endif]-->
+    <!-- Presentation
+    *********************************** -->
+    <link href="https://appserv7.admin.uillinois.edu/formbuildersurvey/webskins/departments/default_uic_bootstrap/presentation.css" media="all" rel="stylesheet" type="text/css" />
+    <link rel="icon" href="https://cdn.atlas.illinois.edu/assets/images/icons/favicon.ico" type="image/x-icon" />
+    
+<link href="/FormBuilderSurvey/cassette.axd/asset/Content/SiteContent/bootstrap4-toggle.min.css?f4e2a54dab518243b9372e92fd624b72488a2f4b" type="text/css" rel="stylesheet"/>
+<link href="/FormBuilderSurvey/cassette.axd/asset/Content/SiteContent/dataTables.css?9b9e0959149b9707d43ab4eb57326a6c7201d900" type="text/css" rel="stylesheet"/>
+<link href="/FormBuilderSurvey/cassette.axd/asset/Content/SiteContent/site.custom.css?a470cb1e5e97392fb03e5fc731002d66b70f8405" type="text/css" rel="stylesheet"/>
+<link href="/FormBuilderSurvey/cassette.axd/asset/Content/SiteContent/datepicker/css/adobeBlank.css?99af84a76b308f7a551b01d85f0c63b7fb6a300a" type="text/css" rel="stylesheet"/>
+<link href="/FormBuilderSurvey/cassette.axd/asset/Content/SiteContent/datepicker/css/datepicker.css?c44c3ef0cecb0d744dc6b90f8c53aaa867759586" type="text/css" rel="stylesheet"/>
+<link href="/FormBuilderSurvey/cassette.axd/asset/Content/SiteContent/font_awesome/css/font-awesome.css?b3184796bc8b863e301105757557293df953de38" type="text/css" rel="stylesheet"/>
+<link href="/FormBuilderSurvey/cassette.axd/asset/Content/SiteContent/jqueryUI/jquery-ui-1.10.3.custom.css?d81f93773f98df20c9eb4d876c7ae580fda62530" type="text/css" rel="stylesheet"/>
+<link href="/FormBuilderSurvey/cassette.axd/asset/Content/SiteContent/pnotify/pnotify.css?1f7b6f138fded7927859a0e5d37430847717a6f6" type="text/css" rel="stylesheet"/>
+
+
+    
+
+</head>
+<body id="body">
+    
+    <!-- Content wrappers
+    *********************************** -->
+    <div id="pre_fbTopNav"></div>
+    <nav class="navbar navbar-expand-md navbar-dark bg-primary mb-4 sticky-top" id="fbTopNav">
+        <a class="navbar-brand" href="/FormBuilderSurvey/Survey/uic_college_of_business_administration/uic_business_entrepreneurial_support_program_workshop/venture000000000000/Index"><img id="navbar-brand-logo" class="d-sm-inline-block align-top" />Entrepreneurial Support Program - February</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mr-auto" id="nav_campusIdentifier">
+                <li class="nav-item active">
+                    <a class="nav-link" href="http://www.uic.edu/uic/" title="University of Illinois at Chicago" id="nav_campusLink">University of Illinois at Chicago</a>
+                </li>
+            </ul>
+            <ul class="navbar-nav mr-auto" id="notifications" aria-hidden="true" id="nav_notificationsArea"></ul>
+
+            <ul class="navbar-nav my-auto" id="nav_authenticationInformation">
+                <li class="nav-item dropdown" id="user"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#" id="navbarDropdown">Not Logged In</a><div class="dropdown-menu"><a class="dropdown-item" href="/FormBuilderSurvey/Authentication/LogIn?currentFormId=e987efea-0b75-43cc-8e3a-adf100ba1881">Log In</a></div></li>
+            </ul>
+
+        </div>
+
+    </nav>
+    <div id="post_fbTopNav"></div>
+    <div id="pre_content"></div>
+    <div id="content" role="main" class="container">
+        <h1 id="fbContentTitle">
+            <a href="/FormBuilderSurvey/Survey/uic_college_of_business_administration/uic_business_entrepreneurial_support_program_workshop/venture000000000000/Index">
+                
+    Entrepreneurial Support Program - February
+
+            </a>
+        </h1>
+        
+
+
+<div class="card">
+    <div class="card-body">
+        <div class="alert alert-danger validationSummary validation-summary-valid" role="alert">
+            <h4 class="alert-heading">Invalid Fields</h4>
+            <div class="validationSummary validationSummaryDetails validation-summary-valid">
+                <p>There are 0 invalid fields.  They have been highlighted.</p>
+            </div>
+        </div>
+        <form action="/FormBuilderSurvey/Survey/uic_college_of_business_administration/uic_business_entrepreneurial_support_program_workshop/venture000000000000/SaveFormResponse?formResponseId=f9775b9a-1270-4d8c-9588-adf901394e37&amp;page=1"
+              method="post" id="surveyForm" enctype="multipart/form-data">
+            <input name="__RequestVerificationToken" type="hidden" value="FJI5mmvB9n5_JsnWSO-SwK-__MprMRQlrbkB76J1gT2e3SRlWJvNSKMIZa9MPJq3eAIQm5cbZJdBPcqWsZoTFaGWSrzHkQ4pCUPrX9YaCQQ1" />
+            <input type="hidden" name="pageIdentifier" value="094d6839-c3ac-485e-ba53-90f2dbe6ee00" />
+            <input id="moveBackwards" name="moveBackwards" type="hidden" value="False" />
+            <input id="overCapacityFormAcknowledged" name="overCapacityFormAcknowledged" type="hidden" value="False" />
+    <div id="S815469b66f9b4d2caed6adf100ba1894">
+        <p><img src="https://files.webservices.illinois.edu/8227/colcbalockbsmpms.png" alt="UIC Business Logo" title="UIC Business Logo" /></p>
+
+<h2>HOW TO START YOUR BUSINESS: VENTURE SERIES</h2>
+
+<p><em>Please NOTE that due to UIC procedures related to Coronavirus (COVID-19), this workshop will be <strong>HELD ONLINE</strong>. Please register as normal and a couple of days before the workshops, an email will be sent with the link for online access.</em></p>
+
+<p>Are you looking for expert advice on starting and growing a small business? The Venture Series offers an opportunity to learn how to build a solid foundation to grow your dream business. The series, open to the university community and the public, consists of 4 - 2 hour workshops. Each workshop will provide you with tools and resources to take your business to the next level.</p>
+
+<p><strong>Venture Start</strong> - What resources are available to help you develop your business? How do you access those resources? During this session we will guide you through some of the many local resources to help you start your business. We will discuss and help you compile a list of next steps to move your plan to the next level.</p>
+
+<p><strong>Venture Viability</strong> - Is your idea a solid business opportunity? Does your idea have staying power? As we discuss customers, product, competition, and profit; you will learn about tools for determining the viability of your new venture. </p>
+
+<p><strong>Venture Finance</strong> - Where do you find funding to get your business started? How do you get the money you need? This in depth look at many ways to fund your business gives insight into how to access these sources and develop a plan for where to go next. Learn about many funding options available for startups.</p>
+
+<p><strong>Venture Launch</strong> - Learn about legal and regulatory issues that need to be addressed before starting your business. Topics include your launch plan, where to get required licenses and registrations, and getting set up to pay the right taxes. Avoid common pitfalls and plan your steps with a startup checklist.   </p>
+
+<p><strong>Each workshop is $10. <em>Those in the UIC community can register for free</em>.</strong></p>
+
+<hr />
+
+<p><em>Please NOTE that due to UIC procedures related to Coronavirus (COVID-19), this workshop will be <strong>HELD ONLINE</strong>. Please register as normal and a couple of days before the workshops, an email will be sent with the link for online access.</em></p>
+
+<p>Venture Start - Wednesday, February 2, 6:00 PM - 8:00 PM<br />
+Venture Viability - Wednesday, February 9, 6:00 PM - 8:00 PM<br />
+Venture Finance - Wednesday, February 16, 6:00 PM - 8:00 PM<br />
+Venture Launch - Wednesday, February 23, 6:00 PM - 8:00 PM  </p>
+
+<p><em>Because there are 4 workshops, please register for each workshop you intend to attend.</em><br />
+If you have any questions about the workshops, please contact Steve at sbob@uic.edu</p>
+
+<hr />
+
+<p>To register, please select the NEXT button below.</p>
+
+<hr />
+
+<p>Please plan your schedule carefully and mark your calendar with class information. </p>
+
+<p>The Entrepreneurial Support Program (ESP) has a <strong>"no refund"</strong> policy.  </p>
+
+<p>Just as you are building a successful business through attendance at informational workshops, we depend on your enrollment for successful workshops.<br />
+Attendee substitutions can be made at any time and at no cost by notifying us 24 hours before the workshop starts. If the ESP cancels a class, we will offer credit to a future workshop.</p>
+
+<p><img src="https://files.webservices.illinois.edu/8227/business-idea-1240825_480.jpg" alt="Goal Plan Success" title="Goal Plan Success" /></p>
+
+                
+    </div>
+
+                <div class="alert alert-danger validationSummary validation-summary-valid" role="alert">
+                    <h4 class="alert-heading">Invalid Fields</h4>
+                    <div class="validationSummary validationSummaryDetails validation-summary-valid">
+                        <p>There are 0 invalid fields.  They have been highlighted.</p>
+                    </div>
+                </div>
+                <div id="saveButtonsOuter">
+                    <div id="saveButtons" class="row">
+                      
+                            <div class="col col-md-2 col-sm">
+                                <button id="saveButton_1" type="submit" class="btn btn-primary btn-block" value="">
+                                    Next
+                                        &#32;<i class="fa fa-arrow-right" aria-hidden="true"></i>
+                                </button>
+                            </div>
+                                            </div>
+                </div>
+        </form>
+    </div>
+</div>
+<div id="auth_overlay" style="display:none;">
+    <div id="auth_overlay_alert" tabindex="0" aria-describedby="alert_message" aria-hidden="false" role="alertdialog">
+        <p id="alert_message">Your session has ended.  Please click below to log back in.</p>
+                <a id="auth_overlay_login" href="#" class="btn btn-primary">Log In</a>
+    </div>
+</div>
+
+        <!-- InstanceEndEditable -->
+        <div class="visuallyhidden" id="ariaLog" aria-live="polite" aria-relevant="additions text"></div>
+    </div>
+    <div id="post_content"></div>
+
+    <!-- Footer -->
+    <div id="pre_fbFooter"></div>
+    <footer class="pt-4 mt-2 my-md-5 pt-md-5 border-top bg-light" id="fbFooter">
+
+        <!-- Footer Links -->
+        <div id="pre_fbFooter_links"></div>
+        <div class="container-fluid text-center text-md-left" id="fbFooter_links">
+
+            <!-- Grid row -->
+            <div id="pre_fbFooter_links_row1"></div>
+            <div class="row" id="fbFooter_links_row1">
+
+                <!-- Site Information -->
+                <div id="pre_fbFooter_links_siteDetails"></div>
+                <div class="col-md-6 mt-md-0 mt-3" id="fbFooter_links_siteDetails">
+                    <h2 class="sr-only">Site Details</h2>
+                    <!-- Content -->
+                    <h3 class="h5 text-uppercase">Entrepreneurial Support Program - February</h3>
+                                <p>Current Form Phase: New Form (page 1/2)</p>
+
+
+                    <p>Version 1.41.0.2_build2021-08-12_090010_(no branch)_f8457e4246aae113195c27ad6f08e8ab2dc4e0d4</p>
+
+                </div>
+                <div id="post_fbFooter_links_siteDetails"></div>
+                <!-- Grid column -->
+
+                <hr class="clearfix w-100 d-md-none pb-3">
+
+                <!-- Contact Info -->
+                <div id="pre_fbFooter_links_contactInfo"></div>
+                <div class="col-md-6 mb-md-0 mb-6" id="fbFooter_links_contactInfo">
+
+                    <p>UIC Business - Entrepreneurial Support Program | The University of Illinois at Chicago | 601 S Morgan Street | Chicago, IL 60607</p>
+
+
+                </div>
+                <div id="post_fbFooter_links_contactInfo"></div>
+                <!-- Grid column -->
+
+
+            </div>
+            <div id="post_fbFooter_links_row1"></div>
+
+            <!-- Grid row -->
+            <div id="pre_fbFooter_links_row2"></div>
+            <div class="row text-center" id="fbFooter_links_row2">
+                <div id="pre_fbFooter_links_legalese"></div>
+                <div class="col" id="fbFooter_links_legalese">
+                    <ul class="list-unstyled">
+                        <li>Please read the <a class="link" href="http://go.illinois.edu/privacy">Web Privacy Notice</a> for privacy terms and conditions employed by the University of Illinois.</li>
+                        <li>&#169; 2021 University of Illinois Board of Trustees.</li>
+                    </ul>
+                </div>
+                <div id="post_fbFooter_links_legalese"></div>
+
+            </div>
+            <div id="post_fbFooter_links_row2"></div>
+
+        </div>
+        <div id="post_fbFooter_links"></div>
+
+        <!-- Footer Links -->
+
+    </footer>
+    <div id="post_fbFooter"></div>
+
+    
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/cdn/jquery-3.2.1.js?aef099b5955785dd74423d756c1119daf633ab8c" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/cdn/jquery.validate.js?3286bf3c08ea3b273bcf97e24f553e37a211d6e4" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/additional-methods.js?a457adbac9e62949f32437457ab88e3fc99e8626" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/bootstrap4-toggle.min.js?4bcfdf2effe58345c69ed61d13adba541a4281e2" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/date.js?714c778bb5d88de7801c79d82ad34da626b6d930" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/datepicker.js?7500d0a0d1741c3f70042239490b4a87d40576bc" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/jquery-ui-1.10.3.custom.js?4557733ed9906eed641b8594d9d34888195d0b17" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/jquery-ui-timepicker-addon.js?f28d2a2685b8687a78b71ae81162709b8a4c1759" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/jquery.ba-throttle-debounce.js?eb7500402ed6074a5848a1234a64bcbeb0484d79" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/jquery.cookie.js?ec99f25b7fe28d080d1b4c090c83a2551b0382f5" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/jquery.floatThead.js?fe363c35e427324ee8b369b82ecc293244840b62" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/moment.js?a13349779577a68e92b7b45e0f7f8154c6b435da" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/vendor/pnotify.js?720f2c87f5c8c9e5e22762c026f45d68cf445306" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/cdn/popper.min.js?87fa3bd1a30791a5f9afc863dd6bb61d9c209313" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/cdn/bootstrap.min.js?907c20a9b068cb0bed985f7d37504298184cb58b" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/global/dateUtils.js?ea994eada30af4bf0717723c2b5024b56d56f7ea" type="text/javascript"></script>
+<script src="/FormBuilderSurvey/cassette.axd/asset/Scripts/public/global/site.js?419bbd2c8f3ebd2df94c7bf5cb53c7ef747d76b9" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        uiuc.atlas.formbuilder.service.constructor.setOtherSelectionValue('___OTHER___');
+        uiuc.atlas.formbuilder.service.constructor.setNetIdResolutionUrl('/FormBuilderSurvey/RemoteValidation/ResolveNetId');
+        uiuc.atlas.formbuilder.service.constructor.setNetIdValidationUrl('/FormBuilderSurvey/RemoteValidation/ValidateNetId');
+        uiuc.atlas.formbuilder.service.constructor.setCampusCourseResolutionUrl('/FormBuilderSurvey/RemoteValidation/ResolveCampusCourse');
+        uiuc.atlas.formbuilder.service.constructor.setCampusCourseValidationUrl('/FormBuilderSurvey/RemoteValidation/ValidateCampusCourse');
+    </script>
+    
+    <script type="text/javascript">
+
+        $(window).on("unload", function () {
+            if ($("#movePreviousButton").length > 0) {
+                $("#movePreviousButton").removeAttr("disabled");
+            }
+        });
+
+        $(document).ready(function () {
+
+            // add move previous button
+            if ($("#movePreviousContainer").length > 0) {
+                $("#movePreviousContainer").html('<button class="btn btn-secondary" type="submit" id="movePreviousButton"><i class="fa fa-arrow-left" aria-hidden="true"></i> Previous</button>');
+                $("#movePreviousButton").click(function () {
+                    return movePrevious();
+                });
+            }
+        });
+
+        function movePrevious() {
+            var continueWithSubmit = true;
+            if (!$("#surveyForm").valid()) {
+                continueWithSubmit = confirm("This page has invalid fields. The data on this page will be lost if you move back to the previous page.  Are you sure you wish to move back?");
+            }
+            if (continueWithSubmit) {
+                $("#moveBackwards").val(true);
+                $(":input").each(function () {
+                    var name = $(this).attr("name");
+                    if (name) {
+                        uiuc.atlas.formbuilder.service.controlService.setRequired(name, false);
+                    }
+                });
+            }
+            return continueWithSubmit;
+
+        }
+    </script>
+
+    <script type="text/javascript">
+(function(w) {
+var d = w['pageSubmissionSettings']||(w['pageSubmissionSettings']={"pageIdentifier":"094d6839-c3ac-485e-ba53-90f2dbe6ee00","formResponseId":"f9775b9a-1270-4d8c-9588-adf901394e37","cookiePrefix":"fb","surveyPageUrl":"https://appserv7.admin.uillinois.edu/FormBuilderSurvey/Survey/uic_college_of_business_administration/uic_business_entrepreneurial_support_program_workshop/venture000000000000/Survey"});
+}(window));
+
+(function(w) {
+var d = w['pageSessionSettings']||(w['pageSessionSettings']={"sessionTimeRemaining":null,"sessionWarningUrl":"/FormBuilderSurvey/Authentication/uic_college_of_business_administration/uic_business_entrepreneurial_support_program_workshop/venture000000000000/WarnTimeout?formGroupId=b0b2add6-d28c-453a-90c4-a9dd00dfa1d6","refreshSessionUrl":"/FormBuilderSurvey/Authentication/uic_college_of_business_administration/uic_business_entrepreneurial_support_program_workshop/venture000000000000/RefreshSession?formGroupId=b0b2add6-d28c-453a-90c4-a9dd00dfa1d6","getSessionTimeSecondsRemainingUrl":"/FormBuilderSurvey/Authentication/uic_college_of_business_administration/uic_business_entrepreneurial_support_program_workshop/venture000000000000/GetSessionTimeSecondsRemaining?formGroupId=b0b2add6-d28c-453a-90c4-a9dd00dfa1d6&username=__ANONYMOUS__"});
+}(window));
+
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+uiuc.atlas.formbuilder.service.formService.validateFormResponse();
+uiuc.atlas.formbuilder.question.eventSession.shouldAllowSelectionOfInvalidSessions(false);
+uiuc.atlas.formbuilder.service.formService.initializeFormValidation('surveyForm');
+});
+</script>
+
+    
+
+
+</body>
+</html>

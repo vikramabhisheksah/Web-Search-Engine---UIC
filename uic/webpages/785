@@ -1,0 +1,264 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Council on Teacher Education &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+<input type="hidden" name="fscaturl" value="/ucat" /><input type="hidden" name="gscaturl" value="/ucat" />				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="ugrad"
+>
+    <div class="wrap">
+
+		<div class="banner-text">
+			<h2 id="banner-header">2021-2023 Undergraduate Catalog</h2>
+		</div>
+
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="active isparent"><a href="/ucat/">Undergraduate Catalog</a>
+	<ul class="nav levelone" id="/ucat/">
+		<li><a href="/ucat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/ucat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/ucat/admissions-registration-finances/">Admissions, Registration &amp;&#8203; Finances</a></li>
+		<li class="isparent"><a href="/ucat/degree-programs/">Degree Programs and Requirements</a></li>
+		<li class="active isparent"><a href="/ucat/colleges-depts/">Colleges &amp;&#8203; Departments</a>
+		<ul class="nav leveltwo" id="/ucat/colleges-depts/">
+			<li class="isparent"><a href="/ucat/colleges-depts/applied-health-sciences/">College of Applied Health Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/architecture-design-arts/">College of Architecture, Design, and the Arts</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/business-administration/">College of Business Administration</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/education/">College of Education</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/engineering/">College of Engineering</a></li>
+			<li><a href="/ucat/colleges-depts/honors-college/">Honors College</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/liberal-arts-sciences/">College of Liberal Arts and Sciences</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/nursing/">College of Nursing</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/pharmacy/">College of Pharmacy</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/public-health/">School of Public Health</a></li>
+			<li class="isparent"><a href="/ucat/colleges-depts/urban-planning-public-affairs/">College of Urban Planning and Public Affairs</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Council on Teacher Education</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/ucat/course-descriptions/">Undergraduate Course Descriptions</a></li>
+		<li><a href="/ucat/archive-links/">Archive &amp;&#8203; Links</a></li>
+	</ul>
+	</li>
+	<li class="isparent"><a href="/all-course-descriptions/">All Course Descriptions</a></li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/ucat/">Undergraduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/ucat/colleges-depts/">Colleges&nbsp;&amp;&nbsp;Departments</a><span class="crumbsep">/</span></li><li><span class="active">Council on Teacher Education</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Council on Teacher Education</h1>
+
+
+
+<div id="textcontainer" class="page_content">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+<p class="campus_location"><span class="label"><strong>Contact Information: </strong></span>
+<br /><span class="campus_location">Campus Location: 1333 S. Halsted, Suite 205 (MC 134)
+<br /><span class="phone">(312) 355-0714 </span>
+
+<br /><span class="website"><a href="http://cte.uic.edu">cte.uic.edu</a> </span>
+</p>
+<p class="administration"><span class="label"><strong>Administration: </strong></span><br />Executive Director, Dr. Aginah M. Muhammad, (312) 996-9177<br />Assistant Director and Licensure Officer, Sierra Ryan, (312) 355-0718<br />Student Teaching Coordinator, Brittney Beck-James, (312) 355-1872<br />Customer Service Representative, Shatell Coleman, (312) 355-0714<br /></p>
+	</div>
+</div>
+
+<h3><strong>Overview of Licensure Phases and Processes</strong></h3>
+<p>The Council on Teacher Education (CTE) is the professional education unit for the University of Illinois Chicago responsible for coordinating Professional Educator Licensure (PEL) programs and maintaining the State of Illinois Licensure requirements. </p>
+<p>Decisions about licensure are a joint effort of a candidate’s program, the Council on Teacher Education (CTE), and the Illinois State Board of Education (ISBE). The program coordinator and faculty have the main responsibility for ensuring that candidates are prepared to become licensed teachers and are, thus, entitled to apply for licensure. They approve qualifications before the CTE begins its process of evaluation. The CTE’s licensure officer entitles an individual to apply for a license at the state level. The CTE checks that candidates have met state requirements, such as passing the required state-level tests and completing the course, assessment, and grade requirements stipulated by the program as addressing state objectives. ISBE makes the final decision about whether or not a candidate receives licensure based upon the information it receives from the institution and a candidate’s application.</p>
+<p>CTE serves programs in the College of Education, the College of Liberal Arts and Sciences, the College of Architecture, Design, and the Arts, the College of Nursing, and the Jane Addams College of Social Work.</p>
+<h4><strong>Admission to Candidacy</strong></h4>
+<p>To be eligible for candidacy, candidates must meet the following criteria:</p>
+<ol>
+	<li>Completed General Education course work; earned a minimum cumulative GPA as specified by the program, including transfer credits; and completed professional education requirements.</li>
+	<li>Completed the minimum number of clock hours of fieldwork specified by the program and as part of the professional education course work.</li>
+	<li>Completed all other requirements as specified by the program.</li>
+</ol>
+<h4><strong>Admission to Student Teaching</strong></h4>
+<p>To be eligible for student teaching, candidates must meet the following criteria:   </p>
+<ol>
+	<li>Completed General Education course work; earned a minimum cumulative GPA as specified by the program in all course work, including transfer credits; completed professional education requirements with a minimum as specified by the program; and completed course work in their teaching field with a GPA as specified in their program.</li>
+	<li>Completed the minimum number of clock hours of fieldwork specified by the program and as part of the professional education course work.</li>
+	<li>Passed the Illinois Content Area Test in the teaching field if student teaching will occur.</li>
+	<li>Submitted a student teaching application before the deadline during the spring term of the academic year preceding the student teaching experience.</li>
+	<li>Submitted verification of a negative TB test.<sup>a</sup> This test must be taken early enough to submit the results with the application (it may take up to four weeks to get the results).</li>
+	<li>Completed the Chicago Public Schools registration process, which includes a criminal background check.<sup>a</sup></li>
+	<li>Met any additional requirements as specified within each program.</li>
+</ol>
+<h4><strong>Entitlement to Illinois State Licensure</strong></h4>
+<p>To become licensed, candidates must have done the following:</p>
+<ol>
+	<li>Met all requirements for graduation in their home college.</li>
+	<li>Completed all early field experiences.</li>
+	<li>Completed and passed all assessments including all licensure exams and the Illinois Content Test.</li>
+	<li>Successfully completed student teaching.</li>
+	<li>Completed and filed a licensure application and any related endorsement requests with the Council on Teacher Education.</li>
+	<li>Passed the edTPA.</li>
+	<li>Completed and submitted an exit survey.</li>
+</ol>
+<h4><strong>Illinois Licensure Test Requirements</strong></h4>
+<p>Before the license is issued, the candidate must also pass a series of examinations required by the Illinois State Board of Education. All tests are valid indefinitely.  The Illinois Content Area Test must be passed before the candidate is allowed to student teach.  A teaching license is not issued until a student passes the final performance assessment, the EdTPA.</p>
+<p>For information on application procedures, contact the Council on Teacher Education located at 1333 S. Halsted, Suite 205.</p>
+<p>Effective March 2003, Illinois &quot;Approved Program Verification&quot; forms and applications for Illinois teaching licenses will no longer be signed based solely on completion of a teacher education program if that program was completed more that three years prior to the verification request. The faculty in relevant colleges and departments will evaluate the records of program completers based on UIC’s current program requirements and make recommendations regarding licensure.</p>
+<p>The Illinois State Board of Education occasionally changes the requirements for licensure. For current information, contact the academic advisor in the major field of study or the Council on Teacher Education.</p>
+<table role="presentation" border="0" width="100%" class="sc_footnotes"><tr><td valign="top" class="symcol">a</td><td class="notecol"><p><em>Teacher candidates are responsible for bearing the expense of the TB test and the criminal background check.</em></p></td></tr></table>
+<h3><strong>Secondary Education Program</strong></h3>
+<p>The University of Illinois Chicago offers several secondary teacher education programs located in the College of Liberal Arts and Sciences (LAS). Through LAS, the student can study the Teaching of English, Teaching of French, Teaching of German, Teaching of History, Teaching of Mathematics, and Teaching of Spanish. The programs provide for the development of a major field of study with an emphasis on teaching. Please consult the home college for more information about these degree requirements.</p>
+<p>Licensure in Art Education is available through the College of Architecture, Design, and the Arts. Upon completion of all UIC program requirements and all Illinois State Board of Education licensure requirements, Bachelor of Fine Arts in Art Education students are eligible to be recommended for a teaching license endorsed in visual arts. Graduates of the program who meet licensure requirements will be qualified to teach in grades PK-12. </p>
+<p>At the undergraduate level, the College of Education offers the BA in Urban Education leading to the State of Illinois Professional Educator Licensure in grades 1-6 with the option of adding grades 5-8 only. </p>
+<p>Licensure in the teaching of biology, chemistry, physics, environmental science, or earth and space sciences is available through the College of Education in the MEd in Instructional Leadership: Science Education. </p>
+<p><strong>Contact the appropriate department for more information on content specific programs.</strong></p></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2021-2023 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/ucat/colleges-depts/council-teacher-education/council-teacher-education.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2021-23-undergraduate.pdf" target="_blank">Download PDF of the entire Undergraduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

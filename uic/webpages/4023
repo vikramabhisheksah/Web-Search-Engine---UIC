@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<!-- OneTrust Cookies Consent Notice start, uic.edu -->
+<script src="https://onetrust.techservices.illinois.edu/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="c2f2262d-b694-4eba-8f4b-142c102b685a"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end, uic.edu -->
+
+
+<!-- Google Analytics Code -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-20665772-1', 'auto');
+    ga('create', 'UA-4402713-9', 'auto', 'todayTracker');
+    ga('send', 'pageview');
+    ga('todayTracker.send', 'pageview');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-57G9C3Q');</script>
+<!-- End Google Tag Manager -->
+  
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>&#8216;A light at the end of the tunnel&#8217; | UIC Today</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://today.uic.edu/wp-content/themes/uictoday/css/style.min.css" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://today.uic.edu/feed" />
+<link rel="shortcut icon" href="https://today.uic.edu/wp-content/themes/uictoday/favicon.ico" />
+
+<!-- Favicons -->
+<!-- generated at https://favicon.io/favicon-converter/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/today.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://today.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ugb-style-css-v2-css'  href='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2.css?ver=3.0.2' type='text/css' media='all' />
+<style id='ugb-style-css-v2-inline-css' type='text/css'>
+:root {
+			--content-width: 900px;
+		}
+</style>
+<link rel='stylesheet' id='ugb-style-css-premium-v2-css'  href='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2__premium_only.css?ver=3.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://today.uic.edu/wp-includes/css/dist/components/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://today.uic.edu/wp-includes/css/dist/block-editor/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://today.uic.edu/wp-includes/css/dist/nux/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://today.uic.edu/wp-includes/css/dist/editor/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='sld_block-cgb-style-css-css'  href='https://today.uic.edu/wp-content/plugins/simple-link-directory/gutenberg/sld-block/dist/blocks.style.build.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='https://today.uic.edu/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.99912' type='text/css' media='all' />
+<link rel='stylesheet' id='ssp-recent-episodes-css'  href='https://today.uic.edu/wp-content/plugins/seriously-simple-podcasting/assets/css/recent-episodes.css?ver=2.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wow-icons-fa-css'  href='https://today.uic.edu/wp-content/plugins/wow-icons//assets/fontawesome/font-awesome.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='upw_theme_standard-css'  href='https://today.uic.edu/wp-content/plugins/ultimate-posts-widget/css/upw-theme-standard.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://today.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.14' type='text/css' media='all' />
+<style id='tablepress-default-inline-css' type='text/css'>
+.tablepress-id-1 .column-1{vertical-align:middle}.tablepress-id-1 tbody td{font-size:15px}.tablepress-id-1{width:auto important!}.tablepress-id-1 img{margin:0!important}.tablepress-id-6 .column-1{vertical-align:middle}.tablepress-id-6 tbody td{font-size:15px}.tablepress-id-6{width:auto important!}.tablepress-id-6 img{margin:0!important}.tablepress-id-3 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-3 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-3 .odd td{background-color:#e6e6e6}.tablepress-id-3 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-3 .column-1{width:50%}.tablepress-id-4 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-4 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-4 .odd td{background-color:#e6e6e6}.tablepress-id-4 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-4 .column-1{width:50%}.tablepress-id-5 thead th{font-weight:400;font-size:1.9em;margin-top:.83em;margin-bottom:.83em;background-color:#006;color:#FFF}.tablepress-id-5 .row-2 td{background-color:#C00;color:#FFF}.tablepress-id-5 .odd td{background-color:#e6e6e6}.tablepress-id-5 td{padding:6px 15px;border:#999 1px solid}.tablepress-id-5 .column-1{width:50%}
+</style>
+<link rel='stylesheet' id='ari-fancybox-css'  href='https://today.uic.edu/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.css?ver=1.3.8' type='text/css' media='all' />
+<script type='text/javascript' id='ugb-block-frontend-js-v2-js-extra'>
+/* <![CDATA[ */
+var stackable = {"restUrl":"https:\/\/today.uic.edu\/wp-json\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2.js?ver=3.0.2' id='ugb-block-frontend-js-v2-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/stackable-ultimate-gutenberg-blocks-premium/dist/deprecated/frontend_blocks_deprecated_v2__premium_only.js?ver=3.0.2' id='ugb-block-frontend-js-premium-v2-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.12.1' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.12.1' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/menu.min.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://today.uic.edu/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/dom-ready.min.js?ver=eb19f7980f0268577acb5c2da5457de3' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/dist/a11y.min.js?ver=5e00de7a43b31bbb9eaf685f089a3903' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.12.1' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.12.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.12.1' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.12.1' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.12.1' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.12.1' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='events-manager-js-extra'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/today.uic.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"https:\/\/today.uic.edu\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"1","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.99912' id='events-manager-js'></script>
+<script type='text/javascript' id='ari-fancybox-js-extra'>
+/* <![CDATA[ */
+var ARI_FANCYBOX = {"lightbox":{"touch":{"vertical":true,"momentum":true},"buttons":["slideShow","fullScreen","thumbs","close"],"lang":"custom","i18n":{"custom":{"PREV":"Previous","NEXT":"Next","PLAY_START":"Start slideshow (P)","PLAY_STOP":"Stop slideshow (P)","FULL_SCREEN":"Full screen (F)","THUMBS":"Thumbnails (G)","CLOSE":"Close (Esc)","ERROR":"The requested content cannot be loaded. <br\/> Please try again later."}}},"convert":{},"viewers":{"pdfjs":{"url":"https:\/\/today.uic.edu\/wp-content\/plugins\/ari-fancy-lightbox\/assets\/pdfjs\/web\/viewer.html"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://today.uic.edu/wp-content/plugins/ari-fancy-lightbox/assets/fancybox/jquery.fancybox.min.js?ver=1.3.8' id='ari-fancybox-js'></script>
+<link rel="https://api.w.org/" href="https://today.uic.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://today.uic.edu/wp-json/wp/v2/posts/118911" /><link rel="canonical" href="https://today.uic.edu/a-light-at-the-end-of-the-tunnel" />
+<link rel='shortlink' href='https://today.uic.edu/?p=118911' />
+<link rel="alternate" type="application/json+oembed" href="https://today.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftoday.uic.edu%2Fa-light-at-the-end-of-the-tunnel" />
+<link rel="alternate" type="text/xml+oembed" href="https://today.uic.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftoday.uic.edu%2Fa-light-at-the-end-of-the-tunnel&#038;format=xml" />
+						  <style type="text/css">
+			@media screen {
+			  .printfriendly {
+				position: relative;
+				  z-index: 1000;
+				margin: 0px 0px 0px 0px;
+			  }
+			  .printfriendly a, .printfriendly a:link, .printfriendly a:visited, .printfriendly a:hover, .printfriendly a:active {
+				font-weight: 600;
+				cursor: pointer;
+				text-decoration: none;
+				border: none;
+				-webkit-box-shadow: none;
+				-moz-box-shadow: none;
+				box-shadow: none;
+				outline:none;
+				font-size: 14px !important;
+				color: #55750C !important;
+			  }
+			  .printfriendly.pf-alignleft {float: left}.printfriendly.pf-alignright {float: right}.printfriendly.pf-aligncenter {display: flex;align-items: center;justify-content: center;}
+			}
+
+			@media print {
+			  .printfriendly {display: none}
+			}
+
+			.pf-button.pf-button-excerpt {
+				display: none;
+			}
+
+		  </style>
+				
+<link rel="alternate" type="application/rss+xml" title="Podcast RSS feed" href="https://today.uic.edu/feed/podcast" />
+
+<script type="text/javascript">
+           var ajaxurl = "https://today.uic.edu/wp-admin/admin-ajax.php";
+         </script><style type="text/css">BODY .fancybox-container{z-index:200000}BODY .fancybox-is-open .fancybox-bg{opacity:0.87}BODY .fancybox-bg {background-color:#0f0f11}BODY .fancybox-thumbs {background-color:#ffffff}</style>
+<!-- Put the following javascript before the closing </head> tag. -->
+
+<script>
+  (function() {
+    var cx = '009511351313755808885:xdz07yl93pe';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+</head>
+
+<body role="document" class="post-template-default single single-post postid-118911 single-format-standard wp-embed-responsive">
+  
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-57G9C3Q"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+<div id="header" role="banner">
+
+
+
+
+         		<div id="header-background">
+
+
+
+<!-- removed color wash for now.
+
+			<div class="color-wash">
+            <img src="" alt="   ">
+            </div>
+
+            -->
+
+
+
+            <div class="uic-type-wrapper">
+
+
+            <div class="last-update-timestamp">
+            	Updated: Dec 09, 2021 at 02:00 PM
+            </div><!--  last-update-timestamp   -->
+
+
+            <div class="uic-type-treatment">
+
+  			<div class="_mark">
+    		<a href="http://uic.edu" class="uic-logo-icon" aria-label="UIC logo">
+ 			<svg aria-label="UIC.edu" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ 			<title>UIC Logo</title>
+ 			<circle class="_circle" cx="27" cy="27" r="25" fill="none"></circle>
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#d50032" fill-rule="evenodd"></path>
+</svg>
+</a>
+  			</div><!--  _mark   -->
+
+  			<div class="_text">
+    		<a href="/">
+        	  Today
+      		  </a>
+ 			</div><!--  _text   -->
+
+
+			</div><!--  uic-type-treatment   -->
+
+
+
+            <!-- Put search box here -->
+<div class="search-box" aria-label="Search U I C today">
+    <form role="search" method="get" action="https://today.uic.edu/">
+     
+        <input type="text" id="s" name="s" aria-label="Search" size="25" value="" placeholder="Search">
+
+<button type="submit" value="Submit" style="border: 0;
+clip: rect( 1px, 1px, 1px, 1px );
+clip-path: inset( 50% );
+height: 1px;
+margin: -1px;
+overflow: hidden;
+padding: 0;
+position: absolute;
+width: 1px;
+word-wrap: normal;">
+Submit
+</button>
+
+    </form>
+    
+    
+</div>
+
+
+
+<!-- End search box code -->
+
+
+
+			</div><!--  uic-type-wrapper    -->
+
+
+		</div><!--  header-background   -->
+
+
+
+
+
+		<div id="main_nav" role="navigation" aria-label="Site">
+	  	 	<div class="main_nav_container"><ul id="menu-main_nav" class="menu"><li id="menu-item-57546"><a href="https://today.uic.edu/campus-news">Campus News</a>
+<ul class="sub-menu">
+	<li id="menu-item-105508"><a href="https://today.uic.edu/category/official">Official Communications</a></li>
+	<li id="menu-item-110888"><a href="https://today.uic.edu/uic-in-the-news">UIC in the news</a></li>
+</ul>
+</li>
+<li id="menu-item-57547"><a href="https://today.uic.edu/academics-research">Academics &#038; Research</a></li>
+<li id="menu-item-57548"><a href="https://today.uic.edu/events">Events</a></li>
+<li id="menu-item-67603"><a href="https://today.uic.edu/resources">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-100210"><a href="https://today.uic.edu/resources/current-student-resources">Current Student Resources</a></li>
+	<li id="menu-item-100209"><a href="https://today.uic.edu/resources/faculty-and-staff-resources">Faculty and Staff Resources</a></li>
+	<li id="menu-item-96520"><a href="https://today.uic.edu/online-learning-resources-and-support">Online Learning Resources and Support</a></li>
+	<li id="menu-item-81898"><a href="https://today.uic.edu/resources/photo-video-policies">Photography/Video</a></li>
+	<li id="menu-item-82144"><a href="https://today.uic.edu/resources/social-media-inquiry-form">Social Media Account Request Form</a></li>
+	<li id="menu-item-106506"><a href="https://today.uic.edu/resources/uic-social-media-guidelines-and-best-practices">UIC Social Media Guidelines and Best Practices</a></li>
+</ul>
+</li>
+<li id="menu-item-116175"><a href="https://today.uic.edu/coronavirus">COVID-19</a>
+<ul class="sub-menu">
+	<li id="menu-item-105322"><a href="https://today.uic.edu/circle-back-to-campus-newsletter">Circle Back to Campus</a></li>
+	<li id="menu-item-92300"><a href="https://today.uic.edu/frequently-asked-questions">Frequently Asked Questions</a></li>
+	<li id="menu-item-105323"><a href="https://today.uic.edu/covid-19-saliva-testing">Saliva Testing and Contact Tracing</a></li>
+	<li id="menu-item-116515"><a href="https://today.uic.edu/isolation-and-quarantine">Isolation and Quarantine</a></li>
+</ul>
+</li>
+<li id="menu-item-57549"><a href="https://today.uic.edu/contact">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-57551"><a href="https://today.uic.edu/contact/communicating-on-campus">Communicating On Campus</a></li>
+	<li id="menu-item-57552"><a href="https://today.uic.edu/contact/communicating-on-campus/sending-announcements-dddh">Sending Announcements / DDDH</a></li>
+	<li id="menu-item-57550"><a href="https://today.uic.edu/contact/social-media-directory">UIC Social Media Directory</a></li>
+</ul>
+</li>
+</ul></div>	    
+
+
+      </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+		</div>
+
+
+
+
+
+
+
+
+ <div id="container" role="main" aria-label="Main content" class="clearfix">
+
+
+
+
+
+
+<div id="content">
+
+		<div id="single_right_sidebar"> <!-- creates social sharing links -->
+			<div class="single_rightBar_widgets connect">
+					<a href="http://www.facebook.com/sharer/sharer.php?u=https://today.uic.edu/a-light-at-the-end-of-the-tunnel&amp;t=&#8216;A light at the end of the tunnel&#8217;">
+						<img src="/wp-content/themes/uictoday/images/icon-facebook-link.svg" alt="Facebook"/>
+					</a>
+					<a href="http://twitter.com/intent/tweet?text=&#8216;A light at the end of the tunnel&#8217; - https://today.uic.edu/a-light-at-the-end-of-the-tunnel" title="Tweet this!">
+						<img src="/wp-content/themes/uictoday/images/icon-twitter-link.svg" alt="Twitter"/>
+					</a>
+					<a href="http://www.linkedin.com/shareArticle?mini=true&amp;title=&#8216;A light at the end of the tunnel&#8217;&amp;url=https://today.uic.edu/a-light-at-the-end-of-the-tunnel" title="Share on LinkedIn">
+						<img src="/wp-content/themes/uictoday/images/icon-linkedin-link.svg" alt="LinkedIn"/>
+					</a>
+					<a href="http://www.tumblr.com/share/link?url=https://today.uic.edu/a-light-at-the-end-of-the-tunnel">
+						<img src="/wp-content/themes/uictoday/images/icon-tumblr-link.svg" alt="Tumblr"/>
+					</a>
+					<a href="mailto:?Subject=&#8216;A light at the end of the tunnel&#8217;&Body=https://today.uic.edu/a-light-at-the-end-of-the-tunnel">
+						<img src="/wp-content/themes/uictoday/images/icon-cta-envelope.svg" alt="email"/>
+					</a>
+			</div>
+		</div>
+
+<!--		<div class="labels">
+										</div>  -->
+
+		<div class="article clearfix">
+			<h1>&#8216;A light at the end of the tunnel&#8217;</h1>
+
+			<p class="author-date">
+				October 29, 2021			</p>
+
+			<div class="pf-content">
+<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><a href="https://today.uic.edu/uic-reports-record-410-million-in-annual-sponsored-research-awards/121120_covid-testing-lab_jc0075"><img loading="lazy" src="https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075.jpg" alt="UIC research lab" class="wp-image-105814" width="900" height="600" srcset="https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075.jpg 1200w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-387x258.jpg 387w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-768x512.jpg 768w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-590x393.jpg 590w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-1000x667.jpg 1000w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-500x333.jpg 500w, https://today.uic.edu/files/2021/01/121120_COVID-Testing-Lab_JC0075-300x200.jpg 300w" sizes="(max-width: 900px) 100vw, 900px" /></a><figcaption>Medical technologist Joyce Chen prepares COVID-19 saliva testing samples for the extractor at the University of Illinois Chicago. (Photo: Joshua Clark/UIC)</figcaption></figure></div>
+
+
+
+<h2>Stopping the spread of the SARS-CoV-2 virus</h2>
+
+
+
+<p>In 2019, no one imagined a virus discovered over 7,200 miles away in Wuhan, China, would spread globally and change every aspect of daily life in Chicago, from the clothes we wear and the way we grocery shop to where and how we learn, work and play.&nbsp;Infectious disease and public health experts, however, were the first to take notice and start thinking about the dangerous SARS-CoV-2 virus and the illness it causes, COVID-19.&nbsp;</p>
+
+
+
+<p>&#8220;I remember thinking this could be a problem when it began to spread beyond Wuhan,&#8221; said Dr. Richard Novak, UIC professor and head of infectious diseases. &#8220;Once it spread outside of China, it was clear this was going to be serious and had the potential to become a much wider epidemic. When the first case was reported in the U.S., we knew it was coming and began preparing.&#8221;</p>
+
+
+
+<p>“Early in the pandemic, we understood that continuing our clinical and translational research would be key to emerging from this crisis as safely as possible,” said Joanna Groden, UIC vice chancellor for research. “As a research institution, and one with an exceptionally strong health research infrastructure, we felt a sense of purpose and responsibility to empower our scientists and clinician-researchers to maintain or accelerate operations while many other industries were slowing down.”</p>
+
+
+
+<p>By March of 2020, UIC scientists were applying for grant funding and redesigning their protocols and lab spaces to meet campus and city mitigation guidelines during a statewide stay-at-home order. Across campus, researchers looked for ways to apply their expertise to COVID-19. From testing &#8220;wonder material&#8221; graphene as a tool to sense the SARS-CoV-2 virus and committing 3D printers to manufacture personal protective equipment to tracking how the pandemic would impact sexually transmitted infections among young women in Kenya, UIC researchers were dedicated to finding answers even, it would turn out, if they came from the most unlikely places.</p>
+
+
+
+<p>Since then, UIC researchers have been awarded more than $60 million in funding for COVID-19 research projects. Of these, many are focused on two key strategies to prevent transmission of the virus: vaccines and testing. </p>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-large is-resized"><a href="https://today.uic.edu/091120_novak-lab_jc0028_6x4"><img loading="lazy" src="https://today.uic.edu/files/2020/12/091120_Novak-Lab_JC0028_6x4-590x393.jpg" alt="091120_Novak Lab" class="wp-image-104572" width="443" height="295" srcset="https://today.uic.edu/files/2020/12/091120_Novak-Lab_JC0028_6x4-590x393.jpg 590w, https://today.uic.edu/files/2020/12/091120_Novak-Lab_JC0028_6x4-387x258.jpg 387w, https://today.uic.edu/files/2020/12/091120_Novak-Lab_JC0028_6x4-768x512.jpg 768w, https://today.uic.edu/files/2020/12/091120_Novak-Lab_JC0028_6x4-1536x1024.jpg 1536w, https://today.uic.edu/files/2020/12/091120_Novak-Lab_JC0028_6x4-1000x667.jpg 1000w, https://today.uic.edu/files/2020/12/091120_Novak-Lab_JC0028_6x4-500x333.jpg 500w, https://today.uic.edu/files/2020/12/091120_Novak-Lab_JC0028_6x4-300x200.jpg 300w, https://today.uic.edu/files/2020/12/091120_Novak-Lab_JC0028_6x4-1320x880.jpg 1320w, https://today.uic.edu/files/2020/12/091120_Novak-Lab_JC0028_6x4.jpg 1800w" sizes="(max-width: 443px) 100vw, 443px" /></a><figcaption>Lab technician Nanu Kunwar processes clinical trial participants&#8217; blood samples in Dr. Richard Novak&#8217;s Lab. (Photo: Joshua Clark/UIC)</figcaption></figure></div>
+
+
+
+<h3>Vaccines: from clinical trials to mass distribution</h3>
+
+
+
+<p>Novak&#8217;s decades of research on HIV prevention provided the foundation for UIC to test a vaccine against SARS-CoV-2. </p>
+
+
+
+<p>&#8220;Studying preventive interventions, particularly vaccines, is challenging,&#8221; Novak said. &#8220;You need healthy people to volunteer for a clinical trial, but not just anyone. It&#8217;s important to enroll people who are at risk of getting the disease and getting ill with the disease if they get it, so we can see if the vaccine has an impact on reducing infections and symptoms in those who still get the infection. If we enroll only low-risk, healthy people who would not get sick if infected, we would not be able to see a difference between the placebo and vaccine recipients. </p>
+
+
+
+<p>&#8220;For the vaccine trial it was also very important to engage racial and ethnic minorities in the research since they appeared to be at greater risk of infection and having poorer outcomes, and we needed to know if the vaccines would work for everyone, especially those most impacted,&#8221; he said.</p>
+
+
+
+<p>But Novak&#8217;s team was prepared for this. </p>
+
+
+
+<p>&#8220;I think we were an attractive research site to the National Institutes of Health because we had the&nbsp;infrastructure in place to mobilize SARS-CoV-2 vaccine trials almost immediately because of&nbsp;our prior&nbsp;years&nbsp;of HIV vaccine research with the HIV Vaccine Trials Network&nbsp;and the HIV Prevention Trials Network&nbsp;studies,&#8221; Novak said.  </p>
+
+
+
+<p>Novak launched Chicago&#8217;s first vaccine clinical trial on Aug. 24, 2020, with support from an investigational drug team at the College of Pharmacy. The team prepared and administered the shots while making sure the researchers and participants were unaware of who received the vaccine and who received a placebo. This type of clinical trial is called a randomized, double-blind, placebo-controlled trial, and it is considered to be the most scientifically accurate at evaluating the efficacy of a new clinical intervention — in this case, the Moderna COVID-19 vaccine candidate. </p>
+
+
+
+<p>Chicago-area residents with chronic health conditions that put them in the high-risk category were the first to roll up their sleeves for the trial. &#8220;I wanted to do the smaller part that I could do because I want my grandchildren to have their parents,&#8221; said Bonnie Blue, 68.  </p>
+
+
+
+<p>&#8220;I wanted to be part of something that&#8217;s 21st century and is absolutely exciting,&#8221; 55-year-old Eduardo Rollox, of Evanston, <a rel="noreferrer noopener" href="https://abc7chicago.com/covid-19-vaccine-moderna-trial-uic/6385452/" target="_blank">told ABC7</a>.</p>
+
+
+
+<p>Four months later, on Dec. 18, 2020, after evaluating scientific data received from clinical trial sites like UIC, the U.S. Food and Drug Administration issued an Emergency Use Authorization for the Moderna COVID-19 vaccine for individuals 18 and older.</p>
+
+
+
+<p>After the study was unblinded and Blue found out she had received the placebo, she was excited to get the real deal. Blue <a href="https://wgntv.com/news/medical-watch/vaccine-trial-participants-starting-to-find-out-if-they-got-the-real-shot-in-unblinding/">told WGN</a>, &#8220;I was excited because I was putting my future, as much as anyone possibly can, I was putting my future and my health in my hands. So, this gives us an opportunity to try to protect ourselves so that we can fight back so that we can be here for our family and for other people.&#8221;</p>
+
+
+
+<div class="wp-block-ugb-divider ugb-divider ugb-2eac0fc ugb-divider--v2 ugb-divider--design-basic ugb-main-block"><style>.ugb-2eac0fc hr.ugb-divider__hr{margin-left:auto !important;margin-right:auto !important}</style><div class="ugb-inner-block"><div class="ugb-block-content"><hr class="ugb-divider__hr"/></div></div></div>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://today.uic.edu/?attachment_id=119269"><img loading="lazy" width="590" height="393" src="https://today.uic.edu/files/2021/11/082420_COVID-Vaccine-Trial_JC0237-590x393.jpg" alt="" data-id="119269" data-full-url="https://today.uic.edu/files/2021/11/082420_COVID-Vaccine-Trial_JC0237.jpg" data-link="https://today.uic.edu/?attachment_id=119269" class="wp-image-119269" srcset="https://today.uic.edu/files/2021/11/082420_COVID-Vaccine-Trial_JC0237-590x393.jpg 590w, https://today.uic.edu/files/2021/11/082420_COVID-Vaccine-Trial_JC0237-387x258.jpg 387w, https://today.uic.edu/files/2021/11/082420_COVID-Vaccine-Trial_JC0237-768x512.jpg 768w, https://today.uic.edu/files/2021/11/082420_COVID-Vaccine-Trial_JC0237.jpg 1200w, https://today.uic.edu/files/2021/11/082420_COVID-Vaccine-Trial_JC0237-1000x667.jpg 1000w, https://today.uic.edu/files/2021/11/082420_COVID-Vaccine-Trial_JC0237-500x333.jpg 500w, https://today.uic.edu/files/2021/11/082420_COVID-Vaccine-Trial_JC0237-300x200.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></a><figcaption class="blocks-gallery-item__caption">Eduardo Rollox at his first visit with UIC&#8217;s vaccine clinical trial team.</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://today.uic.edu/?attachment_id=119270"><img loading="lazy" width="590" height="393" src="https://today.uic.edu/files/2021/11/092220_Bonnie-Blue_JC0030-590x393.jpg" alt="" data-id="119270" data-full-url="https://today.uic.edu/files/2021/11/092220_Bonnie-Blue_JC0030.jpg" data-link="https://today.uic.edu/?attachment_id=119270" class="wp-image-119270" srcset="https://today.uic.edu/files/2021/11/092220_Bonnie-Blue_JC0030-590x393.jpg 590w, https://today.uic.edu/files/2021/11/092220_Bonnie-Blue_JC0030-387x258.jpg 387w, https://today.uic.edu/files/2021/11/092220_Bonnie-Blue_JC0030-768x512.jpg 768w, https://today.uic.edu/files/2021/11/092220_Bonnie-Blue_JC0030.jpg 1200w, https://today.uic.edu/files/2021/11/092220_Bonnie-Blue_JC0030-1000x667.jpg 1000w, https://today.uic.edu/files/2021/11/092220_Bonnie-Blue_JC0030-500x333.jpg 500w, https://today.uic.edu/files/2021/11/092220_Bonnie-Blue_JC0030-300x200.jpg 300w" sizes="(max-width: 590px) 100vw, 590px" /></a><figcaption class="blocks-gallery-item__caption">Bonnie Blue at a follow-up visit for a COVID-19 vaccine trial at UIC. </figcaption></figure></li></ul><figcaption class="blocks-gallery-caption">Two of the three shots available in the U.S. today, the Moderna vaccine and Janssen (Johnson &amp; Johnson) vaccine, are approved to prevent the SARS-CoV-2 infection thanks to UIC&#8217;s clinical trials. (Photos: Joshua Clark/UIC)</figcaption></figure>
+
+
+
+<div class="wp-block-ugb-divider ugb-divider ugb-2127b4e ugb-divider--v2 ugb-divider--design-basic ugb-main-block"><style>.ugb-2127b4e hr.ugb-divider__hr{margin-left:auto !important;margin-right:auto !important}</style><div class="ugb-inner-block"><div class="ugb-block-content"><hr class="ugb-divider__hr"/></div></div></div>
+
+
+
+<p>The same day EUA was granted for the Moderna vaccine, UIC and UI Health, the university&#8217;s health system, kicked off what would later become a large-scale community vaccination effort in the basement of the College of Pharmacy. The effort began with <a rel="noreferrer noopener" href="https://today.uic.edu/covid-19-vaccine-a-light-at-the-end-of-the-tunnel" target="_blank">vaccinations for health care workers</a> in the highest risk specialties, like those working in the intensive care unit and respiratory therapists. UIC&#8217;s health care workers received the Pfizer vaccine, which had been authorized the week prior. </p>
+
+
+
+<p>The impact was immediate. </p>
+
+
+
+<p>It was &#8220;a reason to be hopeful,” said Dr. Jeffrey Jacobson, medical ICU director at UI Health, and &#8220;a light at the end of the tunnel,&#8221; said Dr. Susan Bleasdale, assistant vice chancellor for quality and patient safety at UIC. </p>
+
+
+
+<p>For Karla Carreon, a UIC Nursing student, it was an opportunity to inspire others. Carreon volunteered to administer the vaccine that morning and scheduled her appointment for the following day. “As a nursing student, it’s important to show others that it’s safe,” she said. </p>
+
+
+
+<p>Efforts made by UIC and UI Health to provide easy access to COVID-19 vaccines expanded to include one of the <a rel="noreferrer noopener" href="https://today.uic.edu/ui-health-opens-community-vaccination-site-leads-chicago-in-providing-shots-for-phase-1b" target="_blank">first public mass vaccination sites</a> in the city, which launched at the Credit Union 1 Arena Feb. 1. Efforts also included multiple <a href="https://today.uic.edu/uic-works-with-chicago-to-deliver-vaccinations-to-citys-most-vulnerable">pop-up vaccine clinics</a> in high-risk Chicago neighborhoods. At the pop-up clinics, which ranged from single-day events with walk-in hours to two- and three-monthlong clinics in <a rel="noreferrer noopener" href="https://news.wttw.com/2021/04/22/community-organizations-want-help-greater-englewood-get-vaccinated" target="_blank">communities like Englewood</a>, vaccines were administered in partnership with UI Health Mile Square Health Center and the Protect Chicago Plus initiative, a City of Chicago program meant to address barriers to vaccine access and provide education and opportunities for people who were hesitant. </p>
+
+
+
+<p>Lorraine Brown,&nbsp;52,&nbsp;of Englewood,&nbsp;said&nbsp;she&nbsp;was one of the hesitant ones. But, after the clinic called her, she changed her mind. “Let’s save some lives,” she said when she got her shot. &nbsp;</p>
+
+
+
+<p>Today, two of the three shots available in the U.S., the Moderna vaccine and Janssen (Johnson &amp; Johnson) vaccine, are approved to prevent the SARS-CoV-2 infection thanks to researchers like those here at UIC.</p>
+
+
+
+<p>And, the university&#8217;s mass vaccination efforts — which have been supported by <a href="https://today.uic.edu/uic-students-answer-volunteer-call-to-vaccinate-chicago-community">thousands of hours filled by UIC health sciences student volunteers</a> — have reached more than 70,000 people with more than 150,000 shots of COVID-19 vaccines. </p>
+
+
+
+<div class="wp-block-ugb-divider ugb-divider ugb-5432dc9 ugb-divider--v2 ugb-divider--design-basic ugb-main-block"><style>.ugb-5432dc9 hr.ugb-divider__hr{margin-left:auto !important;margin-right:auto !important}</style><div class="ugb-inner-block"><div class="ugb-block-content"><hr class="ugb-divider__hr"/></div></div></div>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://today.uic.edu/121820_pfizer-vaccination_jc0393"><img loading="lazy" width="590" height="393" src="https://today.uic.edu/files/2020/12/121820_Pfizer-Vaccination_JC0393-590x393.jpg" alt="" data-id="105016" data-full-url="https://today.uic.edu/files/2020/12/121820_Pfizer-Vaccination_JC0393.jpg" data-link="https://today.uic.edu/121820_pfizer-vaccination_jc0393" class="wp-image-105016" srcset="https://today.uic.edu/files/2020/12/121820_Pfizer-Vaccination_JC0393-590x393.jpg 590w, https://today.uic.edu/files/2020/12/121820_Pfizer-Vaccination_JC0393-387x258.jpg 387w, https://today.uic.edu/files/2020/12/121820_Pfizer-Vaccination_JC0393-768x512.jpg 768w, https://today.uic.edu/files/2020/12/121820_Pfizer-Vaccination_JC0393-1000x667.jpg 1000w, https://today.uic.edu/files/2020/12/121820_Pfizer-Vaccination_JC0393-500x333.jpg 500w, https://today.uic.edu/files/2020/12/121820_Pfizer-Vaccination_JC0393-300x200.jpg 300w, https://today.uic.edu/files/2020/12/121820_Pfizer-Vaccination_JC0393.jpg 1200w" sizes="(max-width: 590px) 100vw, 590px" /></a><figcaption class="blocks-gallery-item__caption">Dr. Jeffrey Jacobson receives his COVID-19 vaccine at UI Health. </figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://today.uic.edu/ui-health-opens-community-vaccination-site-leads-chicago-in-providing-shots-for-phase-1b/020121_arena-vaccinations_jc0237"><img loading="lazy" width="590" height="393" src="https://today.uic.edu/files/2021/02/020121_Arena-Vaccinations_JC0237-590x393.jpg" alt="Abraham Thompson Jr. elbow bumps inoculator Timothy Hamer, a pharmacy student, after receiving his COVID-19 vaccine in the Credit Union 1 Arena on Monday, Feb. 1, 2021, at the University of Illinois Chicago." data-id="106891" data-full-url="https://today.uic.edu/files/2021/02/020121_Arena-Vaccinations_JC0237.jpg" data-link="https://today.uic.edu/ui-health-opens-community-vaccination-site-leads-chicago-in-providing-shots-for-phase-1b/020121_arena-vaccinations_jc0237" class="wp-image-106891" srcset="https://today.uic.edu/files/2021/02/020121_Arena-Vaccinations_JC0237-590x393.jpg 590w, https://today.uic.edu/files/2021/02/020121_Arena-Vaccinations_JC0237-387x258.jpg 387w, https://today.uic.edu/files/2021/02/020121_Arena-Vaccinations_JC0237-768x512.jpg 768w, https://today.uic.edu/files/2021/02/020121_Arena-Vaccinations_JC0237-1000x667.jpg 1000w, https://today.uic.edu/files/2021/02/020121_Arena-Vaccinations_JC0237-500x333.jpg 500w, https://today.uic.edu/files/2021/02/020121_Arena-Vaccinations_JC0237-300x200.jpg 300w, https://today.uic.edu/files/2021/02/020121_Arena-Vaccinations_JC0237.jpg 1200w" sizes="(max-width: 590px) 100vw, 590px" /></a><figcaption class="blocks-gallery-item__caption">Abraham Thompson Jr. elbow bumps inoculator Timothy Hamer after receiving his COVID-19 vaccine at the Credit Union 1 Arena.</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://today.uic.edu/030921_mshce-vaccines_jc0016"><img loading="lazy" width="590" height="393" src="https://today.uic.edu/files/2021/03/030921_MSHCE-Vaccines_JC0016-590x393.jpg" alt="Patient Lorraine Brown exuberantly poses for a photo after getting her first shot of the Moderna COVID-19 vaccine at the Mile Square Health Center in Englewood" data-id="108516" data-full-url="https://today.uic.edu/files/2021/03/030921_MSHCE-Vaccines_JC0016.jpg" data-link="https://today.uic.edu/030921_mshce-vaccines_jc0016" class="wp-image-108516" srcset="https://today.uic.edu/files/2021/03/030921_MSHCE-Vaccines_JC0016-590x393.jpg 590w, https://today.uic.edu/files/2021/03/030921_MSHCE-Vaccines_JC0016-387x258.jpg 387w, https://today.uic.edu/files/2021/03/030921_MSHCE-Vaccines_JC0016-768x512.jpg 768w, https://today.uic.edu/files/2021/03/030921_MSHCE-Vaccines_JC0016-1000x667.jpg 1000w, https://today.uic.edu/files/2021/03/030921_MSHCE-Vaccines_JC0016-500x333.jpg 500w, https://today.uic.edu/files/2021/03/030921_MSHCE-Vaccines_JC0016-300x200.jpg 300w, https://today.uic.edu/files/2021/03/030921_MSHCE-Vaccines_JC0016.jpg 1200w" sizes="(max-width: 590px) 100vw, 590px" /></a><figcaption class="blocks-gallery-item__caption">Lorraine Brown poses for a photo after getting her first COVID-19 vaccine shot at Mile Square in Englewood.</figcaption></figure></li></ul><figcaption class="blocks-gallery-caption">UIC mass vaccination efforts have reached more than 70,000 people with more than 150,000 shots of COVID-19 vaccines. (Photos: Joshua Clark/UIC)</figcaption></figure>
+
+
+
+<div class="wp-block-ugb-divider ugb-divider ugb-db969af ugb-divider--v2 ugb-divider--design-basic ugb-main-block"><style>.ugb-db969af hr.ugb-divider__hr{margin-left:auto !important;margin-right:auto !important}</style><div class="ugb-inner-block"><div class="ugb-block-content"><hr class="ugb-divider__hr"/></div></div></div>
+
+
+
+<p>&#8220;Our greatest success to date has been the Moderna vaccine trial, as it proved to be so effective and in so short a time. After over 25 years of unsuccessful HIV vaccine trials, this was very gratifying,&#8221; Novak said. &#8220;It has been a very intense effort by all the staff involved, and it is still ongoing, but it has been very gratifying to have participated in the effort, and to see such rapid success, with the impact it has had on society here and internationally.&#8221;</p>
+
+
+
+<p>But still, that&#8217;s not enough for UIC researchers, who continue to use scientific processes to understand more about vaccine safety and efficacy. </p>
+
+
+
+<p>UIC vaccine research also now includes testing the effect of boosters in the original study participants and studying vaccinations in select high-risk populations like transplant recipients and pregnant women. </p>
+
+
+
+<p>One <a rel="noreferrer noopener" href="https://www.nih.gov/news-events/news-releases/nih-begins-study-covid-19-vaccination-during-pregnancy-postpartum" target="_blank">observational study of vaccination during pregnancy and postpartum</a> is co-led by Novak and Dr. De-Ann Pillers, professor of pediatrics, chief of neonatal and perinatal medicine, and associate head of perinatology. The study is evaluating antibody responses in vaccinated participants and their infants and analyzing the transfer of vaccine-induced antibodies to infants across the placenta and through breast milk.</p>
+
+
+
+<p>Research on vaccines is also addressing social and environmental factors related to health and vaccine uptake, and why some people choose to remain unvaccinated. </p>
+
+
+
+<p>In May, UIC received a $1.4 million NIH grant to bolster research and outreach to help communities disproportionately affected by COVID-19. The collaborative research team will focus on <a rel="noreferrer noopener" href="https://today.uic.edu/uic-leads-new-collaborative-to-reduce-covid-19-disparities" target="_blank">strengthening COVID-19 vaccine confidence and access in Chicago-area Black and Latino communities</a>, as well as improving access to testing and treatment and opportunities for clinical trial participation. </p>
+
+
+
+<p>&#8220;The COVID-19 pandemic has made clear the inequities cemented into the foundations of our social system; the consequences of these inequities in access, trust and engagement with the health care system affect us all,&#8221; said UIC’s Dr. Molly Martin, associate professor of pediatrics and principal investigator. &#8220;We focus on these issues of structural racism, with the goal of improving vaccination rates, and, importantly, we will do this in partnership with the people and organizations that are already in the communities working as leaders and trusted messengers.&#8221;</p>
+
+
+
+<p>And, these are just a few examples. All together, UIC&#8217;s research portfolio related to COVID-19 vaccines and other preventive strategies equals around $18 million.</p>
+
+
+
+<div class="wp-block-image"><figure class="alignright size-large is-resized"><img loading="lazy" src="https://today.uic.edu/files/2021/05/IDPH_Edits_13-590x393.jpg" alt="Wastewater lab" class="wp-image-112044" width="443" height="295" srcset="https://today.uic.edu/files/2021/05/IDPH_Edits_13-590x393.jpg 590w, https://today.uic.edu/files/2021/05/IDPH_Edits_13-387x258.jpg 387w, https://today.uic.edu/files/2021/05/IDPH_Edits_13-768x512.jpg 768w, https://today.uic.edu/files/2021/05/IDPH_Edits_13-1536x1024.jpg 1536w, https://today.uic.edu/files/2021/05/IDPH_Edits_13-2048x1365.jpg 2048w, https://today.uic.edu/files/2021/05/IDPH_Edits_13-1000x667.jpg 1000w, https://today.uic.edu/files/2021/05/IDPH_Edits_13-500x333.jpg 500w, https://today.uic.edu/files/2021/05/IDPH_Edits_13-300x200.jpg 300w, https://today.uic.edu/files/2021/05/IDPH_Edits_13-1320x880.jpg 1320w" sizes="(max-width: 443px) 100vw, 443px" /><figcaption>Eva Durance, Rachel Poretsky and Christopher Owen extract RNA from wastewater at UIC&#8217;s School of Public Health. (Photo: Mike Rivera/DPI)</figcaption></figure></div>
+
+
+
+<h3>Testing: from sewers to next-generation sequencing </h3>
+
+
+
+<p>While vaccines are one important pillar of public health strategy to stop the spread of COVID-19, so is robust testing, which provides individuals, communities and public health officials with the facts needed to make informed decisions about physical distancing, isolation and quarantine. UIC researchers have also received multiple grant awards to improve rapid testing strategies, provide access to individuals in need of testing, and conduct COVID-19 surveillance testing at the county and community levels, even testing samples gathered from surprising places, like sewers. </p>
+
+
+
+<p>UIC’s&nbsp;Rachel&nbsp;Poretsky, associate professor of biological sciences, is the principal investigator of a <a href="https://today.uic.edu/uic-part-of-7-4m-grant-to-respond-to-covid-19-prepare-for-future-pandemics">$1.2 million Walder Foundation</a> award to provide a noninvasive and cost-effective way to examine community-level&nbsp;spread of the virus. </p>
+
+
+
+<p>&#8220;Central to our goal is to provide the Chicago, Cook County and Illinois departments of public health with information about an outbreak up to a week before it would show up in data from individual testing,” Poretsky said. </p>
+
+
+
+<p>Abhilasha Shrestha, research assistant professor of environmental and occupational health sciences, runs the lab at the School of Public Health where the processing takes place. So far her team has analyzed around 400 gallons of wastewater from <a href="https://news.wttw.com/2021/10/13/uic-lab-tracking-covid-19-trends-and-hot-spots-testing-wastewater">Metropolitan Water Reclamation District facilities</a> and the <a rel="noreferrer noopener" href="https://www.nbcchicago.com/news/local/nbc-5-investigates-searching-the-sewers-for-covid-19-at-the-cook-county-jail/2453183/" target="_blank">Cook County Jail</a>, for example. </p>
+
+
+
+<p>Another $1.2 million grant from the Walder Foundation funds a project to provide symptomatic individuals with rapid virus detection and to collect saliva samples from asymptomatic individuals for neighborhood-level surveillance data.</p>
+
+
+
+<p>UIC&#8217;s Renee Taylor spearheads this outreach and collection in a project, called “Chicago Can Beat COVID-19: Investigating the Efficacy of a Novel Self-testing&nbsp;Approach and Persuasive mHealth Technology in an Underserved, Community-based Sample.”&nbsp;Self-collected saliva&nbsp;samples are collected in&nbsp;neighborhoods where COVID-19 testing access is limited or nonexistent. The data from these samples are used as part of an early warning system to mitigate&nbsp;further spread of COVID-19 and new viral threats.</p>
+
+
+
+<p>“It is our strong belief that prevention of COVID-19 transmission through increased COVID-19 literacy and self-care agency, combined with early intervention via rapid diagnosis, contact tracing and earlier access to treatment, will significantly reduce COVID-19 transmission, morbidity and mortality, compared with usual care approaches,” <a href="https://today.uic.edu/uic-part-of-7-4m-grant-to-respond-to-covid-19-prepare-for-future-pandemics">said Taylor</a>, professor of occupational therapy&nbsp;and psychology and associate dean for academic and faculty affairs.</p>
+
+
+
+<p>Taylor&#8217;s team has collected more than 6,300 samples for this research, which helps to inform individuals about their status, in addition to providing helpful community-based data to public health officials. </p>
+
+
+
+<p>Dr. Nahed Ismail, who leads lab testing for UIC&#8217;s health care system and the university&#8217;s campus-based saliva testing program, is the co-principal investigator of another testing-based research project called Rapid Acceleration of Diagnostics Underserved Populations, which is funded by the NIH.</p>
+
+
+
+<p>Ismail&#8217;s team actually does even more behind the scenes — they also <a rel="noreferrer noopener" href="https://today.uic.edu/next-generation-sequencing-of-community-based-covid-19-samples-to-detect-emerging-variants" target="_blank">perform genomic sequencing on the samples to identify variants</a> and track the evolution of the virus. &#8220;This helps us gather needed information on variants and the circulating strains of COVID-19 impacting Chicago communities,” Ismail said. </p>
+
+
+
+<p>“Understanding how the virus has changed over time can help us develop new vaccines or therapeutics for COVID-19 as well as prevent the spread of the virus globally,&#8221; said Ismail, professor of pathology and medical director of clinical microbiology and laboratory medicine. “The infrastructure we build today not only helps us prepare to mitigate vaccine breakthrough and emerging variants of COVID-19 by tracking transmission, genetic signatures, and immune responses in the short term, it also helps us prepare for whatever might come after.&#8221;</p>
+
+
+
+<p>Ismail&#8217;s team has collected around 3,500 samples for Rapid Acceleration of Diagnostics Underserved Populations research and analyzed them for COVID-19, in addition to nearly 388,600 samples for the university’s campus-based saliva testing surveillance program (230,100) and UI Health&#8217;s patient care diagnostic services (158,400). Approximately&nbsp;230 samples have been analyzed with next-generation genomic sequencing.</p>
+
+
+
+<p>Combined, UIC research projects around COVID-19 testing and surveillance total around $6 million.</p>
+
+
+
+<div class="wp-block-ugb-divider ugb-divider ugb-39fcdea ugb-divider--v2 ugb-divider--design-basic ugb-main-block"><style>.ugb-39fcdea hr.ugb-divider__hr{margin-left:auto !important;margin-right:auto !important}</style><div class="ugb-inner-block"><div class="ugb-block-content"><hr class="ugb-divider__hr"/></div></div></div>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://today.uic.edu/042021_ismail-research-lab_jc0169"><img loading="lazy" width="1300" height="867" src="https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0169.jpg" alt="" data-id="111256" data-full-url="https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0169.jpg" data-link="https://today.uic.edu/042021_ismail-research-lab_jc0169" class="wp-image-111256" srcset="https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0169.jpg 1300w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0169-387x258.jpg 387w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0169-768x512.jpg 768w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0169-590x393.jpg 590w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0169-1000x667.jpg 1000w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0169-500x333.jpg 500w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0169-300x200.jpg 300w" sizes="(max-width: 1300px) 100vw, 1300px" /></a><figcaption class="blocks-gallery-item__caption">Dr. Nahed Ismail discusses data with her research team.</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://today.uic.edu/042021_ismail-research-lab_jc0069"><img loading="lazy" width="1300" height="867" src="https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0069.jpg" alt="" data-id="111254" data-full-url="https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0069.jpg" data-link="https://today.uic.edu/042021_ismail-research-lab_jc0069" class="wp-image-111254" srcset="https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0069.jpg 1300w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0069-387x258.jpg 387w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0069-768x512.jpg 768w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0069-590x393.jpg 590w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0069-1000x667.jpg 1000w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0069-500x333.jpg 500w, https://today.uic.edu/files/2021/05/042021_Ismail-Research-Lab_JC0069-300x200.jpg 300w" sizes="(max-width: 1300px) 100vw, 1300px" /></a><figcaption class="blocks-gallery-item__caption">Ismail pipettes a nasopharyngeal swab sample to a 96-well plate. </figcaption></figure></li></ul><figcaption class="blocks-gallery-caption">UIC researchers have analyzed around 230 COVID-19 testing samples with next-generation genomic sequencing. (Photos: Joshua Clark/UIC)</figcaption></figure>
+
+
+
+<div class="wp-block-ugb-divider ugb-divider ugb-cbe810b ugb-divider--v2 ugb-divider--design-basic ugb-main-block"><style>.ugb-cbe810b hr.ugb-divider__hr{margin-left:auto !important;margin-right:auto !important}</style><div class="ugb-inner-block"><div class="ugb-block-content"><hr class="ugb-divider__hr"/></div></div></div>
+
+
+
+<p>Of the $60 million UIC received for COVID-19 research projects, nearly $9 million was awarded in fiscal year 2020, and more than $51 million was awarded in FY 21, a second consecutive <a href="https://today.uic.edu/with-awards-totaling-446m-uic-sets-record-for-annual-research-funding">record-breaking year for UIC research funding</a>.</p>
+
+
+
+<p>“It’s been inspiring to see our UIC scientists really hit it out of the park. From the sheer quantity of COVID research to the rigorous quality and purposeful collaboration behind the research, the contributions we’ve made are making a difference,&#8221; Groden said. </p>
+
+
+<div class="printfriendly pf-button pf-button-content pf-alignleft"><a href="#" rel="nofollow" onclick="window.print(); return false;" title="Printer Friendly, PDF & Email"><img style="border:none;-webkit-box-shadow:none; -moz-box-shadow: none; box-shadow:none; padding:0; margin:0" src="https://cdn.printfriendly.com/buttons/print-button-gray.png" alt="Print Friendly, PDF & Email" /></a></div></div>
+			<p class="author-date">
+													<div class="rightBar_widgets">
+						<h2>Contact</h2>
+						<p>
+							<span class="bold"><a href="https://today.uic.edu/author/jmcarey" title="Posts by Jacqueline Carey" rel="author">Jacqueline Carey</a></span><br />
+							312-996-8277<br />
+							<a href="mailto:jmcarey@uic.edu">jmcarey@uic.edu</a><br />
+														<a href="http://twitter.com/JCareyUIC">twitter.com/JCareyUIC</a>
+						</p>
+					</div>
+							</p>
+			</div>
+
+			<div id="tag-area">
+				<p class="tag-label">Categories</p>
+																<p>
+							<a href="https://today.uic.edu/category/hsc" rel="category tag">Health Sciences Colleges</a>, <a href="https://today.uic.edu/category/category-research" rel="category tag">Research</a>, <a href="https://today.uic.edu/category/research-impact" rel="category tag">Research Impact</a>						</p>
+									</p>
+
+													<p class="tag-label">Topics</p>
+					<p><a href="https://today.uic.edu/tag/covid-19" rel="tag">COVID-19</a>, <a href="https://today.uic.edu/tag/covid-19-researcher" rel="tag">COVID-19 researcher</a>, <a href="https://today.uic.edu/tag/covid-19-testing" rel="tag">COVID-19 testing</a>, <a href="https://today.uic.edu/tag/covid-19-vaccine" rel="tag">COVID-19 vaccine</a></p>
+							</div>
+
+
+			
+</div>
+
+<!-- Need 2 closing divs before footer to close divs from page header include -->
+	</div>
+
+</div>
+
+
+<div class="clearThis">&nbsp;</div>
+
+
+
+
+
+    
+
+    <footer id="footer" class="footer u-dark-region" role="contentinfo">
+
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+
+            <div class="uic-type-wrapper-footer">
+
+            <div class="uic-type-treatment-footer">
+            
+  			<div class="_mark"> 
+    		<a href="http://uic.edu" class="uic-logo-icon" aria-label="UIC logo">
+ 			<svg aria-label="UIC.edu" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ 			<title>UIC Logo</title>
+ 			<circle class="_circle" cx="27" cy="27" r="25" fill="none"></circle>
+ <path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#d50032" fill-rule="evenodd"></path>
+</svg>
+</a>
+  			</div><!--  _mark   -->   
+            
+  			<div class="_text">
+    		<a href="/">
+        	  Today
+      		  </a>
+ 			</div><!--  _text   -->
+
+            
+			</div><!--  uic-type-treatment-footer   -->
+
+
+			</div><!--  uic-type-wrapper-footer    -->
+ 
+
+
+  <div class="_contact">
+  
+  
+    <h2>UIC Today Contact</h2>
+    
+    
+		<div class="site-address">Office of Strategic Marketing and Communications<br />
+		601 S. Morgan St., 1320 UH, Chicago, IL 60607</div>
+      
+      
+		<div class="site-email"><a href="mailto:uictoday@uic.edu">uictoday@uic.edu</a></div>
+        
+        
+		<div aria-label="Social Media Accounts" class="_social" role="navigation">
+			<h2 class="assistive-text">Social Media Accounts</h2> 
+  			<ul class="site-social-links">
+            <li><a href="https://www.facebook.com/uicnews "><img src="/wp-content/themes/uictoday/images/social-media-icons/facebook.png" alt="Facebook"></a></li>
+            <li><a href="https://instagram.com/thisisuic/"><img src="/wp-content/themes/uictoday/images/social-media-icons/instagram.png" alt="Instagram"></a></li>
+            <li><a href="https://today.uic.edu/campus-news/campus-newspaper/subscribe-to-uic-today"><img src="/wp-content/themes/uictoday/images/social-media-icons/rss.png" alt="RSS feed"></a></li>
+            <li><a href="https://uicscience.tumblr.com/"><img src="/wp-content/themes/uictoday/images/social-media-icons/tumblr.png" alt="tumblr"></a></li>
+            <li><a href="https://twitter.com/UICnews"><img src="/wp-content/themes/uictoday/images/social-media-icons/twitter.png" alt="Twitter"></a></li>
+            <li><a href="https://www.youtube.com/user/uicmedia"><img src="/wp-content/themes/uictoday/images/social-media-icons/youtube.png" alt="YouTube"></a></li>
+            <li><a href="https://today.uic.edu/contact/social-media-directory"><img src="/wp-content/themes/uictoday/images/social-media-icons/directory.png" alt="Social media directory"></a></li>
+            </ul>
+            
+            
+		</div>        
+        
+        
+  </div>
+
+    
+
+       
+
+
+   
+
+
+
+
+
+		<div id="quicklinks_footer" role="navigation" aria-label="Quick Links" >
+			<div id="quicklinks_footer_container">
+	  	 	<div class="menu-footer-quicklinks-container"><ul id="menu-footer-quicklinks" class="menu"><li id="menu-item-57564"><a href="/news-release/news-release/">For the Media</a></li>
+<li id="menu-item-57555"><a href="https://today.uic.edu/experts-guide">Experts Guide</a></li>
+<li id="menu-item-57577"><a href="https://today.uic.edu/contact/communicating-on-campus/submit-announcements">Submit Announcements</a></li>
+<li id="menu-item-57578"><a href="https://today.uic.edu/submit-an-event">Submit an Event</a></li>
+<li id="menu-item-67562"><a href="https://today.uic.edu/campus-news/campus-newspaper/subscribe-to-uic-today">Subscribe to UIC Today</a></li>
+<li id="menu-item-110887"><a href="https://today.uic.edu/uic-in-the-news">UIC in the news</a></li>
+</ul></div>        	</div>
+	    </div>      
+
+
+</div>
+
+    
+    </div>
+  </div>
+
+
+
+
+<div class="footer-wrapper-uic-menu-legal">
+
+
+  <div class="footer-uic-menu">
+    <div class="ll-full">
+
+      <div role="navigation" aria-label="UIC.edu Links" >
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><a href="http://uic.edu/">UIC.edu</a></li>
+    <li><a href="http://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="http://uicflames.com/">Athletics</a></li>
+    <li><a href="http://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="http://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="http://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="http://events.uic.edu/">Event Calendar</a></li>
+    <li><a href="http://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="http://library.uic.edu/">Library</a></li>
+    <li><a href="http://maps.uic.edu/">Maps</a></li>
+    <li><a href="http://hospital.uillinois.edu/">UI Health</a></li>
+    <li><a href="http://dos.uic.edu/studentveteranaffairs.shtml">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+    </div><!--  ll-full   -->
+    
+    <div class="m-full">
+    <img src="/wp-content/themes/uictoday/images/uihealth.png" alt="UI Health and UIC co-branded logo">
+    </div><!--  m-full   -->
+
+    <div class="n-full" style="padding:59px;">
+      <div class="cookie-banner">
+        <div id="footer-bottom">
+          <!-- OneTrust Cookies Settings button start -->
+          <button id="ot-sdk-btn" class="ot-sdk-show-settings" type="button">Cookie Settings</button>
+          <!-- OneTrust Cookies Settings button end -->
+        </div>
+      </div>
+    </div><!--  m-full   -->
+
+    
+  </div><!--  footer-uic-menu   --> 
+
+
+
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="site-copyright">
+  &copy; 2021 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Privacy Statement</a>
+</div>
+
+<div class="campuses" role="navigation" aria-label="University of Illinois campus web sites">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+
+    </div>
+
+
+
+</div><!--  footer-wrapper-uic-menu-legal   --> 
+
+
+
+<!-- Google Translate widget -->
+<h2 class="assistive-text">Google Translate</h2>
+<div class="google-translate">
+  <div id="google_translate_element">
+  </div>
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL}, 'google_translate_element');
+      }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+
+
+    
+    
+  </div>
+
+</footer>
+
+
+
+
+
+</div>
+
+
+<script>requestAnimationFrame(() => document.body.classList.add( "stk--anim-init" ))</script><script type="text/javascript">
+  document.write(unescape("%3Cscript src='//www.uic.edu/inc/emergency/alert.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+		<script type="text/javascript" id="pf_script">
+		  var pfHeaderImgUrl = 'https://today.uic.edu/files/2019/10/TodayPrintHeader.jpg';
+		  var pfHeaderTagline = 'UIC Today';
+		  var pfdisableClickToDel = '0';
+		  var pfImagesSize = 'full-size';
+		  var pfImageDisplayStyle = 'right';
+		  var pfEncodeImages = '0';
+		  var pfDisableEmail = '0';
+		  var pfDisablePDF = '0';
+		  var pfDisablePrint = '0';
+		  var pfCustomCSS = '';
+		  var pfPlatform = 'WordPress';
+		</script>
+		<script async src='https://cdn.printfriendly.com/printfriendly.js'></script>
+			<script type='text/javascript' src='https://today.uic.edu/wp-includes/js/wp-embed.min.js?ver=5.7' id='wp-embed-js'></script>
+
+</body>
+</html><!-- WP Fastest Cache file was created in 0.13732886314392 seconds, on 09-12-21 17:35:13 -->

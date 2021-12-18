@@ -1,0 +1,559 @@
+<!doctype html>
+<html xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<title>Biomedical Engineering (BME) &lt; University of Illinois at Chicago</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/handheld.css" media="only screen and (max-width: 767px)" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js"></script>
+
+</head>
+
+
+
+<body>
+
+
+
+
+
+<!--htdig_noindex-->
+<div class="accessible noscript">
+    <div class="accessible-menu" role="navigation" aria-label="Accessible Navigation">
+		<ul>
+			<li><a href="#content" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="http://www.uic.edu">UIC Home</a></li>
+		</ul>
+	</div>
+</div>
+<!--/htdig_noindex-->
+
+<header id="header-new">
+	<div class="wrap">
+		<div class="logo-header">
+			<a href="//www.uic.edu">
+				<img src="/images/logo2021.png" alt="University of Illinois Chicago" />
+			</a>
+		</div>
+		<nav class="catalog-quicklinks" aria-label="catalog quicklink">
+			<button id="hamburger" aria-controls="mobile-menu" data-toggle="#mobile-menu" aria-expanded="false">
+				<span class="sr-only">Toggle menu</span>
+				<i class="fa fa-bars" aria-hidden="true"></i>
+			</button>
+			<div id="mobile-menu">
+			<ul id="quicklinks">
+				<li><a href="/ucat/">Undergraduate</a></li>
+				<li><a href="/gcat">Graduate</a></li>
+				<li><a href="#" onclick="showPrintDialog(); return false;">Print / Download Options</a></li>
+			</ul>
+			<div id="search" role="search">
+				<form id="cl-search" action="/search/" class="clearfix">
+				<label for="name">Search Catalog</label>
+				<input type="text" name="search" size="25" placeholder="Search catalog..." class="searchbox" id="name" title="Search Catalog" />
+				<input type="submit" value="Search" class="submit" />
+				</form>
+			</div><!-- end #search -->
+		</div><!-- /#mobile-menu -->
+		</nav>
+	</div>
+</header>
+
+<!--htdig_noindex-->
+<div id="header" role="header">
+    <div class="wrap clearfix">
+        <a href="/">
+			<h1>Academic Catalog</h1>
+		</a>
+    </div><!--end .wrap -->
+</div><!-- end #header -->
+<!--/htdig_noindex-->
+
+<!--htdig_noindex-->
+<section id="banner" aria-labbledby="banner-header"
+ class="grad"
+>
+    <div class="wrap">
+
+
+		<div class="banner-text">
+			<h2 id="banner-header">2020-2022 Graduate Catalog</h2>
+		</div>
+
+
+
+
+    </div><!--end .wrap -->
+</section><!--end #navigation -->
+<!--/htdig_noindex-->
+
+<div id="wrapper">
+
+    <div id="container" class="clearfix">
+        <div id="nav-col" role="complementary">
+            <a id="cl-menu-control" href="#" class="togglenav">
+                <span class="cl-menu-text">Catalog Navigation</span>
+                <!-- <a class="cl-menu-btn" href="#">Catalog Navigation</a> -->
+				<svg aria-label="Down arrow icon" width="32" height="32" viewBox="0 0 32 32" role="presentation"><title>Down arrow icon</title><g fill="none" fill-rule="evenodd"><circle class="_circle" stroke-width="1" stroke="#007Da5" fill="#fff" cx="16" cy="16" r="15"></circle><path class="_arrow" stroke-width="2" stroke="#001E62" stroke-linecap="round" d="M12 17l4 4 4-4M16 20v-9"></path></g></svg>
+			</a><!--end #cl-menu-control-->
+            
+            <!-- Begin Regular Nav -->
+            <div id="cl-menu" role="navigation" aria-label="Secondary Navigation">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/ucat/">Undergraduate Catalog</a></li>
+	<li class="active isparent"><a href="/gcat/">Graduate Catalog</a>
+	<ul class="nav levelone" id="/gcat/">
+		<li><a href="/gcat/academic-calendar/">Academic Calendar</a></li>
+		<li class="isparent"><a href="/gcat/the-university/">The University</a></li>
+		<li class="isparent"><a href="/gcat/graduate-study/">Graduate Study at UIC</a></li>
+		<li class="isparent"><a href="/gcat/degree-programs/">Degree Programs</a></li>
+		<li class="isparent"><a href="/gcat/colleges-schools/">Colleges &amp;&#8203; Schools</a></li>
+		<li class="active isparent"><a href="/gcat/course-descriptions/">Graduate Course Descriptions</a>
+		<ul class="nav leveltwo" id="/gcat/course-descriptions/">
+			<li><a href="/gcat/course-descriptions/actg/">Accounting (ACTG)</a></li>
+			<li><a href="/gcat/course-descriptions/aast/">African American Studies (AAST)</a></li>
+			<li><a href="/gcat/course-descriptions/anat/">Anatomy and Cell Biology (ANAT)</a></li>
+			<li><a href="/gcat/course-descriptions/anth/">Anthropology (ANTH)</a></li>
+			<li><a href="/gcat/course-descriptions/ahs/">Applied Health Sciences (AHS)</a></li>
+			<li><a href="/gcat/course-descriptions/arch/">Architecture (ARCH)</a></li>
+			<li><a href="/gcat/course-descriptions/art/">Art (ART)</a></li>
+			<li><a href="/gcat/course-descriptions/ah/">Art History (AH)</a></li>
+			<li><a href="/gcat/course-descriptions/bcmg/">Biochemistry and Molecular Genetics (BCMG)</a></li>
+			<li><a href="/gcat/course-descriptions/bioe/">Bioengineering (BIOE)</a></li>
+			<li><a href="/gcat/course-descriptions/bios/">Biological Sciences (BIOS)</a></li>
+			<li><a href="/gcat/course-descriptions/bhis/">Biomedical and Health Information Sciences (BHIS)</a></li>
+			<li class="active self"><a href="#" onclick="return false;">Biomedical Engineering (BME)</a></li>
+			<li><a href="/gcat/course-descriptions/bvis/">Biomedical Visualization (BVIS)</a></li>
+			<li><a href="/gcat/course-descriptions/bps/">Biopharmaceutical Sciences (BPS)</a></li>
+			<li><a href="/gcat/course-descriptions/bstt/">Biostatistics (BSTT)</a></li>
+			<li><a href="/gcat/course-descriptions/blst/">Black Studies (BLST)</a></li>
+			<li><a href="/gcat/course-descriptions/ba/">Business Administration (BA)</a></li>
+			<li><a href="/gcat/course-descriptions/cc/">Campus Courses (CC)</a></li>
+			<li><a href="/gcat/course-descriptions/cees/">Central and Eastern European Studies (CEES)</a></li>
+			<li><a href="/gcat/course-descriptions/che/">Chemical Engineering (CHE)</a></li>
+			<li><a href="/gcat/course-descriptions/chem/">Chemistry (CHEM)</a></li>
+			<li><a href="/gcat/course-descriptions/cd/">City Design (CD)</a></li>
+			<li><a href="/gcat/course-descriptions/cme/">Civil, Materials, and Environmental Engineering (CME)</a></li>
+			<li><a href="/gcat/course-descriptions/cl/">Classics (CL)</a></li>
+			<li><a href="/gcat/course-descriptions/comm/">Communication (COMM)</a></li>
+			<li><a href="/gcat/course-descriptions/chsc/">Community Health Sciences (CHSC)</a></li>
+			<li><a href="/gcat/course-descriptions/cs/">Computer Science (CS)</a></li>
+			<li><a href="/gcat/course-descriptions/clj/">Criminology, Law, and Justice (CLJ)</a></li>
+			<li><a href="/gcat/course-descriptions/ci/">Curriculum and Instruction (CI)</a></li>
+			<li><a href="/gcat/course-descriptions/des/">Design (DES)</a></li>
+			<li><a href="/gcat/course-descriptions/dhd/">Disability and Human Development (DHD)</a></li>
+			<li><a href="/gcat/course-descriptions/eaes/">Earth and Environmental Sciences (EAES)</a></li>
+			<li><a href="/gcat/course-descriptions/econ/">Economics (ECON)</a></li>
+			<li><a href="/gcat/course-descriptions/ed/">Education (ED)</a></li>
+			<li><a href="/gcat/course-descriptions/edps/">Educational Policy Studies (EDPS)</a></li>
+			<li><a href="/gcat/course-descriptions/epsy/">Educational Psychology (EPSY)</a></li>
+			<li><a href="/gcat/course-descriptions/ece/">Electrical and Computer Engineering (ECE)</a></li>
+			<li><a href="/gcat/course-descriptions/ener/">Energy Engineering (ENER)</a></li>
+			<li><a href="/gcat/course-descriptions/engr/">Engineering (ENGR)</a></li>
+			<li><a href="/gcat/course-descriptions/engl/">English (ENGL)</a></li>
+			<li><a href="/gcat/course-descriptions/entr/">Entrepreneurship (ENTR)</a></li>
+			<li><a href="/gcat/course-descriptions/eohs/">Environmental and Occupational Health Sciences (EOHS)</a></li>
+			<li><a href="/gcat/course-descriptions/epid/">Epidemiology (EPID)</a></li>
+			<li><a href="/gcat/course-descriptions/fin/">Finance (FIN)</a></li>
+			<li><a href="/gcat/course-descriptions/fr/">French (FR)</a></li>
+			<li><a href="/gcat/course-descriptions/gws/">Gender and Women's Studies (GWS)</a></li>
+			<li><a href="/gcat/course-descriptions/geog/">Geography (GEOG)</a></li>
+			<li><a href="/gcat/course-descriptions/ger/">Germanic Studies (GER)</a></li>
+			<li><a href="/gcat/course-descriptions/glas/">Global Asian Studies (GLAS)</a></li>
+			<li><a href="/gcat/course-descriptions/gc/">Graduate College (GC)</a></li>
+			<li><a href="/gcat/course-descriptions/gems/">Graduate Education in Medical Sciences (GEMS)</a></li>
+			<li><a href="/gcat/course-descriptions/gka/">Greek, Ancient (GKA)</a></li>
+			<li><a href="/gcat/course-descriptions/him/">Health Information Management (HIM)</a></li>
+			<li><a href="/gcat/course-descriptions/hpa/">Health Policy and Administration (HPA)</a></li>
+			<li><a href="/gcat/course-descriptions/hlp/">Healthy Living Practitioner™ (HLP)</a></li>
+			<li><a href="/gcat/course-descriptions/hstl/">Histology (HSTL)</a></li>
+			<li><a href="/gcat/course-descriptions/hist/">History (HIST)</a></li>
+			<li><a href="/gcat/course-descriptions/hon/">Honors College (HON)</a></li>
+			<li><a href="/gcat/course-descriptions/hn/">Human Nutrition (HN)</a></li>
+			<li><a href="/gcat/course-descriptions/ie/">Industrial Engineering (IE)</a></li>
+			<li><a href="/gcat/course-descriptions/ids/">Information and Decision Sciences (IDS)</a></li>
+			<li><a href="/gcat/course-descriptions/iphs/">Interdisciplinary Public Health Sciences (IPHS)</a></li>
+			<li><a href="/gcat/course-descriptions/isa/">Interdisciplinary Studies in the Arts (ISA)</a></li>
+			<li><a href="/gcat/course-descriptions/ital/">Italian (ITAL)</a></li>
+			<li><a href="/gcat/course-descriptions/jst/">Jewish Studies (JST)</a></li>
+			<li><a href="/gcat/course-descriptions/kn/">Kinesiology (KN)</a></li>
+			<li><a href="/gcat/course-descriptions/lat/">Latin (LAT)</a></li>
+			<li><a href="/gcat/course-descriptions/lals/">Latin American and Latino Studies (LALS)</a></li>
+			<li><a href="/gcat/course-descriptions/lrsc/">Learning Sciences (LRSC)</a></li>
+			<li><a href="/gcat/course-descriptions/las/">Liberal Arts and Sciences (LAS)</a></li>
+			<li><a href="/gcat/course-descriptions/ling/">Linguistics (LING)</a></li>
+			<li><a href="/gcat/course-descriptions/lcsl/">Literatures, Cultural Studies, and Linguistics (LCSL)</a></li>
+			<li><a href="/gcat/course-descriptions/lith/">Lithuanian (LITH)</a></li>
+			<li><a href="/gcat/course-descriptions/mgmt/">Management (MGMT)</a></li>
+			<li><a href="/gcat/course-descriptions/mktg/">Marketing (MKTG)</a></li>
+			<li><a href="/gcat/course-descriptions/mba/">Master of Business Administration (MBA)</a></li>
+			<li><a href="/gcat/course-descriptions/meng/">Master of Engineering (MENG)</a></li>
+			<li><a href="/gcat/course-descriptions/mcs/">Mathematical Computer Science (MCS)</a></li>
+			<li><a href="/gcat/course-descriptions/math/">Mathematics (MATH)</a></li>
+			<li><a href="/gcat/course-descriptions/mtht/">Mathematics Teaching (MTHT)</a></li>
+			<li><a href="/gcat/course-descriptions/me/">Mechanical Engineering (ME)</a></li>
+			<li><a href="/gcat/course-descriptions/mbt/">Medical Biotechnology (MBT)</a></li>
+			<li><a href="/gcat/course-descriptions/mhpe/">Medical Education (MHPE)</a></li>
+			<li><a href="/gcat/course-descriptions/mhum/">Medical Humanities (MHUM)</a></li>
+			<li><a href="/gcat/course-descriptions/mdch/">Medicinal Chemistry (MDCH)</a></li>
+			<li><a href="/gcat/course-descriptions/pmmp/">Medicinal Chemistry and Pharmacognosy (PMMP)</a></li>
+			<li><a href="/gcat/course-descriptions/mim/">Microbiology and Immunology (MIM)</a></li>
+			<li><a href="/gcat/course-descriptions/mils/">Military Science (MILS)</a></li>
+			<li><a href="/gcat/course-descriptions/mus/">Music (MUS)</a></li>
+			<li><a href="/gcat/course-descriptions/muse/">Museum and Exhibition Studies (MUSE)</a></li>
+			<li><a href="/gcat/course-descriptions/nast/">Native American Studies (NAST)</a></li>
+			<li><a href="/gcat/course-descriptions/nats/">Natural Sciences (NATS)</a></li>
+			<li><a href="/gcat/course-descriptions/neus/">Neuroscience (NEUS)</a></li>
+			<li><a href="/gcat/course-descriptions/nurs/">Nursing Core (NURS)</a></li>
+			<li><a href="/gcat/course-descriptions/nuel/">Nursing Elective (NUEL)</a></li>
+			<li><a href="/gcat/course-descriptions/nupr/">Nursing Practicum (NUPR)</a></li>
+			<li><a href="/gcat/course-descriptions/nusp/">Nursing Specialty (NUSP)</a></li>
+			<li><a href="/gcat/course-descriptions/ot/">Occupational Therapy (OT)</a></li>
+			<li><a href="/gcat/course-descriptions/osur/">Oral and Maxillofacial Surgery (OSUR)</a></li>
+			<li><a href="/gcat/course-descriptions/omds/">Oral Medicine and Diagnostic Sciences (OMDS)</a></li>
+			<li><a href="/gcat/course-descriptions/osci/">Oral Sciences (OSCI)</a></li>
+			<li><a href="/gcat/course-descriptions/ortd/">Orthodontics (ORTD)</a></li>
+			<li><a href="/gcat/course-descriptions/path/">Pathology (PATH)</a></li>
+			<li><a href="/gcat/course-descriptions/psl/">Patient Safety Leadership (PSL)</a></li>
+			<li><a href="/gcat/course-descriptions/pedd/">Pediatric Dentistry (PEDD)</a></li>
+			<li><a href="/gcat/course-descriptions/psci/">Pharmaceutical Sciences (PSCI)</a></li>
+			<li><a href="/gcat/course-descriptions/pmpg/">Pharmacognosy (PMPG)</a></li>
+			<li><a href="/gcat/course-descriptions/pcol/">Pharmacology (PCOL)</a></li>
+			<li><a href="/gcat/course-descriptions/phar/">Pharmacy (PHAR)</a></li>
+			<li><a href="/gcat/course-descriptions/pmpr/">Pharmacy Practice (PMPR)</a></li>
+			<li><a href="/gcat/course-descriptions/psop/">Pharmacy Systems, Outcomes, and Policy (PSOP)</a></li>
+			<li><a href="/gcat/course-descriptions/phil/">Philosophy (PHIL)</a></li>
+			<li><a href="/gcat/course-descriptions/pt/">Physical Therapy (PT)</a></li>
+			<li><a href="/gcat/course-descriptions/phys/">Physics (PHYS)</a></li>
+			<li><a href="/gcat/course-descriptions/phyb/">Physiology and Biophysics (PHYB)</a></li>
+			<li><a href="/gcat/course-descriptions/pol/">Polish (POL)</a></li>
+			<li><a href="/gcat/course-descriptions/pols/">Political Science (POLS)</a></li>
+			<li><a href="/gcat/course-descriptions/pros/">Prosthodontics (PROS)</a></li>
+			<li><a href="/gcat/course-descriptions/psch/">Psychology (PSCH)</a></li>
+			<li><a href="/gcat/course-descriptions/pa/">Public Administration (PA)</a></li>
+			<li><a href="/gcat/course-descriptions/pubh/">Public Health (PUBH)</a></li>
+			<li><a href="/gcat/course-descriptions/ppol/">Public Policy (PPOL)</a></li>
+			<li><a href="/gcat/course-descriptions/ppa/">Public Policy Analysis (PPA)</a></li>
+			<li><a href="/gcat/course-descriptions/rels/">Religious Studies (RELS)</a></li>
+			<li><a href="/gcat/course-descriptions/russ/">Russian (RUSS)</a></li>
+			<li><a href="/gcat/course-descriptions/slav/">Slavic and Baltic Languages and Literature (SLAV)</a></li>
+			<li><a href="/gcat/course-descriptions/socw/">Social Work (SOCW)</a></li>
+			<li><a href="/gcat/course-descriptions/soc/">Sociology (SOC)</a></li>
+			<li><a href="/gcat/course-descriptions/span/">Spanish (SPAN)</a></li>
+			<li><a href="/gcat/course-descriptions/sped/">Special Education (SPED)</a></li>
+			<li><a href="/gcat/course-descriptions/stat/">Statistics (STAT)</a></li>
+			<li><a href="/gcat/course-descriptions/sabr/">Study Abroad (SABR)</a></li>
+			<li><a href="/gcat/course-descriptions/surg/">Surgery (SURG)</a></li>
+			<li><a href="/gcat/course-descriptions/thtr/">Theatre (THTR)</a></li>
+			<li><a href="/gcat/course-descriptions/upa/">Urban and Public Affairs (UPA)</a></li>
+			<li><a href="/gcat/course-descriptions/upp/">Urban Planning and Policy (UPP)</a></li>
+			<li><a href="/gcat/course-descriptions/us/">Urban Studies (US)</a></li>
+		</ul>
+		</li>
+		<li class="isparent"><a href="/gcat/graduate-college/">Graduate College</a></li>
+		<li><a href="/gcat/faculty/">Graduate Faculty</a></li>
+		<li><a href="/gcat/archive-links/">Archive &amp;&#8203; Links</a></li>
+		<li><a href="http://grad.uic.edu" target="_blank">Graduate College Website</a></li>
+		<li><a href="/gcat/facultytest/">Faculty Test</a></li>
+	</ul>
+	</li>
+</ul>
+			   </div><!--end #cl-menu-->
+            <!-- End Nav -->
+        </div><!-- end #nav-col -->		    
+    		    
+        <div id="content-col">
+            <div id="content" role="main">
+
+<div id="breadcrumb" class="clearfix" role="navigation" aria-label="Breadcrumb Navigation">
+<ul><li><a href="/">Home</a><span class="crumbsep">/</span></li><li><a href="/gcat/">Graduate&nbsp;Catalog</a><span class="crumbsep">/</span></li><li><a href="/gcat/course-descriptions/">Graduate&nbsp;Course&nbsp;Descriptions</a><span class="crumbsep">/</span></li><li><span class="active">Biomedical Engineering (BME)</span></li></ul>
+</div><!-- end #breadcrumb -->
+
+			<h1 class="page-title">Biomedical Engineering (BME)</h1>
+
+
+
+<div id="textcontainer" class="page_content">
+
+<div class="sidebar">
+	<div id="sidebar-contact">
+
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<div class="sc_sccoursedescs">
+<div class="courseblock">
+<p class="courseblocktitle"><strong>BME 407.  Pattern Recognition I.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+The design of automated systems for detection, recognition, classification and diagnosis. Parametric and nonparametric decision-making techniques. Applications in computerized medical and industrial image and waveform analysis. Course Information: Same as <a href="/search/?P=ECE%20407" title="ECE 407" class="bubblelink code" onclick="return showCourse(this, 'ECE 407');">ECE 407</a>. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): <a href="/search/?P=ECE%20341" title="ECE 341" class="bubblelink code" onclick="return showCourse(this, 'ECE 341');">ECE 341</a> or <a href="/search/?P=BME%20339" title="BME 339" class="bubblelink code" onclick="return showCourse(this, 'BME 339');">BME 339</a> or <a href="/search/?P=IE%20342" title="IE 342" class="bubblelink code" onclick="return showCourse(this, 'IE 342');">IE 342</a> or <a href="/search/?P=STAT%20381" title="STAT 381" class="bubblelink code" onclick="return showCourse(this, 'STAT 381');">STAT 381</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 410.  FDA and ISO Requirements for the Development and Manufacturing of Medical Devices.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+FDA Performance Standard for General Medical Devices for manufacturing and development engineers. Product requirement definition, design control, hazard analysis, failure mode and effect analysis, regulatory submission, product tests, ISO 9001. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as BIOE 410. Prerequisite(s): BIOE 250 or <a href="/search/?P=BME%20250" title="BME 250" class="bubblelink code" onclick="return showCourse(this, 'BME 250');">BME 250</a>; and junior standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 415.  Biomechanics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Continuum mechanics of cells, tissues and organs. Statics and force balances; stress, strain and constitutive relations; equilibrium, universal solutions and inflation; finite deformation; nonlinear problems; finite element methods. Course Information: 3 undergraduate hours. 4 graduate hours. Credit is not given for <a href="/search/?P=BME%20415" title="BME 415" class="bubblelink code" onclick="return showCourse(this, 'BME 415');">BME 415</a> if the student has credit in BIOE 415. Previously listed as BIOE 315. Prerequisite(s): BIOE 310 or <a href="/search/?P=BME%20310" title="BME 310" class="bubblelink code" onclick="return showCourse(this, 'BME 310');">BME 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 421.  Biomedical Imaging.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to engineering and scientific principles associated with X-ray, magnetic resonance, ultrasound, computed tomographic and nuclear imaging. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as BIOE 421. Credit is not given for <a href="/search/?P=BME%20421" title="BME 421" class="bubblelink code" onclick="return showCourse(this, 'BME 421');">BME 421</a> if the student has credit in BIOE 421. Prerequisite(s): <a href="/search/?P=MATH%20220" title="MATH 220" class="bubblelink code" onclick="return showCourse(this, 'MATH 220');">MATH 220</a> and <a href="/search/?P=MATH%20310" title="MATH 310" class="bubblelink code" onclick="return showCourse(this, 'MATH 310');">MATH 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 422.  Magnetic Resonance Imaging: Theory and Practice.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Fundamental priciples of magnetic resonance imaging (MRI) from a signal processing perspective. Focus on image acquisition, formation, and analysis. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as BIOE 422. Prerequisite(s): BIOE 310 or <a href="/search/?P=BME%20310" title="BME 310" class="bubblelink code" onclick="return showCourse(this, 'BME 310');">BME 310</a> or <a href="/search/?P=ECE%20310" title="ECE 310" class="bubblelink code" onclick="return showCourse(this, 'ECE 310');">ECE 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 423.  Biomedical Imaging Laboratory.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Acquisition and processing of biomedical imaging data. Relaxation time-based magnetic resonance imaging, motion sensitive magnetic resonance imaging, computed tomography, ultrasound, nuclear medicine imaging and optical imaging. Course Information: Previously listed as BIOE 423. Extensive computer use required. Prerequisite(s): Credit or concurrent registration in BIOE 421 or <a href="/search/?P=BME%20421" title="BME 421" class="bubblelink code" onclick="return showCourse(this, 'BME 421');">BME 421</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 452.  Biocontrol.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Considers the unique characteristics of physiological systems using the framework of linear systems and control theory. Static and dynamic operating characteristics, stability, and the relationship of pathology to control function. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as BIOE 452. Prerequisite(s): BIOE 310 or <a href="/search/?P=BME%20310" title="BME 310" class="bubblelink code" onclick="return showCourse(this, 'BME 310');">BME 310</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 455.  Introduction to Cell and Tissue Engineering.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Foundation of cell and tissue engineering covering cell technology, construct technology, and cell-substrate interactions. Emphasis in emerging trends and technologies in tissue engineering. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as BIOE 455. Prerequisite(s): BIOE 460 or <a href="/search/?P=BME%20460" title="BME 460" class="bubblelink code" onclick="return showCourse(this, 'BME 460');">BME 460</a>; and <a href="/search/?P=BIOS%20320" title="BIOS 320" class="bubblelink code" onclick="return showCourse(this, 'BIOS 320');">BIOS 320</a> or <a href="/search/?P=BIOS%20343" title="BIOS 343" class="bubblelink code" onclick="return showCourse(this, 'BIOS 343');">BIOS 343</a> or <a href="/search/?P=BIOS%20452" title="BIOS 452" class="bubblelink code" onclick="return showCourse(this, 'BIOS 452');">BIOS 452</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 456.  Cell &amp; Tissue Laboratory.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Includes polymer scaffold fabrication, microstamping biomolecules, cellular adhesion and proliferation assays, and immo/fluorescent tagging. Course Information: Previously listed as BIOE 456. Prerequisite(s): Credit or concurrent registration in BIOE 455 or Credit or concurrent registration in <a href="/search/?P=BME%20455" title="BME 455" class="bubblelink code" onclick="return showCourse(this, 'BME 455');">BME 455</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 460.  Materials in Biomedical Engineering.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis and design considerations of problems associated with prostheses and other implanted biomedical devices. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as BIOE 460. Prerequisite(s): <a href="/search/?P=CME%20260" title="CME 260" class="bubblelink code" onclick="return showCourse(this, 'CME 260');">CME 260</a>; and <a href="/search/?P=BIOS%20220" title="BIOS 220" class="bubblelink code" onclick="return showCourse(this, 'BIOS 220');">BIOS 220</a> or <a href="/search/?P=BIOS%20222" title="BIOS 222" class="bubblelink code" onclick="return showCourse(this, 'BIOS 222');">BIOS 222</a> or <a href="/search/?P=BIOS%20286" title="BIOS 286" class="bubblelink code" onclick="return showCourse(this, 'BIOS 286');">BIOS 286</a> or <a href="/search/?P=BIOS%20340" title="BIOS 340" class="bubblelink code" onclick="return showCourse(this, 'BIOS 340');">BIOS 340</a> or <a href="/search/?P=PSCH%20262" title="PSCH 262" class="bubblelink code" onclick="return showCourse(this, 'PSCH 262');">PSCH 262</a> or <a href="/search/?P=CHEM%20232" title="CHEM 232" class="bubblelink code" onclick="return showCourse(this, 'CHEM 232');">CHEM 232</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 462.  Introduction to Dental Clinical Research and Technology.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Dental implants, biomaterials, biomechanics, tissue engineering, oral surgery, orthodontics, endodontics, nanomedicine, simulators and ADEA certifications, digital dentistry, virtual and augmented reality. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): <a href="/search/?P=CME%20260" title="CME 260" class="bubblelink code" onclick="return showCourse(this, 'CME 260');">CME 260</a>; or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 470.  Biomedical Optics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Physical principles and instrumentation relevant to the use of light in biomedical research. Several current and developing clinical applications are explored. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as BIOE 470. Prerequisite(s): <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 471.  Biomedical Optical Imaging.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Fundamentals of light-matter interactions, geometric optics, nonlinear optics, ultra-fast lasers, photodetectors, light microscopy, supper-resolution imaging, photoacoustic tomography, optical coherence tomography, functional optical imaging. Course Information: 3 undergraduate hours. 4 graduate hours. Credit is not give for <a href="/search/?P=BME%20471" title="BME 471" class="bubblelink code" onclick="return showCourse(this, 'BME 471');">BME 471</a> if the student has credit in BIOE 471. Previously listed as BIOE 471. Prerequisite(s): <a href="/search/?P=PHYS%20142" title="PHYS 142" class="bubblelink code" onclick="return showCourse(this, 'PHYS 142');">PHYS 142</a> and <a href="/search/?P=BIOS%20110" title="BIOS 110" class="bubblelink code" onclick="return showCourse(this, 'BIOS 110');">BIOS 110</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 472.  Models of the Nervous System.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Mathematical models of neural excitation and nerve conduction, stochastic models and simulation of neuronal activity, models of neuron pools and information processing, models of specific neural networks. Course Information: 3 undergraduate hours. 4 graduate hours. Credit is not given for <a href="/search/?P=BME%20472" title="BME 472" class="bubblelink code" onclick="return showCourse(this, 'BME 472');">BME 472</a> if students have credit in BIOE 472. Previously listed as BIOE 472. Prerequisite(s): BIOE 310 or <a href="/search/?P=BME%20310" title="BME 310" class="bubblelink code" onclick="return showCourse(this, 'BME 310');">BME 310</a>; and Credit or concurrent registration in <a href="/search/?P=BIOS%20484" title="BIOS 484" class="bubblelink code" onclick="return showCourse(this, 'BIOS 484');">BIOS 484</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 475.  Neural Engineering I: Introduction to Hybrid Neural Systems.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Modeling and design of functional neural interfaces for in vivo and in vitro applications, electrodes and molecular coatings, neural prostheses and biopotential control of robotics. Course Information: Same as <a href="/search/?P=BIOS%20475" title="BIOS 475" class="bubblelink code" onclick="return showCourse(this, 'BIOS 475');">BIOS 475</a>. 3 undergraduate hours. 4 graduate hours. Previously listed as BIOE 475. Prerequisite(s): BIOE 472 or <a href="/search/?P=BME%20472" title="BME 472" class="bubblelink code" onclick="return showCourse(this, 'BME 472');">BME 472</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 476.  Neural Engineering I Laboratory.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Hands-on experience with computational and experimental models of engineered neural systems, with emphasis on neuroprostheses and biosensors. Course Information: Previously listed as BIOE 476. Animals used in instruction. Prerequisite(s): Credit or concurrent registration in BIOE 475 and <a href="/search/?P=BIOE%20430" title="BIOE 430" class="bubblelink code" onclick="return showCourse(this, 'BIOE 430');">BIOE 430</a> and <a href="/search/?P=BIOE%20431" title="BIOE 431" class="bubblelink code" onclick="return showCourse(this, 'BIOE 431');">BIOE 431</a>; or Credit or concurrent registration in <a href="/search/?P=BME%20475" title="BME 475" class="bubblelink code" onclick="return showCourse(this, 'BME 475');">BME 475</a> and BME 322 and BME 323.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 479.  Wearables and Nearables Technology Laboratory.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Practical experience in design and development of wearable and nearable devices. Acquisition and processing of sensors data. Design and development of user-friendly user interface. Course Information: Same as <a href="/search/?P=CS%20479" title="CS 479" class="bubblelink code" onclick="return showCourse(this, 'CS 479');">CS 479</a>. 3 undergraduate hours; 4 graduate hours. Extensive computer use required. Prerequisite(s): <a href="/search/?P=BME%20240" title="BME 240" class="bubblelink code" onclick="return showCourse(this, 'BME 240');">BME 240</a>; or <a href="/search/?P=CS%20251" title="CS 251" class="bubblelink code" onclick="return showCourse(this, 'CS 251');">CS 251</a>; or consent of the instructor. Recommended background: <a href="/search/?P=ECE%20210" title="ECE 210" class="bubblelink code" onclick="return showCourse(this, 'ECE 210');">ECE 210</a> and <a href="/search/?P=CS%20109" title="CS 109" class="bubblelink code" onclick="return showCourse(this, 'CS 109');">CS 109</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 480.  Intro to Bioinformatics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Computational analysis of genomic sequences and other high throughput data. Sequence alignment, dynamic programming, database search, protein motifs, cDNA expression array, and structural bioinformatics. Course Information: 3 undergraduate hours. 4 graduate hours. Credit is not given for <a href="/search/?P=BME%20480" title="BME 480" class="bubblelink code" onclick="return showCourse(this, 'BME 480');">BME 480</a> if the student has credit in <a href="/search/?P=BME%20480" title="BME 480" class="bubblelink code" onclick="return showCourse(this, 'BME 480');">BME 480</a>. Prerequisite(s): BIOS 100 and <a href="/search/?P=CS%20109" title="CS 109" class="bubblelink code" onclick="return showCourse(this, 'CS 109');">CS 109</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 481.  Bioinformatics Laboratory.  2 hours.</strong></p>
+<p class="courseblockdesc">
+Teaches students how to use bioinformatics tools, including sequence alignment methods such as Blast, Fasta, and Pfam, as well as structural bioinformatics tools, such as Rasmol and CastP. Course Information: Extensive computer use required. Previously listed as BIOE 481. Credit is not given for <a href="/search/?P=BME%20481" title="BME 481" class="bubblelink code" onclick="return showCourse(this, 'BME 481');">BME 481</a> if the student has credit in BIOE 481. Prerequisite(s): Credit or concurrent registration in <a href="/search/?P=BME%20480" title="BME 480" class="bubblelink code" onclick="return showCourse(this, 'BME 480');">BME 480</a> or Credit in BIOE 480; and senior standing or above.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 483.  Molecular Modeling in Bioinformatics.  3 or 4 hours.</strong></p>
+<p class="courseblockdesc">
+Basic structural and dynamics tools in protein structure prediction, structure comparison, function prediction, Monte Carlo and molecular dynamics simulations. Course Information: 3 undergraduate hours. 4 graduate hours. Previously listed as BIOE 483. Prerequisite(s): Grade of B or better in BIOE 480 or Grade of B or better in <a href="/search/?P=BME%20480" title="BME 480" class="bubblelink code" onclick="return showCourse(this, 'BME 480');">BME 480</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 494.  Special Topics in Biomedical Engineering IV.  1-5 hours.</strong></p>
+<p class="courseblockdesc">
+Special topics to be arranged. Course topics aimed at fourth-year undergraduate and graduate students. Course Information: May be repeated. Students may register in more than one section per term. Previously listed as BIOE 494.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 497.  Undergraduate Senior Design Thesis II.  0-8 hours.</strong></p>
+<p class="courseblockdesc">
+Applying engineering design methodology to a large scale biomedical engineering design problem. Technical reports and presentations, literature survey and undergraduate thesis. Course Information: Credit only give to non-degree students. Previously listed as BIOE 497. Extensive computer use required. Prerequisite(s): Approval of the Department.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 504.  Emerging Medical Technologies.  3 hours.</strong></p>
+<p class="courseblockdesc">
+Investigates new and emerging medical technologies following the technical due diligence process, a methodical evaluation of strengths, weaknesses, opportunities and threats of the identified technology. Course Information: Previously listed as BIOE 504. Prerequisite(s): BIOE 410 or BIOE 402 or BIOE 403; or <a href="/search/?P=BME%20410" title="BME 410" class="bubblelink code" onclick="return showCourse(this, 'BME 410');">BME 410</a> or BME 402 or BME 403; or BIOE 494 or <a href="/search/?P=BME%20494" title="BME 494" class="bubblelink code" onclick="return showCourse(this, 'BME 494');">BME 494</a> or the equivalent.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 505.  NanoBioTechnology.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Nanotechnology theory and applications in biology and medicine. Molecular simulations, combinatorial chemistry. Nanoscale structures, molecular building blocks, integrated nano-bio complexes. Positional and self-assembly, self-replication. Course Information: Recommended background:
+Engineering or physical sciences.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 514.  Advanced Biotransport.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Diffusion and flow in living systems. Blood rheology and flow. Microcirculation, oxygen transport, diffusive transport across membranes. Membrane structure; water, and ion flows, active transport. Course Information: Same as <a href="/search/?P=CHE%20514" title="CHE 514" class="bubblelink code" onclick="return showCourse(this, 'CHE 514');">CHE 514</a>. Previously listed as BIOE 514. Prerequisite(s): BIOE 325 or equivalent or consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 525.  Phys &amp; Cellular Biomech Forces.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Discuss how biomechanical forces are generated, the impact the forces have on cells and tissues, plus methods for studying them. Mechanisms by which cells may sense forces and transduce this information to the nucleus are also covered. Course Information: Credit is not given for <a href="/search/?P=BME%20525" title="BME 525" class="bubblelink code" onclick="return showCourse(this, 'BME 525');">BME 525</a> if the student has credit in BIOE 525. Previously listed as BIOE 525.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 530.  Stats &amp; Machine Learning.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Probability theory, parameter estimation, hypothesis testing, experimental design and power analysis for bioengineering problems. Supervised and unsupervised machine learning, dimensionality reduction, biological system model evaluation. Course Information: Credit is not given for <a href="/search/?P=BME%20530" title="BME 530" class="bubblelink code" onclick="return showCourse(this, 'BME 530');">BME 530</a> if the student has credit in BIOE 530. Previously listed as BIOE 530. Extensive computer use required. Prerequisite(s): <a href="/search/?P=MATH%20310" title="MATH 310" class="bubblelink code" onclick="return showCourse(this, 'MATH 310');">MATH 310</a> or the equivalent. Recommended background: Programming skills with Matlab or R.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 532.  Advanced Biological Systems Analysis.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Numerical integration, inversion, optimization, Markov chains, deconvolution and singular value decomposition applied to problems in conservation balances , diffusion and reaction networks, metabolic flux analysis, cell signaling, bio-image analysis. Course Information: Previously listed as BIOE 532. Extensive computer use required. Prerequisite(s: <a href="/search/?P=MATH%20310" title="MATH 310" class="bubblelink code" onclick="return showCourse(this, 'MATH 310');">MATH 310</a>; or consent of the instructor. Recommended background: Working knowledge of Matlab.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 538.  Numerical Analysis and Multiscale Modeling in Biological Systems.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Numerical approaches to systems of ordinary and partial differential equations in bioengineering. Advanced multiscale modeling techniques to bridge cellular and molecular scales with organ and tissue scales. Predictive models of biological function. Course Information: Extensive computer use required. Prerequisite(s): <a href="/search/?P=MATH%20220" title="MATH 220" class="bubblelink code" onclick="return showCourse(this, 'MATH 220');">MATH 220</a> and <a href="/search/?P=MATH%20310" title="MATH 310" class="bubblelink code" onclick="return showCourse(this, 'MATH 310');">MATH 310</a>; and graduate standing; or consent of the instructor. Recommended background: Vector Calculus; Mechanics or Transport; and working knowledge of Matlab, or C, or Fortran programming.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 540.  Biological Signal Analysis.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analysis of signals of biological origin. Transient signals, stability and control, probabilities and stochastic processes, signal modeling, estimation and filtering, medical applications. Course Information: Credit is not given for <a href="/search/?P=BME%20540" title="BME 540" class="bubblelink code" onclick="return showCourse(this, 'BME 540');">BME 540</a> if the student has credit in BIOE 540. Previously listed as BIOE 440. Extensive computer use required.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 548.  Micro and Nanotechnology for Biomedical Applications.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Covers selected topics in micro- and nano-technology underlying biomedical applications; topics include: microfabrication and nanofabrication; microfluidic processes; neuroMEMS; nanoscale structures as functional bio-interfaces. Course Information: Previously listed as BIOE 548.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 562.  Biomedical Implants in Orthopedics and Dentistry.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Advanced aspects of implant design, including biomaterials, surface coatings, biomechanics, corrosion, tribocorrosion, failure mechanisms, implant monitoring, clinical and regulatory concerns, critical review of current research. Course Information: Same as <a href="/search/?P=CME%20562" title="CME 562" class="bubblelink code" onclick="return showCourse(this, 'CME 562');">CME 562</a> and <a href="/search/?P=ME%20562" title="ME 562" class="bubblelink code" onclick="return showCourse(this, 'ME 562');">ME 562</a>. Credit is not given for <a href="/search/?P=BME%20562" title="BME 562" class="bubblelink code" onclick="return showCourse(this, 'BME 562');">BME 562</a> if the student has credit in BIOE 562. Previously listed as BIOE 562.  Prerequisite(s): BIOE 460 or <a href="/search/?P=BME%20460" title="BME 460" class="bubblelink code" onclick="return showCourse(this, 'BME 460');">BME 460</a>.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 575.  Neural Engineering II - Neural Coding.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Analytical techniques and models used to assess and predict neural activity.  Emphasis on information coding in sensory systems. Course Information: Credit is not given for <a href="/search/?P=BME%20575" title="BME 575" class="bubblelink code" onclick="return showCourse(this, 'BME 575');">BME 575</a> if the student has credit in BIOE 575. Previously listed as BIOE 575. Prerequisite(s):
+Consent of the instructor. Recommended background: Working knowledge of Matlab.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 580.  Principles of Bioinformatics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Bioinformatics analysis of sequence, phylogeny, and molecular structure. Focus on probabilistic models and algorithms, as well as structural analysis. Course Information: Previously listed as BIOE 580. Extensive computer use required. Prerequisite(s): BIOE 480 or <a href="/search/?P=BME%20480" title="BME 480" class="bubblelink code" onclick="return showCourse(this, 'BME 480');">BME 480</a>; and graduate or professional standing; or consent of the instructor. Recommended background: Exposure to biochemistry, molecular biology, or evolution.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 582.  Computational Functional Genomics.  4 hours.</strong></p>
+<p class="courseblockdesc">
+Modern statistical and computational methods relevant to functional genomics. Cell function, gene regulation and protein expression. Microarray technology and use; cluster analysis; prediction of protein function. Course Information: Previously listed as BIOE 582. Prerequisite(s): BIOE 480 or <a href="/search/?P=BME%20480" title="BME 480" class="bubblelink code" onclick="return showCourse(this, 'BME 480');">BME 480</a>. Recommended background: Basic knowledge of probability, statistics, vector algebra, calculus and cell biology.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 590.  Internship in Biomedical Engineering.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Current clinical practice experience in a health care setting culminating in a written and oral report. Course Information: Satisfactory/Unsatisfactory grading only. Previously listed as BIOE 590.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 594.  Advanced Special Topics in Biomedical Engineering.  1-4 hours.</strong></p>
+<p class="courseblockdesc">
+Systematic review of selected topics in bioengineering theory and practice. Subjects vary from year to year. Course Information: May be repeated. Students may register in more than one section per term. Previously listed as BIOE 594. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 595.  Seminar on Biomedical Engineering.  1 hour.</strong></p>
+<p class="courseblockdesc">
+Recent innovations in biomedical engineering theory and practice presented by invited speakers, faculty and graduate students. Students will present seminars and provide feedback. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Previously listed as BIOE 595.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 596.  Independent Study.  0-5 hours.</strong></p>
+<p class="courseblockdesc">
+Research on special problems not included in thesis research. Course Information: May be repeated. Students may register in more than one section per term. Previously listed as BIOE 596. Prerequisite(s): Consent of the instructor.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 598.  Masters Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research in M.S. thesis project. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. Previously listed as BIOE 598.<br/>
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>BME 599.  Ph.D. Thesis Research.  0-16 hours.</strong></p>
+<p class="courseblockdesc">
+Research in Ph.D. thesis project. Course Information: Satisfactory/Unsatisfactory grading only. May be repeated. Students may register in more than one section per term. Previously listed as BIOE 599.<br/>
+</p>
+</div></div></div><!--end #textcontainer -->
+
+
+
+            </div> <!-- end #content -->
+        </div><!--end #content-col -->
+    </div><!-- end #container -->
+</div><!-- end #wrapper --> 
+
+<div id="footer" class="clearfix" role="contentinfo">
+    <div class="wrap">
+        <div id="foot-logo">
+            <a href="/">University of Illinois at Chicago</a>
+        </div><!-- end #foot-logo -->
+        
+        <p><a href="http://admissions.uic.edu/apply-now">Apply Online</a> | <a href="http://admissions.uic.edu/contact-admissions">Contact Admissions</a> | <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a><br />
+        Having problems accessing this site? <a href="mailto:ccmelby@uic.edu">Contact the Webmaster</a>.<br />
+        &copy; 2020-2021 The Board of Trustees of the University of Illinois</p>
+    </div>
+</div><!-- end #footer -->
+
+<a href="#header" id="totop">Back to Top</a>
+
+<div id="print-dialog" aria-labeledby="dialog-title" class="screen" role="dialog">
+	<div class="print-header">
+		<h2 id="dialog-title">Print Options</h2>
+	</div>
+	<div class="print-body">
+		<div class="print-option">
+			<div class="option-head">
+				<a href="#" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a>
+			</div>
+			<p>
+				<em>Print this page.</em>
+			</p>
+		</div>
+<div class="print-option"><div class="option-head"><a class="option-name" href="/gcat/course-descriptions/bme/bme.pdf" role="button">Download Page (PDF)</a></div><p class="option-desc"><em>The PDF will include all information unique to this page.</em></p></div><div class="print-option"><div class="option-head"><a class="option-name" href="/pdf/2020-22-graduate.pdf" target="_blank">Download PDF of the entire Graduate Catalog</a></div><p class="option-desc"><em>All pages in the campus catalog.</em></p></div>    </div>
+	<div class="buttons clearfix">
+		<div class="cancel">
+			<a href="#" onclick="hidePrintDialog(); return false;">Cancel</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>
